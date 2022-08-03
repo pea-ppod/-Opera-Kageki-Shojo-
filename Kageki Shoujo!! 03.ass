@@ -17,9 +17,9 @@ Video File: ../../Kageki Shoujo!!/Kageki Shoujo!! 03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.525000
-Scroll Position: 328
-Active Line: 333
-Video Position: 33605
+Scroll Position: 344
+Active Line: 349
+Video Position: 33928
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,7 +66,7 @@ Dialogue: 0,0:02:36.59,0:02:38.40,Base,,0,0,0,,I wish I could change rooms.
 Dialogue: 0,0:02:38.40,0:02:39.57,Base,,0,0,0,,Wow.
 Dialogue: 0,0:02:40.78,0:02:42.50,Base,,0,0,0,,You've changed a little, Ai.
 Dialogue: 0,0:02:43.29,0:02:46.27,Base,,0,0,0,,You've never taken interest in other people.
-Dialogue: 0,0:02:46.71,0:02:48.06,Base,,0,0,0,,I'm not interested in her!
+Dialogue: 0,0:02:46.71,0:02:48.06,Base,,0,0,0,,I'm not interested in her.
 Dialogue: 0,0:02:48.82,0:02:53.15,Base,,0,0,0,,She just keeps forcing\Nherself into my life.
 Dialogue: 0,0:02:53.15,0:02:54.22,Base,,0,0,0,,She's so annoying.
 Dialogue: 0,0:02:54.22,0:02:58.95,Base,,0,0,0,,I don't know. It seems like\Nyou can't take your eyes off her.
@@ -89,13 +89,13 @@ Dialogue: 0,0:03:41.25,0:03:44.29,Base,,0,0,0,,Don't say that! We're friends, ar
 Dialogue: 0,0:03:47.46,0:03:48.67,Base,,0,0,0,,We're not friends.
 Dialogue: 0,0:03:59.59,0:04:07.21,Base,,0,0,0,,{\an8}"Hana no Michi: Flower Way"
 Dialogue: 0,0:04:03.89,0:04:06.72,Base,,0,0,0,,If I wait here, maybe I'll see Naracchi.
-Dialogue: 0,0:04:08.58,0:04:11.88,Base,,0,0,0,,But we're roommates!
+Dialogue: 0,0:04:08.58,0:04:11.88,Base,,0,0,0,,But we're roommates.
 Dialogue: 1,0:04:11.88,0:04:14.69,Base,,0,0,0,,I want to be friends with you!
 Dialogue: 0,0:04:15.75,0:04:19.16,Base,,0,0,0,,I don't really want to be\Nfriends with anyone.
 Dialogue: 0,0:04:19.26,0:04:20.01,Base,,0,0,0,,Huh?
 Dialogue: 0,0:04:20.46,0:04:25.12,Base,,0,0,0,,Dealing with people is annoying\Nand a waste of my time.
 Dialogue: 0,0:04:25.58,0:04:26.47,Base,,0,0,0,,No!
-Dialogue: 0,0:04:26.77,0:04:29.50,Base,,0,0,0,,Hey, you girls! No shouting in the halls!
+Dialogue: 0,0:04:26.77,0:04:29.50,Base,,0,0,0,,Hey, you girls. No shouting in the halls.
 Dialogue: 0,0:04:29.88,0:04:30.99,Base,,0,0,0,,Sorry.
 Dialogue: 0,0:04:31.83,0:04:32.62,Base,,0,0,0,,Let's go.
 Dialogue: 0,0:04:34.60,0:04:36.88,Base,,0,0,0,,{\i1}I don't need friends.{\i0}
@@ -107,7 +107,7 @@ Dialogue: 0,0:04:52.98,0:04:55.27,Base,,0,0,0,,{\an8}"Narata Family Memorial Eve
 Dialogue: 0,0:04:55.48,0:04:59.03,Base,,0,0,0,,My goodness, Ai,\Nyou just keep getting cuter!
 Dialogue: 0,0:04:59.03,0:05:01.70,Base,,0,0,0,,I can't tell which one of you is the doll.
 Dialogue: 0,0:05:02.01,0:05:04.01,Base,,0,0,0,,What a big teddy bear!
-Dialogue: 0,0:05:04.01,0:05:05.55,Base,,0,0,0,,My daddy bought it for me!
+Dialogue: 0,0:05:04.01,0:05:05.55,Base,,0,0,0,,My daddy bought it for me.
 Dialogue: 0,0:05:05.55,0:05:07.54,Base,,0,0,0,,Wow, really?
 Dialogue: 0,0:05:07.99,0:05:09.10,Base,,0,0,0,,{\i1}That's not true.{\i0}
 Dialogue: 0,0:05:09.10,0:05:13.13,Base,,0,0,0,,{\i1}That's just what my mom said,\Nso it's probably not true.{\i0}
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:39.02,0:06:43.21,Base,,0,0,0,,He might be your new daddy someda
 Dialogue: 0,0:06:45.28,0:06:47.23,Base,,0,0,0,,It's real nice to meet you, Ai.
 Dialogue: 0,0:06:47.23,0:06:48.47,Base,,0,0,0,,Hope we get along.
 Dialogue: 0,0:06:54.66,0:06:56.45,Base,,0,0,0,,It's nice to meet you, too.
-Dialogue: 0,0:06:56.45,0:07:01.32,Base,,0,0,0,,Mr. Seiji is such a nice guy, and he's\Ngonna live with us from here on out!
+Dialogue: 0,0:06:56.45,0:07:01.32,Base,,0,0,0,,Mr. Seiji is such a nice guy, and he's\Ngonna live with us from here on out.
 Dialogue: 0,0:07:01.54,0:07:02.22,Base,,0,0,0,,Huh?
 Dialogue: 0,0:07:02.83,0:07:06.59,Base,,0,0,0,,{\i1}My mom never told me where she met him,{\i0}
 Dialogue: 0,0:07:06.59,0:07:10.43,Base,,0,0,0,,{\i1}or what he did for a living.{\i0}
@@ -163,7 +163,7 @@ Dialogue: 0,0:08:08.15,0:08:09.33,Base,,0,0,0,,{\i1}All grown-ups are.{\i0}
 Dialogue: 0,0:08:10.19,0:08:12.71,Base,,0,0,0,,{\i1}They all know so much more than the children.{\i0}
 Dialogue: 0,0:08:12.71,0:08:14.66,Base,,0,0,0,,{\i1}They'd never be wrong.{\i0}
 Dialogue: 0,0:08:16.78,0:08:17.75,Base,,0,0,0,,Ai!
-Dialogue: 0,0:08:22.54,0:08:26.08,Base,,0,0,0,,I'm off to my one-week location shoot!
+Dialogue: 0,0:08:22.54,0:08:26.08,Base,,0,0,0,,I'm off to my one-week location shoot.
 Dialogue: 0,0:08:26.08,0:08:27.86,Base,,0,0,0,,Be good for Mr. Seiji, okay?
 Dialogue: 0,0:08:28.25,0:08:30.21,Base,,0,0,0,,Do your best at work.
 Dialogue: 0,0:08:31.76,0:08:34.47,Base,,0,0,0,,And, uh, come home soon, okay?
@@ -213,15 +213,15 @@ Dialogue: 0,0:11:38.86,0:11:42.78,Base,,0,0,0,,{\i1}Maybe if I tie my tummy real
 Dialogue: 0,0:11:46.70,0:11:48.33,Base,,0,0,0,,Mommy!
 Dialogue: 0,0:11:48.33,0:11:50.63,Base,,0,0,0,,What's wrong?\NI'm in the middle of a shoot.
 Dialogue: 0,0:11:50.91,0:11:53.38,Base,,0,0,0,,Please come home quickly!
-Dialogue: 0,0:11:53.38,0:11:56.97,Base,,0,0,0,,God, you've been such a baby lately!
+Dialogue: 0,0:11:53.38,0:11:56.97,Base,,0,0,0,,God, you've been such a baby lately.
 Dialogue: 0,0:11:57.09,0:11:58.80,Base,,0,0,0,,I'm scared of him!
 Dialogue: 0,0:11:58.80,0:12:01.55,Base,,0,0,0,,Of who? Mr. Seiji?
 Dialogue: 0,0:12:01.55,0:12:04.43,Base,,0,0,0,,He's always staring at me!
-Dialogue: 0,0:12:06.93,0:12:11.10,Base,,0,0,0,,And he waits for me\Nin front of my room! And he--
+Dialogue: 0,0:12:06.93,0:12:11.10,Base,,0,0,0,,And he waits for me\Nin front of my room! And he-
 Dialogue: 0,0:12:11.10,0:12:13.65,Base,,0,0,0,,Here's the thing, Ai.
 Dialogue: 0,0:12:13.65,0:12:17.59,Base,,0,0,0,,It's just girls being self-conscious is all.
 Dialogue: 0,0:12:18.28,0:12:20.61,Base,,0,0,0,,I have to go.
-Dialogue: 0,0:12:20.61,0:12:22.40,Base,,0,0,0,,But today he--
+Dialogue: 0,0:12:20.61,0:12:22.40,Base,,0,0,0,,But today he-
 Dialogue: 0,0:12:22.40,0:12:27.49,Base,,0,0,0,,Come on, Ai. What am I going to do\Nwith a little girl like you?
 Dialogue: 0,0:12:31.20,0:12:35.29,Base,,0,0,0,,{\i1}I actually knew everything all along.{\i0}
 Dialogue: 0,0:12:35.29,0:12:40.13,Base,,0,0,0,,{\i1}My mom wasn't working hard for me.{\i0}
@@ -231,11 +231,11 @@ Dialogue: 0,0:12:48.14,0:12:52.39,Base,,0,0,0,,{\i1}Because my mom's an actress,
 Dialogue: 0,0:12:52.39,0:12:56.44,Base,,0,0,0,,{\i1}if I'm not perfect, everyone will\Nstart gossiping about her.{\i0}
 Dialogue: 0,0:12:56.44,0:13:00.86,Base,,0,0,0,,{\i1}That's why I pretended to be\Na happy little girl.{\i0}
 Dialogue: 0,0:13:00.86,0:13:05.20,Base,,0,0,0,,{\i1}{\fad(0, 400)}I lied to everyone and stuffed\Nall those feelings down inside.{\i0}
-Dialogue: 0,0:13:05.82,0:13:09.20,Base,,0,0,0,,{\fad(0, 200)}I won't be lonely! I'll be okay!
-Dialogue: 0,0:13:10.37,0:13:14.09,Base,,0,0,0,,{\fad(0, 200)}My daddy got it for me!
+Dialogue: 0,0:13:05.82,0:13:09.20,Base,,0,0,0,,{\fad(0, 200)}I won't be lonely. I'll be okay.
+Dialogue: 0,0:13:10.37,0:13:14.09,Base,,0,0,0,,{\fad(0, 300)}My daddy got it for me!
 Dialogue: 0,0:13:14.83,0:13:18.59,Base,,0,0,0,,{\fad(0, 200)}Mommy! Hey, Mommy!
 Dialogue: 0,0:13:19.29,0:13:20.67,Base,,0,0,0,,{\fad(0, 170)}I love you!
-Dialogue: 0,0:13:22.34,0:13:26.13,Base,,0,0,0,,{\i1}{\fad(0, 350)}Now nobody can stuff\Nanything else inside me.{\i0}
+Dialogue: 0,0:13:22.34,0:13:26.13,Base,,0,0,0,,{\i1}{\fad(0, 450)}Now nobody can stuff\Nanything else inside me.{\i0}
 Dialogue: 0,0:13:38.56,0:13:40.11,Base,,0,0,0,,Ai, are you awake?
 Dialogue: 0,0:13:42.07,0:13:43.19,Base,,0,0,0,,I'm coming in, okay?
 Dialogue: 0,0:13:52.79,0:13:55.67,Base,,0,0,0,,What happened to your hair? Are you okay?
@@ -247,7 +247,7 @@ Dialogue: 0,0:14:26.53,0:14:28.07,Base,,0,0,0,,Thank you.
 Dialogue: 0,0:14:28.07,0:14:29.82,Base,,0,0,0,,I have one more thing for you.
 Dialogue: 0,0:14:31.20,0:14:32.48,Base,,0,0,0,,It's a lucky charm.
 Dialogue: 0,0:14:34.74,0:14:36.23,Base,,0,0,0,,A key to my house.
-Dialogue: 0,0:14:36.79,0:14:39.73,Base,,0,0,0,,If anything bad happens,\Nyou can run away to my place anytime.
+Dialogue: 0,0:14:36.79,0:14:39.73,Base,,0,0,0,,If anything bad happens,\Nrun away to my place anytime.
 Dialogue: 0,0:14:44.67,0:14:48.80,Base,,0,0,0,,{\i1}Years passed, and soon,\NI was in junior high.{\i0}
 Dialogue: 0,0:14:49.89,0:14:53.14,Base,,0,0,0,,{\i1}That man was still\Nleeching off of my family.{\i0}
 Dialogue: 0,0:14:53.14,0:14:56.77,Base,,0,0,0,,{\i1}The lock on my door\Nkept any danger at bay,{\i0}
@@ -309,7 +309,7 @@ Dialogue: 0,0:18:08.00,0:18:13.38,Base,,0,0,0,,Listen, your biggest audience is 
 Dialogue: 0,0:18:13.38,0:18:15.66,Base,,0,0,0,,And women have a shrewd eye.
 Dialogue: 0,0:18:16.34,0:18:19.62,Base,,0,0,0,,Kouka fans want a dreamlike fantasy!
 Dialogue: 0,0:18:20.01,0:18:22.20,Base,,0,0,0,,A beauty they could never hope to obtain!
-Dialogue: 0,0:18:23.22,0:18:26.67,Base,,0,0,0,,So {\i1}no fatties{\i0}. If you want to stay here,\Nyou're going to have to shed those pounds!
+Dialogue: 0,0:18:23.22,0:18:26.67,Base,,0,0,0,,So {\i1}no fatties{\i0}. \NIf you want to stay here, lose some weight!
 Dialogue: 0,0:18:31.48,0:18:33.55,Base,,0,0,0,,I think it's a matter of self-control.
 Dialogue: 0,0:18:33.73,0:18:36.51,Base,,0,0,0,,You're too easy on yourself, Yamada.
 Dialogue: 0,0:18:37.36,0:18:40.37,Base,,0,0,0,,Stop it! She's already crying!
@@ -322,8 +322,8 @@ Dialogue: 0,0:18:57.88,0:19:01.23,Base,,0,0,0,,{\i1}Why does she keep shoving he
 Dialogue: 0,0:19:02.01,0:19:04.51,Base,,0,0,0,,{\i1}It makes her even more annoying.{\i0}
 Dialogue: 0,0:19:06.98,0:19:07.83,Base,,0,0,0,,Excuse me.
 Dialogue: 0,0:19:14.11,0:19:16.99,Base,,0,0,0,,Do you remember me?
-Dialogue: 0,0:19:17.53,0:19:20.20,Base,,0,0,0,,{\an8}"Kouka School of\NMusical and Theatrical Arts"
-Dialogue: 0,0:19:18.74,0:19:20.20,Base,,0,0,0,,Watanabe,
+Dialogue: 0,0:19:17.55,0:19:19.76,Base,,0,0,0,,{\an8}"Kouka School of\NMusical and Theatrical Arts"
+Dialogue: 0,0:19:18.74,0:19:19.76,Base,,0,0,0,,Watanabe,
 Dialogue: 0,0:19:20.20,0:19:21.57,Base,,0,0,0,,have you seen Ai?
 Dialogue: 0,0:19:21.57,0:19:23.95,Base,,0,0,0,,I think she already went back to the dorm.
 Dialogue: 0,0:19:23.95,0:19:25.23,Base,,0,0,0,,All right.
@@ -347,7 +347,7 @@ Dialogue: 0,0:20:17.47,0:20:18.55,Base,,0,0,0,,Sure!
 Dialogue: 0,0:20:18.55,0:20:20.55,Base,,0,0,0,,Let's go, Ai!
 Dialogue: 0,0:20:24.04,0:20:27.04,Base,,0,0,0,,{\an8}"NOTICE: Due to increased traffic,\Nloitering and/or asking Kouka students for\Nautographs in this area is prohibited."
 Dialogue: 0,0:20:25.01,0:20:27.56,Base,,0,0,0,,I hear that singing a fun song can help
-Dialogue: 0,0:20:27.56,0:20:30.60,Base,,0,0,0,,when you're feeling scared!
+Dialogue: 0,0:20:27.56,0:20:30.29,Base,,0,0,0,,when you're feeling scared!
 Dialogue: 0,0:20:30.60,0:20:33.56,Base,,0,0,0,,I'll sing something for you, then!
 Dialogue: 0,0:20:33.56,0:20:41.82,Base,,0,0,0,,♬ Falling from the sky\Nlike white snow... ♬
 Dialogue: 0,0:20:47.24,0:20:49.79,Base,,0,0,0,,Let go, creep.
@@ -361,7 +361,7 @@ Dialogue: 0,0:21:34.00,0:21:34.84,Base,,0,0,0,,Go away.
 Dialogue: 0,0:21:37.75,0:21:39.99,Base,,0,0,0,,Don't come closer!
 Dialogue: 0,0:21:40.00,0:21:43.38,Base,,0,0,0,,Do you hate me 'cause I was mean to you?!
 Dialogue: 0,0:21:43.38,0:21:44.91,Base,,0,0,0,,Are you here to get back at me?!
-Dialogue: 0,0:21:45.01,0:21:47.05,Base,,0,0,0,,I just... I--!
+Dialogue: 0,0:21:45.01,0:21:46.62,Base,,0,0,0,,I just... I-
 Dialogue: 0,0:21:50.18,0:21:51.60,Base,,0,0,0,,Ai!
 Dialogue: 0,0:22:22.90,0:22:26.20,ED,,0,0,0,,{\fad(200,200)}{\blur9}I'll keep walking on the path
 Dialogue: 0,0:22:26.20,0:22:29.86,ED,,0,0,0,,{\fad(200,200)}{\blur9}that glows white in the darkness
@@ -379,5 +379,4 @@ Dialogue: 0,0:23:03.01,0:23:07.02,ED,,0,0,0,,{\fad(200,200)}{\blur9}high through
 Dialogue: 0,0:23:07.83,0:23:11.00,ED,,0,0,0,,{\fad(200,200)}{\blur9}Going around the constellations,
 Dialogue: 0,0:23:11.00,0:23:13.70,ED,,0,0,0,,{\fad(200,200)}{\blur9}and pursuing the stars
 Dialogue: 0,0:23:14.38,0:23:20.17,ED,,0,0,0,,{\fad(200,200)}{\blur9}we had just started this endless journey
-Dialogue: 0,0:21:50.16,0:21:53.16,Base,,0,0,0,,
 Dialogue: 0,0:23:35.04,0:23:39.96,Base,,0,0,0,,{\an8}"Act 4: Tears Overwritten"
