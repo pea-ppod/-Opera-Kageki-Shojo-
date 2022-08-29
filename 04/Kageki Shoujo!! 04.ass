@@ -18,9 +18,9 @@ Video File: ../../../Kageki Shoujo!!/Kageki Shoujo!! 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 363
-Active Line: 365
-Video Position: 33950
+Scroll Position: 81
+Active Line: 82
+Video Position: 8049
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,7 +115,7 @@ Dialogue: 0,0:05:22.11,0:05:24.10,Flashback,,0,0,0,,{\i1}I can just be myself.{\
 Dialogue: 0,0:05:26.82,0:05:28.38,Flashback,,0,0,0,,A fellow Naracchi stan?
 Dialogue: 0,0:05:30.83,0:05:33.85,Base,,0,0,0,,I made friends and started a part-time job.
 Dialogue: 0,0:05:34.19,0:05:37.19,Base,,0,0,0,,{\an8}"JPX48 Handshake Event"
-Dialogue: 0,0:05:34.50,0:05:37.87,Flashback,,0,0,0,,Please double-checking the number \Non your ticket before lining up!
+Dialogue: 0,0:05:34.50,0:05:37.87,Flashback,,0,0,0,,Please double-check the number \Non your ticket before lining up!
 Dialogue: 0,0:05:37.19,0:05:39.88,Base,,0,0,0,,{\an8}"Ai Narata"
 Dialogue: 0,0:05:37.87,0:05:41.34,Flashback,,0,0,0,,{\i1}How shall I express myself in such a limited time?{\i0}
 Dialogue: 0,0:05:41.34,0:05:45.13,Flashback,,0,0,0,,{\i1}Will I be able to convey my millions of feelings?{\i0}
