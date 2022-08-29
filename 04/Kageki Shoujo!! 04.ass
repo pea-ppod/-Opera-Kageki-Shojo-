@@ -17,8 +17,10 @@ Audio File: ../../../Kageki Shoujo!!/Kageki Shoujo!! 04.mkv
 Video File: ../../../Kageki Shoujo!!/Kageki Shoujo!! 04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 258
+Video Zoom Percent: 0.625000
+Scroll Position: 363
+Active Line: 365
+Video Position: 33950
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +59,7 @@ Dialogue: 0,0:02:14.30,0:02:16.64,Base,,0,0,0,,I left Watanabe with him.
 Dialogue: 0,0:02:17.55,0:02:22.87,Base,,0,0,0,,It's my fault Naracchi was forced to quit JPX.
 Dialogue: 0,0:02:22.89,0:02:25.38,Base,,0,0,0,,What do you mean by that?
 Dialogue: 0,0:02:28.52,0:02:33.15,Base,,0,0,0,,I'm not Ai, but if you want, I can hear you out.
-Dialogue: 0,0:02:33.15,0:02:34.86,Base,,0,0,0,,I mean, I {\i1}am {\i0}her room-
+Dialogue: 0,0:02:33.15,0:02:34.86,Base,,0,0,0,,I mean, I {\i1}am {\i0}her room--
 Dialogue: 0,0:02:34.86,0:02:37.07,Base,,0,0,0,,Alright! No sharing personal information!
 Dialogue: 0,0:02:37.07,0:02:39.68,Base,,0,0,0,,Mr. Narata?! What are you doing here?
 Dialogue: 0,0:02:41.24,0:02:44.58,Base,,0,0,0,,I wasn't going to let the two of you go by yourselves.
@@ -80,11 +82,11 @@ Dialogue: 0,0:03:40.92,0:03:41.88,Base - Top,,0,0,0,,Thanks.
 Dialogue: 0,0:03:41.88,0:03:44.33,Base,,0,0,0,,What, Mr. Narata's there, too?
 Dialogue: 0,0:03:42.88,0:03:44.33,Base - Top,,0,0,0,,Thank you!
 Dialogue: 0,0:03:50.06,0:03:51.52,Base,,0,0,0,,Um,
-Dialogue: 0,0:03:51.52,0:03:55.15,Base,,0,0,0,,I used to be an unemployed shut-in\Nwho never left the house.
+Dialogue: 0,0:03:51.52,0:03:55.15,Base,,0,0,0,,I used to be an unemployed shut-in.
 Dialogue: 0,0:03:55.15,0:03:56.57,Base,,0,0,0,,Wow, Mister Shut-In!
 Dialogue: 0,0:03:57.23,0:04:02.31,Base,,0,0,0,,I was never good with people,\Nso I started ditching school.
 Dialogue: 0,0:04:02.74,0:04:06.81,Base,,0,0,0,,I spent every day watching anime,\Nplaying games, and browsing the internet.
-Dialogue: 0,0:04:06.99,0:04:10.50,Base,,0,0,0,,I love anime, too!\NI'm super into {\i1}Floor Kings {\i0}right no-
+Dialogue: 0,0:04:06.99,0:04:10.50,Base,,0,0,0,,I love anime, too!\NI'm super into {\i1}Floor Kings {\i0}right no--
 Dialogue: 0,0:04:10.50,0:04:13.00,Base,,0,0,0,,C'mon, let him talk.
 Dialogue: 0,0:04:13.00,0:04:13.94,Base,,0,0,0,,Sorry!
 Dialogue: 0,0:04:15.04,0:04:16.15,Base,,0,0,0,,One day,
@@ -122,14 +124,14 @@ Dialogue: 0,0:05:52.10,0:05:53.52,Flashback,,0,0,0,,{\i1}I have to tell you!
 Dialogue: 0,0:05:59.52,0:06:01.38,Flashback,,0,0,0,,I-I...
 Dialogue: 0,0:06:01.61,0:06:03.34,Flashback,,0,0,0,,Naracchi, I...
 Dialogue: 0,0:06:03.78,0:06:04.70,Flashback,,0,0,0,,I love you so much!
-Dialogue: 0,0:06:04.70,0:06:05.34,Flashback,,0,0,0,,Hey, sir-
+Dialogue: 0,0:06:04.70,0:06:05.34,Flashback,,0,0,0,,Hey, sir...
 Dialogue: 0,0:06:05.69,0:06:07.81,Flashback,,0,0,0,,Let go, creep.
 Dialogue: 0,0:06:10.82,0:06:12.70,Base,,0,0,0,,It took so long to crawl my way up,
 Dialogue: 0,0:06:12.70,0:06:14.90,Base,,0,0,0,,but only a second to fall back into the abyss.
 Dialogue: 0,0:06:15.87,0:06:17.40,Base,,0,0,0,,That's when I remembered.
 Dialogue: 0,0:06:17.65,0:06:20.67,Base,,0,0,0,,"Yeah, I'm just a gross nerd."
 Dialogue: 0,0:06:20.67,0:06:23.67,Base,,0,0,0,,It's not your fault at all, Mister Gross Nerd!
-Dialogue: 0,0:06:23.67,0:06:26.88,Base,,0,0,0,,You poor guy! Cheer up, Mister Gross Otaku!
+Dialogue: 0,0:06:23.67,0:06:26.88,Base,,0,0,0,,You poor guy! Cheer up, Mister Gross Nerd!
 Dialogue: 0,0:06:26.88,0:06:29.47,Base,,0,0,0,,N-No, you don't need to worry about me.
 Dialogue: 0,0:06:29.47,0:06:33.37,Base,,0,0,0,,But to make up for it,
 Dialogue: 0,0:06:33.37,0:06:36.17,Base,,0,0,0,,Naracchi was forced to graduate without any ceremony.
@@ -175,7 +177,7 @@ Dialogue: 0,0:08:36.68,0:08:37.21,Base,,0,0,0,,Huh?
 Dialogue: 0,0:08:38.13,0:08:39.17,Base,,0,0,0,,Excuse me!
 Dialogue: 0,0:08:43.13,0:08:44.20,Base,,0,0,0,,What a great pic.
 Dialogue: 0,0:08:45.31,0:08:48.05,Base,,0,0,0,,Now, what should I do with it?
-Dialogue: 0,0:08:52.78,0:08:54.93,Base,,0,0,0,,{\i1}She's not here. What do I do?.{\i0}
+Dialogue: 0,0:08:52.78,0:08:54.93,Base,,0,0,0,,{\i1}She's not here. What do I do?{\i0}
 Dialogue: 0,0:08:55.53,0:08:57.42,Base,,0,0,0,,{\i1}What if he did something to her?{\i0}
 Dialogue: 0,0:09:05.54,0:09:06.15,Base,,0,0,0,,What?
 Dialogue: 0,0:09:14.22,0:09:16.38,Base,,0,0,0,,You're not half bad.
@@ -282,7 +284,7 @@ Dialogue: 0,0:15:15.49,0:15:21.00,Base,,0,0,0,,Oh, no. If this gets out, I'm sur
 Dialogue: 0,0:15:21.00,0:15:24.29,Base,,0,0,0,,But I guess your boyfriend is worth it.
 Dialogue: 0,0:15:24.32,0:15:27.59,Base,,0,0,0,,He's not my boyfriend, though.
 Dialogue: 0,0:15:29.17,0:15:33.26,Base,,0,0,0,,Um, can we continue this later?
-Dialogue: 0,0:15:33.26,0:15:34.72,Base,,0,0,0,,Where are you going?
+Dialogue: 0,0:15:33.26,0:15:34.72,Base,,0,0,0,,Hey, where are you going?
 Dialogue: 0,0:15:34.72,0:15:37.02,Base,,0,0,0,,I just remembered something important I gotta do!
 Dialogue: 0,0:15:37.02,0:15:38.25,Base,,0,0,0,,Don't you dare go!
 Dialogue: 0,0:15:39.10,0:15:40.27,Base,,0,0,0,,It was you, wasn't it?
@@ -339,18 +341,18 @@ Dialogue: 0,0:18:08.12,0:18:09.94,Base,,0,0,0,,Wait, that's the wrong guy!
 Dialogue: 0,0:18:12.50,0:18:14.84,Base,,0,0,0,,You're a teacher at Kouka?
 Dialogue: 0,0:18:14.84,0:18:18.20,Base,,0,0,0,,Yes. My name is Narata Taichi.
 Dialogue: 0,0:18:18.68,0:18:21.20,Base,,0,0,0,,How did you know I was here?
-Dialogue: 0,0:18:21.39,0:18:24.43,Base,,0,0,0,,Mister Creepy Nerd figured it out!
+Dialogue: 0,0:18:21.39,0:18:24.43,Base,,0,0,0,,Mister Creepy Nerd figured it out.
 Dialogue: 0,0:18:24.43,0:18:26.96,Base,,0,0,0,,I got his number before he left.
-Dialogue: 0,0:18:27.23,0:18:30.31,Base,,0,0,0,,The ocean! She's gotta be near the ocean!
-Dialogue: 0,0:18:30.31,0:18:31.15,Base,,0,0,0,,Why?
-Dialogue: 0,0:18:31.15,0:18:36.11,Base,,0,0,0,,March 2018 issue of POCO mag\Nand the JPX official newsletter,
-Dialogue: 0,0:18:36.11,0:18:38.22,Base,,0,0,0,,she said the ocean makes her feel calm!
-Dialogue: 0,0:18:39.57,0:18:42.06,Base,,0,0,0,,That doesn't really\Nnarrow it down, though.
-Dialogue: 0,0:18:42.12,0:18:44.96,Base,,0,0,0,,I'll do a search on social media!
-Dialogue: 0,0:18:45.79,0:18:49.96,Base,,0,0,0,,This is bad. I gotta find her...\NI gotta find her, fast!
+Dialogue: 0,0:18:27.23,0:18:30.31,Flashback,,0,0,0,,The ocean! She's gotta be near the ocean!
+Dialogue: 0,0:18:30.31,0:18:31.15,Flashback,,0,0,0,,Why?
+Dialogue: 0,0:18:31.15,0:18:36.11,Flashback,,0,0,0,,March 2018 issue of POCO mag\Nand the JPX official newsletter,
+Dialogue: 0,0:18:36.11,0:18:38.22,Flashback,,0,0,0,,she said the ocean makes her feel calm!
+Dialogue: 0,0:18:39.57,0:18:42.06,Flashback,,0,0,0,,That doesn't really narrow it down, though.
+Dialogue: 0,0:18:42.12,0:18:44.96,Flashback,,0,0,0,,I'll do a search on social media!
+Dialogue: 0,0:18:45.79,0:18:49.96,Flashback,,0,0,0,,This is bad. I gotta find her...\NI gotta find her, fast!
 Dialogue: 0,0:18:49.96,0:18:52.81,Base,,0,0,0,,And then he really {\i1}did {\i0}find you!
-Dialogue: 0,0:18:52.81,0:18:53.83,Base,,0,0,0,,Isn't that awesome?!
-Dialogue: 0,0:18:54.59,0:18:58.80,Base,,0,0,0,,Mister Creepy Nerd really\Ncares about you, Ai.
+Dialogue: 0,0:18:52.81,0:18:53.83,Base,,0,0,0,,Isn't that awesome?
+Dialogue: 0,0:18:54.59,0:18:58.80,Base,,0,0,0,,Mister Creepy Nerd really cares about you, Ai.
 Dialogue: 0,0:19:00.64,0:19:03.35,Base,,0,0,0,,Watanabe, could you tell them your side of the story?
 Dialogue: 0,0:19:03.35,0:19:04.29,Base,,0,0,0,,Sure!
 Dialogue: 0,0:19:12.06,0:19:12.71,Base,,0,0,0,,Huh?
@@ -366,7 +368,7 @@ Dialogue: 0,0:20:06.99,0:20:09.69,Base,,0,0,0,,to see you smile, Naracchi.
 Dialogue: 0,0:20:10.46,0:20:14.13,Base,,0,0,0,,I don't think I'll ever get this close to you again,
 Dialogue: 0,0:20:14.13,0:20:16.97,Base,,0,0,0,,so please let me keep your handkerchief.
 Dialogue: 0,0:20:17.67,0:20:21.17,Base,,0,0,0,,I'm sorry for scaring you before.
-Dialogue: 0,0:20:21.17,0:20:24.79,Base,,0,0,0,,One day, I'll come see you perform\Non the big Kouka stage.
+Dialogue: 0,0:20:21.17,0:20:24.79,Base,,0,0,0,,One day, I'll come see you perform on the big Kouka stage.
 Dialogue: 0,0:20:25.18,0:20:28.77,Base,,0,0,0,,When that day comes, \NI hope I'll see your beautiful smile once more.
 Dialogue: 0,0:20:28.77,0:20:30.14,Base,,0,0,0,,Farewell.
 Dialogue: 0,0:20:37.82,0:20:39.63,Base,,0,0,0,,And thank you. Until we meet again!
@@ -383,7 +385,7 @@ Dialogue: 0,0:21:19.02,0:21:23.86,Base,,0,0,0,,you can make new memories by havi
 Dialogue: 0,0:21:23.86,0:21:27.95,Base,,0,0,0,,Just keep overwriting the bad memories \Nwith lots of good ones,
 Dialogue: 0,0:21:27.95,0:21:31.65,Base,,0,0,0,,and eventually, the bad ones will fade away.
 Dialogue: 0,0:21:32.50,0:21:36.71,Base,,0,0,0,,{\i1}Because I was walking behind her,{\i0}
-Dialogue: 0,0:21:36.71,0:21:39.30,Base,,0,0,0,,{\i1}I couldn't see the expression\Non her face when she said that.{\i0}
+Dialogue: 0,0:21:36.71,0:21:39.30,Base,,0,0,0,,{\i1}I couldn't see the expression on her face when she said that.{\i0}
 Dialogue: 0,0:21:40.00,0:21:43.42,Base,,0,0,0,,{\i1}When we got back, the second-years were waiting for us.{\i0}
 Dialogue: 0,0:21:43.42,0:21:49.75,Base,,0,0,0,,{\i1}For the following week, \NWatanabe and I had our cleaning hours doubled.{\i0}
 Dialogue: 0,0:22:22.78,0:22:29.64,ED,,0,0,0,,{\fad(200,200)}{\blur9}Try opening that tightly and strongly clenched fist
