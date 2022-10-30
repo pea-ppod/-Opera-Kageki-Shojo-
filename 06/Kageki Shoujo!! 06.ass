@@ -12,31 +12,31 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Source/opera girl/vcb/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [06][Ma10p_1080p][x265_flac].mkv
-Video File: ../../../Source/opera girl/vcb/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [06][Ma10p_1080p][x265_flac].mkv
+Audio File: ../../../Source/opera girl/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [Ma10p_1080p]/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [06][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../Source/opera girl/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [Ma10p_1080p]/[Nekomoe kissaten&VCB-Studio] Kageki Shojo!! [06][Ma10p_1080p][x265_flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 10
-Video Position: 2330
+Scroll Position: 419
+Active Line: 420
+Video Position: 34045
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Base,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,130,139,69,1
 Style: OP,Morning Signature,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3,0,2,10,10,6,1
-Style: Base - Top,Fontin Sans,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Base - Top,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
 Style: ED,Fondamento,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,15,1
 Style: Flashback,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H0039011E,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
 Style: Flashback - Top,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H0039011E,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.79,0:00:04.87,Base,,0,0,0,,Since we got here it's just been\N"basics, basics, basics"!
+Dialogue: 0,0:00:01.79,0:00:04.41,Base,,0,0,0,,Since we got here it's just been\N"basics, basics, basics"!
 Dialogue: 0,0:00:04.87,0:00:08.80,Base,,0,0,0,,That's all we've done, every single class\Nsince we started here!
-Dialogue: 0,0:00:08.80,0:00:11.34,Base,,0,0,0,,And the Phantom's class is the worst!
-Dialogue: 0,0:00:11.34,0:00:13.84,Base,,0,0,0,,We could ask for something different.
-Dialogue: 0,0:00:13.84,0:00:15.51,Base,,0,0,0,,Let's ask Andou-sensei!
+Dialogue: 0,0:00:08.80,0:00:11.04,Base,,0,0,0,,And the Phantom's class is the worst!
+Dialogue: 0,0:00:11.34,0:00:13.04,Base,,0,0,0,,We could ask for something different.
+Dialogue: 0,0:00:13.84,0:00:15.04,Base,,0,0,0,,Let's ask Andou-sensei!
 Dialogue: 0,0:00:32.24,0:00:37.49,OP,,0,0,0,,{\fad(200,200)}{\blur9}Everyone dreams of becoming a superstar at least once
 Dialogue: 0,0:00:37.49,0:00:42.77,OP,,0,0,0,,{\fad(200,200)}{\blur9}So that you can make the world envious
 Dialogue: 0,0:00:42.77,0:00:45.52,OP,,0,0,0,,{\fad(200,200)}{\blur9}1, 2, 3, quick like Allegro
@@ -50,406 +50,406 @@ Dialogue: 0,0:01:14.39,0:01:20.31,OP,,0,0,0,,{\fad(200,200)}{\blur9}Tomorrow's g
 Dialogue: 0,0:01:20.31,0:01:24.23,OP,,0,0,0,,{\fad(200,200)}{\blur9}So dream as many times as you want
 Dialogue: 0,0:01:24.23,0:01:29.71,OP,,0,0,0,,{\fad(200,200)}{\blur9}Someday, become the stage's sparkling star
 Dialogue: 0,0:01:29.71,0:01:34.92,OP,,0,0,0,,{\fad(200,200)}{\blur9}so that the spotlight shines upon you
-Dialogue: 0,0:01:46.77,0:01:47.48,Base,,0,0,0,,{\an8}"A Glimpse of Stardom"
-Dialogue: 0,0:01:47.48,0:01:50.44,Base,,0,0,0,,{\an8}"A Glimpse of Stardom"
-Dialogue: 0,0:01:47.48,0:01:50.44,Base,,0,0,0,,Today, we'll be talking about the\NStanislavski technique and how to--
-Dialogue: 0,0:01:50.44,0:01:54.11,Base,,0,0,0,,Today, we'll be talking about the\NStanislavski technique and how to--
-Dialogue: 0,0:01:54.11,0:01:58.99,Base,,0,0,0,,Why do you all look dead?
+Dialogue: 0,0:01:46.77,0:01:50.44,Base,,0,0,0,,{\an8\pos(1575,801)}"A Glimpse of Stardom"
+Dialogue: 0,0:01:47.48,0:01:53.12,Base - Top,,0,0,0,,Today, we'll be talking about the\NStanislavski technique and how to--
+Dialogue: 0,0:01:54.11,0:01:58.13,Base,,0,0,0,,Why do you all look dead?
 Dialogue: 0,0:01:58.99,0:02:02.20,Base,,0,0,0,,Andou-sensei! Can I make a suggestion?
 Dialogue: 0,0:02:02.20,0:02:03.12,Base,,0,0,0,,She's doing it.
-Dialogue: 0,0:02:03.12,0:02:05.29,Base,,0,0,0,,She's actually asking.
-Dialogue: 0,0:02:05.29,0:02:08.25,Base,,0,0,0,,What are you girls plotting?
-Dialogue: 0,0:02:08.25,0:02:09.92,Base,,0,0,0,,Shoot, Watanabe.
+Dialogue: 0,0:02:03.12,0:02:04.99,Base,,0,0,0,,She's actually asking.
+Dialogue: 0,0:02:05.29,0:02:07.58,Base,,0,0,0,,What are you girls plotting?
+Dialogue: 0,0:02:08.25,0:02:09.62,Base,,0,0,0,,Shoot, Watanabe.
 Dialogue: 0,0:02:09.92,0:02:10.96,Base,,0,0,0,,Thanks!
-Dialogue: 0,0:02:10.96,0:02:16.96,Base,,0,0,0,,So, there's one crucial skill that\Nevery other teacher has mentioned to us.
+Dialogue: 0,0:02:10.96,0:02:16.37,Base,,0,0,0,,So, there's one crucial skill that\Nevery other teacher has mentioned to us.
 Dialogue: 0,0:02:16.96,0:02:18.55,Base,,0,0,0,,Expression!
 Dialogue: 0,0:02:19.55,0:02:21.09,Base,,0,0,0,,Expression.
-Dialogue: 0,0:02:21.84,0:02:23.81,Base,,0,0,0,,{\i1}Expression!{\i0}
-Dialogue: 0,0:02:23.81,0:02:28.23,Base,,0,0,0,,I knew who every teacher was\Nwithout her even saying their names.
-Dialogue: 0,0:02:28.23,0:02:29.06,Base,,0,0,0,,And?
+Dialogue: 0,0:02:21.84,0:02:23.38,Base,,0,0,0,,{\i1}Expression!{\i0}
+Dialogue: 0,0:02:23.81,0:02:27.97,Base,,0,0,0,,I knew who every teacher was\Nwithout her even saying their names.
+Dialogue: 0,0:02:28.23,0:02:28.97,Base,,0,0,0,,And?
 Dialogue: 0,0:02:29.06,0:02:32.44,Base,,0,0,0,,{\i1}And {\i0}I believe the one class\Nwhere we'll learn
-Dialogue: 0,0:02:32.44,0:02:35.57,Base,,0,0,0,,{\i1}how {\i0}to express ourselves is this one.
+Dialogue: 0,0:02:32.44,0:02:34.97,Base,,0,0,0,,{\i1}how {\i0}to express ourselves is this one.
 Dialogue: 0,0:02:35.57,0:02:37.74,Base,,0,0,0,,We've been Kouka students for four months,
 Dialogue: 0,0:02:37.74,0:02:41.53,Base,,0,0,0,,so we think it might be nice if we, well,
-Dialogue: 0,0:02:41.53,0:02:45.20,Base,,0,0,0,,had a little opportunity to actually {\i1}act{\i0}.
+Dialogue: 0,0:02:41.53,0:02:44.48,Base,,0,0,0,,had a little opportunity to actually {\i1}act{\i0}.
 Dialogue: 0,0:02:49.75,0:02:51.92,Base,,0,0,0,,Is that your suggestion?
-Dialogue: 0,0:02:51.92,0:02:58.42,Base,,0,0,0,,Well, I've been here eight years, and the\Nfirst-year's curriculum has never changed.
+Dialogue: 0,0:02:51.92,0:02:57.75,Base,,0,0,0,,Well, I've been here eight years, and the\Nfirst-year's curriculum has never changed.
 Dialogue: 0,0:02:58.42,0:03:02.89,Base,,0,0,0,,First-year students are expected to sit\Npolitely and learn the basics of acting.
-Dialogue: 0,0:03:02.89,0:03:06.47,Base,,0,0,0,,That's how it's been done at\Nthe Kouka School for a century now.
+Dialogue: 0,0:03:02.89,0:03:06.01,Base,,0,0,0,,That's how it's been done at\Nthe Kouka School for a century now.
 Dialogue: 0,0:03:06.47,0:03:10.60,Base,,0,0,0,,But here's an idea, Watanabe!\NDo that again.
 Dialogue: 0,0:03:10.60,0:03:11.56,Base,,0,0,0,,Huh?
 Dialogue: 0,0:03:11.56,0:03:14.94,Base,,0,0,0,,Show me what I sound like\Nwhen I say "expression."
-Dialogue: 0,0:03:14.94,0:03:17.94,Base,,0,0,0,,If I think it's good,\NI'll consider your suggestion.
+Dialogue: 0,0:03:14.94,0:03:17.64,Base,,0,0,0,,If I think it's good,\NI'll consider your suggestion.
 Dialogue: 0,0:03:19.19,0:03:21.65,Base,,0,0,0,,Those are high stakes!
-Dialogue: 0,0:03:21.65,0:03:25.28,Base,,0,0,0,,Got a lot of pressure on me,\Nbut here goes...
-Dialogue: 0,0:03:27.66,0:03:30.79,Base,,0,0,0,,Expression? What's that,\Nsome hot new band?
-Dialogue: 0,0:03:33.00,0:03:36.34,Base,,0,0,0,,Okay, open your textbooks.
+Dialogue: 0,0:03:21.65,0:03:24.90,Base,,0,0,0,,Got a lot of pressure on me,\Nbut here goes...
+Dialogue: 0,0:03:27.66,0:03:30.28,Base,,0,0,0,,Expression? What's that,\Nsome hot new band?
+Dialogue: 0,0:03:33.00,0:03:35.27,Base,,0,0,0,,Okay, open your textbooks.
 Dialogue: 0,0:03:36.34,0:03:37.63,Base,,0,0,0,,That's it.
-Dialogue: 0,0:03:37.63,0:03:39.84,Base,,0,0,0,,So much for that.
-Dialogue: 0,0:03:39.84,0:03:42.55,Base,,0,0,0,,Sorry I couldn't help.
-Dialogue: 0,0:03:42.55,0:03:43.84,Base,,0,0,0,,Actually, Sara--
-Dialogue: 0,0:03:44.84,0:03:48.39,Base,,0,0,0,,Watanabe-san, that was a good\Nimpression of Andou-sensei.
+Dialogue: 0,0:03:37.63,0:03:38.87,Base,,0,0,0,,So much for that.
+Dialogue: 0,0:03:39.84,0:03:42.13,Base,,0,0,0,,Sorry I couldn't help.
+Dialogue: 0,0:03:42.55,0:03:43.43,Base,,0,0,0,,Actually, Sara--
+Dialogue: 0,0:03:44.84,0:03:48.01,Base,,0,0,0,,Watanabe-san, that was a good\Nimpression of Andou-sensei.
 Dialogue: 0,0:03:48.39,0:03:49.60,Base,,0,0,0,,It so was!
-Dialogue: 0,0:03:49.60,0:03:52.52,Base,,0,0,0,,Maybe it was {\i1}too {\i0}good.
-Dialogue: 0,0:03:54.27,0:03:56.65,Base,,0,0,0,,Oh, Watanabe-san!
-Dialogue: 0,0:03:56.65,0:03:59.53,Base,,0,0,0,,There's a package here for you.
+Dialogue: 0,0:03:49.60,0:03:52.07,Base,,0,0,0,,Maybe it was {\i1}too {\i0}good.
+Dialogue: 0,0:03:54.27,0:03:56.10,Base,,0,0,0,,Oh, Watanabe-san!
+Dialogue: 0,0:03:56.65,0:03:59.02,Base,,0,0,0,,There's a package here for you.
 Dialogue: 0,0:04:02.15,0:04:05.78,Base,,0,0,0,,13, 14, 15, 16 roses.
 Dialogue: 0,0:04:05.78,0:04:08.53,Base,,0,0,0,,Sara-- Watanabe-san, is today...
-Dialogue: 0,0:04:08.53,0:04:12.08,Base,,0,0,0,,Yep! I turn 16 years old today!
+Dialogue: 0,0:04:08.53,0:04:12.03,Base,,0,0,0,,Yep! I turn 16 years old today!
 Dialogue: 0,0:04:12.08,0:04:13.33,Base,,0,0,0,,Huh?!
 Dialogue: 0,0:04:13.33,0:04:15.04,Base,,0,0,0,,Today's your birthday?!
-Dialogue: 0,0:04:15.04,0:04:17.09,Base,,0,0,0,,Why didn't you tell us?!
+Dialogue: 0,0:04:15.04,0:04:16.74,Base,,0,0,0,,Why didn't you tell us?!
 Dialogue: 0,0:04:17.09,0:04:18.71,Base,,0,0,0,,Happy birthday!
-Dialogue: 0,0:04:18.71,0:04:21.59,Base,,0,0,0,,Aww, thanks!
-Dialogue: 0,0:04:21.59,0:04:25.18,Base,,0,0,0,,My first friend's birthday is today...
-Dialogue: 0,0:04:25.18,0:04:28.72,Base,,0,0,0,,So who gave you this bouquet of roses?
+Dialogue: 0,0:04:18.71,0:04:20.58,Base,,0,0,0,,Aww, thanks!
+Dialogue: 0,0:04:21.59,0:04:25.04,Base,,0,0,0,,My first friend's birthday is today...
+Dialogue: 0,0:04:25.18,0:04:28.38,Base,,0,0,0,,So who gave you this bouquet of roses?
 Dialogue: 0,0:04:28.72,0:04:30.43,Base,,0,0,0,,Is it a guy?!
-Dialogue: 0,0:04:30.43,0:04:32.10,Base,,0,0,0,,Ohmigosh, your boyfriend?!
-Dialogue: 0,0:04:32.10,0:04:35.98,Base,,0,0,0,,Maybe! He lives in Tokyo,\Nso we're long-distance right now,
-Dialogue: 0,0:04:35.98,0:04:38.02,Base,,0,0,0,,but it could be him!
+Dialogue: 0,0:04:30.43,0:04:31.88,Base,,0,0,0,,Ohmigosh, your boyfriend?!
+Dialogue: 0,0:04:32.10,0:04:35.64,Base,,0,0,0,,Maybe! He lives in Tokyo,\Nso we're long-distance right now,
+Dialogue: 0,0:04:35.98,0:04:37.51,Base,,0,0,0,,but it could be him!
 Dialogue: 0,0:04:40.36,0:04:42.32,Base,,0,0,0,,A-And he's a real, live person?
-Dialogue: 0,0:04:42.32,0:04:43.82,Base,,0,0,0,,Not some anime guy?
-Dialogue: 0,0:04:43.82,0:04:48.53,Base,,0,0,0,,Is that the person\Nyou're always messaging?
-Dialogue: 0,0:04:51.87,0:04:52.08,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
-Dialogue: 0,0:04:52.08,0:04:55.33,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
-Dialogue: 0,0:04:52.08,0:04:55.33,Base,,0,0,0,,What the hell? That's kind of creepy.
-Dialogue: 0,0:04:55.33,0:05:00.13,Base,,0,0,0,,Sara-- Watanabe-san, does your boyfriend\Nlike these sorts of gestures?
+Dialogue: 0,0:04:42.32,0:04:43.35,Base,,0,0,0,,Not some anime guy?
+Dialogue: 0,0:04:43.82,0:04:48.07,Base,,0,0,0,,Is that the person\Nyou're always messaging?
+Dialogue: 0,0:04:51.90,0:04:55.16,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
+Dialogue: 0,0:04:52.08,0:04:55.16,Base,,0,0,0,,What the hell? That's kind of creepy.
+Dialogue: 0,0:04:55.33,0:04:59.10,Base,,0,0,0,,Sara-- Watanabe-san, does your boyfriend\Nlike these sorts of gestures?
 Dialogue: 0,0:05:00.13,0:05:02.63,Base,,0,0,0,,That's hard to say.
-Dialogue: 0,0:05:02.63,0:05:05.13,Base,,0,0,0,,{\an8}"Kouzaburou"
-Dialogue: 0,0:05:05.43,0:05:07.80,Base,,0,0,0,,You sure are in a good mood.
-Dialogue: 0,0:05:07.80,0:05:13.64,Base,,0,0,0,,Why wouldn't I be?\NIt's my darling Sarasa's 16th birthday.
+Dialogue: 0,0:05:02.66,0:05:05.15,Base,,0,0,0,,{\an8}"Kouzaburou"
+Dialogue: 0,0:05:05.43,0:05:07.67,Base,,0,0,0,,You sure are in a good mood.
+Dialogue: 0,0:05:07.80,0:05:13.07,Base,,0,0,0,,Why wouldn't I be?\NIt's my darling Sarasa's 16th birthday.
 Dialogue: 0,0:05:13.64,0:05:16.06,Base,,0,0,0,,You knew that, right, Akiya?
 Dialogue: 0,0:05:16.06,0:05:17.40,Base,,0,0,0,,Of course I did!
-Dialogue: 0,0:05:17.40,0:05:23.07,Base,,0,0,0,,So, did you send her a present?\NYou {\i1}are {\i0}her boyfriend, right?
-Dialogue: 0,0:05:23.07,0:05:27.66,Base,,0,0,0,,I'm gonna give it to her\Nwhen she comes home this summer.
-Dialogue: 0,0:05:27.66,0:05:34.00,Base,,0,0,0,,C'mon, where's your passion?\NI sent her a bouquet of 16 roses.
+Dialogue: 0,0:05:17.40,0:05:22.81,Base,,0,0,0,,So, did you send her a present?\NYou {\i1}are {\i0}her boyfriend, right?
+Dialogue: 0,0:05:23.07,0:05:27.44,Base,,0,0,0,,I'm gonna give it to her\Nwhen she comes home this summer.
+Dialogue: 0,0:05:27.66,0:05:33.74,Base,,0,0,0,,C'mon, where's your passion?\NI sent her a bouquet of 16 roses.
 Dialogue: 0,0:05:34.00,0:05:37.29,Base,,0,0,0,,She's so incredibly special to me.
 Dialogue: 0,0:05:37.29,0:05:40.00,Base,,0,0,0,,And this is her special day.
 Dialogue: 0,0:05:40.00,0:05:41.67,Base,,0,0,0,,Wait... hold on.
 Dialogue: 0,0:05:41.67,0:05:46.13,Base,,0,0,0,,Don't worry, I didn't say it was from me.
-Dialogue: 0,0:05:46.13,0:05:47.22,Base,,0,0,0,,I said it was from\Nher "fan of the red rose."
-Dialogue: 0,0:05:47.22,0:05:49.89,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
-Dialogue: 0,0:05:47.22,0:05:49.89,Base,,0,0,0,,I said it was from\Nher "fan of the red rose."
-Dialogue: 0,0:05:49.89,0:05:52.26,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
-Dialogue: 0,0:05:49.89,0:05:52.26,Base,,0,0,0,,Her fan of the red rose?
-Dialogue: 0,0:05:52.26,0:05:57.44,Base,,0,0,0,,Forget summer vacation. Why not just\Nsend her something now?
-Dialogue: 0,0:05:57.44,0:06:01.27,Base,,0,0,0,,I'll send her a text message tonight.
-Dialogue: 0,0:06:01.27,0:06:04.53,Base,,0,0,0,,You gonna stop by her grandpa's\Nplace tonight again?
-Dialogue: 0,0:06:04.53,0:06:06.61,Base,,0,0,0,,Yeah, that's the plan.
-Dialogue: 0,0:06:08.99,0:06:11.49,Base,,0,0,0,,{\an8}"Happy Birthday, Sarasa-chan! I'll give you\Nyour present over summer break!"
-Dialogue: 0,0:06:12.91,0:06:17.08,Base,,0,0,0,,Her boyfriend's a frog? And a bot at that.
-Dialogue: 0,0:06:17.08,0:06:19.37,Base,,0,0,0,,But why does a bot have a private account?
-Dialogue: 0,0:06:22.63,0:06:24.55,Base,,0,0,0,,I won't let that frog outdo me.
-Dialogue: 0,0:06:24.55,0:06:28.72,Base,,0,0,0,,I wanna give Watanabe-san something\Nshe'll love even more than those roses.
-Dialogue: 0,0:06:28.72,0:06:32.26,Base,,0,0,0,,After all, she's the first\Nfriend I ever made.
+Dialogue: 0,0:05:46.13,0:05:49.89,Base,,0,0,0,,I said it was from\Nher "fan of the red rose."
+Dialogue: 0,0:05:47.23,0:05:52.01,Base,,0,0,0,,{\an8}"Happy Birthday"\N"from your fan of the red rose"
+Dialogue: 0,0:05:49.89,0:05:52.01,Base,,0,0,0,,Her fan of the red rose?
+Dialogue: 0,0:05:52.26,0:05:57.26,Base,,0,0,0,,Forget summer vacation. Why not just\Nsend her something now?
+Dialogue: 0,0:05:57.44,0:06:00.53,Base,,0,0,0,,I'll send her a text message tonight.
+Dialogue: 0,0:06:01.27,0:06:04.02,Base,,0,0,0,,You gonna stop by her grandpa's\Nplace tonight again?
+Dialogue: 0,0:06:04.53,0:06:06.20,Base,,0,0,0,,Yeah, that's the plan.
+Dialogue: 0,0:06:09.02,0:06:11.52,Base,,0,0,0,,{\an8}"Happy Birthday, Sarasa-chan! I'll give you\Nyour present over summer break!"
+Dialogue: 0,0:06:12.91,0:06:16.01,Base,,0,0,0,,Her boyfriend's a frog? And a bot at that.
+Dialogue: 0,0:06:17.08,0:06:18.82,Base,,0,0,0,,But why does a bot have a private account?
+Dialogue: 0,0:06:22.63,0:06:24.08,Base,,0,0,0,,I won't let that frog outdo me.
+Dialogue: 0,0:06:24.55,0:06:28.01,Base,,0,0,0,,I wanna give Watanabe-san something\Nshe'll love even more than those roses.
+Dialogue: 0,0:06:28.72,0:06:31.56,Base,,0,0,0,,After all, she's the first\Nfriend I ever made.
 Dialogue: 0,0:06:32.26,0:06:37.14,Base,,0,0,0,,And now's the perfect chance\Nto call her by her first name.
-Dialogue: 0,0:06:37.14,0:06:39.60,Base,,0,0,0,,Should I add -chan because\Nshe's younger than me?
-Dialogue: 0,0:06:39.60,0:06:42.61,Base,,0,0,0,,Sarasa-tan? Saracchi?
-Dialogue: 0,0:06:42.61,0:06:45.40,Base,,0,0,0,,Or do I keep it simple with Sarasa?
-Dialogue: 0,0:06:46.36,0:06:47.40,Base,,0,0,0,,Oh, geez!
-Dialogue: 0,0:06:49.65,0:06:51.20,Base,,0,0,0,,Oh my God!
-Dialogue: 0,0:06:51.20,0:06:57.66,Base,,0,0,0,,The hardest-to-get lottery prize figurine\Nof Tsukahara Vault Taku!
-Dialogue: 0,0:06:57.66,0:07:00.71,Base,,0,0,0,,Oh, Taku-sama!
-Dialogue: 0,0:07:01.79,0:07:06.09,Base,,0,0,0,,Ai-chan, you got this for me,\Ndidn't you?! I could cry!
-Dialogue: 0,0:07:06.09,0:07:09.76,Base,,0,0,0,,I tried four times to win it\Nand only won hand towels!
-Dialogue: 0,0:07:09.76,0:07:11.01,Base,,0,0,0,,Well, Sara--
+Dialogue: 0,0:06:37.14,0:06:39.09,Base,,0,0,0,,Should I add -chan because\Nshe's younger than me?
+Dialogue: 0,0:06:39.60,0:06:42.10,Base,,0,0,0,,Sarasa-tan? Saracchi?
+Dialogue: 0,0:06:42.61,0:06:44.98,Base,,0,0,0,,Or do I keep it simple with Sarasa?
+Dialogue: 0,0:06:46.36,0:06:46.99,Base,,0,0,0,,Oh, geez!
+Dialogue: 0,0:06:49.65,0:06:50.90,Base,,0,0,0,,Oh my God!
+Dialogue: 0,0:06:51.20,0:06:57.24,Base,,0,0,0,,The hardest-to-get lottery prize figurine\Nof Tsukahara Vault Taku!
+Dialogue: 0,0:06:57.66,0:06:59.61,Base,,0,0,0,,Oh, Taku-sama!
+Dialogue: 0,0:07:01.79,0:07:05.62,Base,,0,0,0,,Ai-chan, you got this for me,\Ndidn't you?! I could cry!
+Dialogue: 0,0:07:06.09,0:07:09.22,Base,,0,0,0,,I tried four times to win it\Nand only won hand towels!
+Dialogue: 0,0:07:09.76,0:07:10.42,Base,,0,0,0,,Well, Sara--
 Dialogue: 0,0:07:11.01,0:07:14.47,Base,,0,0,0,,Watanabe-san, you're always\Ngoing on and on about {\i1}Floor Kings{\i0},
-Dialogue: 0,0:07:14.47,0:07:17.43,Base,,0,0,0,,so I gave it a go and won the top prize.
-Dialogue: 0,0:07:17.43,0:07:19.14,Base,,0,0,0,,In one try?!
-Dialogue: 0,0:07:19.14,0:07:21.44,Base,,0,0,0,,No, after a half-dozen tries.
+Dialogue: 0,0:07:14.47,0:07:16.51,Base,,0,0,0,,so I gave it a go and won the top prize.
+Dialogue: 0,0:07:17.43,0:07:18.38,Base,,0,0,0,,In one try?!
+Dialogue: 0,0:07:19.14,0:07:20.89,Base,,0,0,0,,No, after a half-dozen tries.
 Dialogue: 0,0:07:21.44,0:07:22.35,Base,,0,0,0,,You like it?
-Dialogue: 0,0:07:22.35,0:07:24.48,Base,,0,0,0,,I love it!
+Dialogue: 0,0:07:22.35,0:07:24.14,Base,,0,0,0,,I love it!
 Dialogue: 0,0:07:24.48,0:07:26.02,Base,,0,0,0,,Especially this part!
 Dialogue: 0,0:07:26.02,0:07:29.03,Base,,0,0,0,,"To Sarasa. Sorry it's late.\NHappy birthday."
 Dialogue: 0,0:07:29.03,0:07:30.45,Base,,0,0,0,,Don't read it out loud!
-Dialogue: 0,0:07:30.45,0:07:32.74,Base,,0,0,0,,But look!
-Dialogue: 0,0:07:32.74,0:07:34.28,Base,,0,0,0,,"To Sarasa"!
+Dialogue: 0,0:07:30.45,0:07:32.00,Base,,0,0,0,,But look!
+Dialogue: 0,0:07:32.74,0:07:34.15,Base,,0,0,0,,"To Sarasa"!
 Dialogue: 0,0:07:34.28,0:07:37.79,Base,,0,0,0,,Look, Sa... Watanabe-san.
 Dialogue: 0,0:07:37.79,0:07:43.12,Base,,0,0,0,,Just call me Sarasa!\NWe're friends, aren't we, Ai-chan?
-Dialogue: 0,0:07:46.42,0:07:47.75,Base,,0,0,0,,Sarasa.
-Dialogue: 0,0:07:49.21,0:07:54.01,Base,,0,0,0,,Oh, Taku-sama! Ai-chan called me "Sarasa"!
-Dialogue: 0,0:07:54.01,0:07:55.97,Base,,0,0,0,,I can die happy now!
-Dialogue: 0,0:07:56.93,0:07:58.51,Base,,0,0,0,,Oh, right.
-Dialogue: 0,0:07:58.51,0:08:01.27,Base,,0,0,0,,I had a meeting with\Nthe other teachers yesterday,
-Dialogue: 0,0:08:01.27,0:08:04.77,Base,,0,0,0,,and they said we could\Nchange up the curriculum.
-Dialogue: 0,0:08:04.77,0:08:06.27,Base,,0,0,0,,Quiet down.
-Dialogue: 0,0:08:06.27,0:08:09.61,Base,,0,0,0,,We're going to perform a scene from\NShakespeare's {\i1}Romeo and Juliet{\i0}.
-Dialogue: 0,0:08:09.61,0:08:12.45,Base,,0,0,0,,The roles are Romeo, Juliet,
-Dialogue: 0,0:08:12.45,0:08:17.41,Base,,0,0,0,,Tybalt, and Juliet's Nurse.
+Dialogue: 0,0:07:46.42,0:07:47.25,Base,,0,0,0,,Sarasa.
+Dialogue: 0,0:07:49.25,0:07:53.19,Base,,0,0,0,,Oh, Taku-sama! Ai-chan called me "Sarasa"!
+Dialogue: 0,0:07:54.01,0:07:55.63,Base,,0,0,0,,I can die happy now!
+Dialogue: 0,0:07:56.93,0:07:57.92,Base,,0,0,0,,Oh, right.
+Dialogue: 0,0:07:58.51,0:08:00.55,Base,,0,0,0,,I had a meeting with\Nthe other teachers yesterday,
+Dialogue: 0,0:08:01.27,0:08:03.66,Base,,0,0,0,,and they said we could\Nchange up the curriculum.
+Dialogue: 0,0:08:04.77,0:08:05.81,Base,,0,0,0,,Quiet down.
+Dialogue: 0,0:08:06.27,0:08:09.31,Base,,0,0,0,,We're going to perform a scene from\NShakespeare's {\i1}Romeo and Juliet{\i0}.
+Dialogue: 0,0:08:09.61,0:08:12.06,Base,,0,0,0,,The roles are Romeo, Juliet,
+Dialogue: 0,0:08:12.45,0:08:16.82,Base,,0,0,0,,Tybalt, and Juliet's Nurse.
 Dialogue: 0,0:08:17.41,0:08:21.29,Base,,0,0,0,,Each group of four will have two weeks\Nto prepare their scene on their own.
-Dialogue: 0,0:08:21.29,0:08:22.12,Base,,0,0,0,,There you go.
+Dialogue: 0,0:08:21.29,0:08:21.90,Base,,0,0,0,,There you go.
 Dialogue: 0,0:08:22.12,0:08:23.25,Base,,0,0,0,,On our own?
 Dialogue: 0,0:08:23.25,0:08:26.54,Base,,0,0,0,,Andou-sensei, what do you mean\Nby "on our own"?
-Dialogue: 0,0:08:26.54,0:08:27.92,Base,,0,0,0,,Is this not a class activity?
+Dialogue: 0,0:08:26.54,0:08:27.87,Base,,0,0,0,,Is this not a class activity?
 Dialogue: 0,0:08:27.92,0:08:29.46,Base,,0,0,0,,We got duped.
 Dialogue: 0,0:08:29.46,0:08:30.96,Base,,0,0,0,,Some teacher he is.
-Dialogue: 0,0:08:30.96,0:08:36.30,Base,,0,0,0,,Now, now, I {\i1}did {\i0}have to fight a bit\Nin that faculty meeting.
-Dialogue: 0,0:08:36.30,0:08:40.68,Base,,0,0,0,,They let us do this under the assumption\Nthat this would be an experiment.
-Dialogue: 0,0:08:40.68,0:08:45.40,Base,,0,0,0,,So I haven't prepared any materials\Nor plans for guiding you to perform.
+Dialogue: 0,0:08:30.96,0:08:35.84,Base,,0,0,0,,Now, now, I {\i1}did {\i0}have to fight a bit\Nin that faculty meeting.
+Dialogue: 0,0:08:36.30,0:08:40.18,Base,,0,0,0,,They let us do this under the assumption\Nthat this would be an experiment.
+Dialogue: 0,0:08:40.68,0:08:44.74,Base,,0,0,0,,So I haven't prepared any materials\Nor plans for guiding you to perform.
 Dialogue: 0,0:08:45.40,0:08:48.69,Base,,0,0,0,,You'll rehearse on your own,\Nthen in two weeks,
-Dialogue: 0,0:08:48.69,0:08:53.32,Base,,0,0,0,,we'll spend one class period\Npresenting our scenes,
-Dialogue: 0,0:08:53.32,0:08:56.91,Base,,0,0,0,,and I'll give you {\i1}thorough{\i0}\Nfeedback on your performances.
+Dialogue: 0,0:08:48.69,0:08:52.62,Base,,0,0,0,,we'll spend one class period\Npresenting our scenes,
+Dialogue: 0,0:08:53.32,0:08:56.61,Base,,0,0,0,,and I'll give you {\i1}thorough{\i0}\Nfeedback on your performances.
 Dialogue: 0,0:08:58.28,0:09:01.16,Base,,0,0,0,,Also, since this was your idea,
-Dialogue: 0,0:09:01.16,0:09:05.00,Base,,0,0,0,,you won't complain if we end up\Nusing it for next year's class, right?
-Dialogue: 0,0:09:05.00,0:09:06.50,Base,,0,0,0,,Crafty bastard.
-Dialogue: 0,0:09:06.50,0:09:08.63,Base,,0,0,0,,Of course, we don't have to do it.
-Dialogue: 0,0:09:08.63,0:09:10.21,Base,,0,0,0,,We'll do it!
-Dialogue: 0,0:09:10.21,0:09:15.97,Base,,0,0,0,,We drew lots to determine\Nwho'd be in each of the five groups.
-Dialogue: 0,0:09:15.97,0:09:17.01,Base,,0,0,0,,Group E.
-Dialogue: 0,0:09:18.18,0:09:19.85,Base,,0,0,0,,{\an8}"Group E"\N"Sarasa Watanabe"\N"Hoshino Kaoru"\N"Chika Sawada"
-Dialogue: 0,0:09:19.85,0:09:21.47,Base,,0,0,0,,Guess we're with you, Sarasa.
-Dialogue: 0,0:09:21.47,0:09:24.77,Base,,0,0,0,,Yep! Let's break a leg, Group E!
-Dialogue: 0,0:09:24.77,0:09:26.73,Base,,0,0,0,,How do we wanna pick roles?
+Dialogue: 0,0:09:01.16,0:09:04.86,Base,,0,0,0,,you won't complain if we end up\Nusing it for next year's class, right?
+Dialogue: 0,0:09:05.00,0:09:06.41,Base,,0,0,0,,Crafty bastard.
+Dialogue: 0,0:09:06.50,0:09:08.11,Base,,0,0,0,,Of course, we don't have to do it.
+Dialogue: 0,0:09:08.63,0:09:09.64,Base,,0,0,0,,We'll do it!
+Dialogue: 0,0:09:10.21,0:09:14.93,Base,,0,0,0,,We drew lots to determine\Nwho'd be in each of the five groups.
+Dialogue: 0,0:09:15.97,0:09:16.71,Base,,0,0,0,,Group E.
+Dialogue: 0,0:09:18.21,0:09:19.88,Base,,0,0,0,,{\an8}"Group E"\N"Sarasa Watanabe"\N"Hoshino Kaoru"\N"Chika Sawada"
+Dialogue: 0,0:09:19.88,0:09:21.47,Base,,0,0,0,,Guess we're with you, Sarasa.
+Dialogue: 0,0:09:21.47,0:09:24.09,Base,,0,0,0,,Yep! Let's break a leg, Group E!
+Dialogue: 0,0:09:24.77,0:09:26.59,Base,,0,0,0,,How do we wanna pick roles?
 Dialogue: 0,0:09:26.73,0:09:31.48,Base,,0,0,0,,Sarasa and I both want to be {\i1}otoko-yaku{\i0},\Nso we'll pick between Romeo and Tybalt.
 Dialogue: 0,0:09:31.48,0:09:32.78,Base,,0,0,0,,Rock-paper-scissors?
-Dialogue: 0,0:09:32.78,0:09:33.65,Base,,0,0,0,,Sure!
-Dialogue: 0,0:09:33.65,0:09:37.07,Base,,0,0,0,,Then Naracchi and I will play\Nthe {\i1}musume-yaku {\i0}parts!
+Dialogue: 0,0:09:32.78,0:09:33.86,Base,,0,0,0,,Sure!
+Dialogue: 0,0:09:33.86,0:09:37.07,Base,,0,0,0,,Then Naracchi and I will play\Nthe {\i1}musume-yaku {\i0}parts!
 Dialogue: 0,0:09:37.07,0:09:38.74,Base,,0,0,0,,Want to do rock-paper-scissors, too?
 Dialogue: 0,0:09:38.74,0:09:39.57,Base,,0,0,0,,Sure.
-Dialogue: 0,0:09:39.57,0:09:41.08,Base,,0,0,0,,Rock, paper, scissors!
+Dialogue: 0,0:09:39.65,0:09:41.08,Base,,0,0,0,,Rock, paper, scissors!
 Dialogue: 0,0:09:41.08,0:09:43.79,Base,,0,0,0,,Sweet! I'll take Romeo!
 Dialogue: 0,0:09:43.79,0:09:46.37,Base,,0,0,0,,That means I'm Tybalt!
 Dialogue: 0,0:09:46.37,0:09:47.29,Base,,0,0,0,,What about you two?
 Dialogue: 0,0:09:47.29,0:09:50.29,Base,,0,0,0,,Rock, paper, scissors!\NRock, paper, scissors!
-Dialogue: 0,0:09:54.92,0:09:58.63,Base,,0,0,0,,Um, I'll play, uh, Ju...
+Dialogue: 0,0:09:54.92,0:09:58.42,Base,,0,0,0,,Um, I'll play, uh, Ju...
 Dialogue: 0,0:09:58.63,0:09:59.51,Base,,0,0,0,,Juliet's Nurse!
 Dialogue: 0,0:09:59.51,0:10:00.34,Base,,0,0,0,,Huh?
-Dialogue: 0,0:10:00.34,0:10:05.77,Base,,0,0,0,,I mean, I wanted to play that! A comic\Nrole will be the perfect challenge!
-Dialogue: 0,0:10:05.77,0:10:07.89,Base,,0,0,0,,You'll make a better Juliet\Nthan me, anyway, Naracchi.
-Dialogue: 0,0:10:07.89,0:10:11.44,Base,,0,0,0,,Really? I can play Juliet?!
-Dialogue: 0,0:10:11.44,0:10:13.11,Base,,0,0,0,,Of course!
-Dialogue: 0,0:10:13.11,0:10:15.49,Base,,0,0,0,,--I've always {\i1}loved {\i0}the Kouka version\Nof Juliet! I'm so happy right now!
-Dialogue: 0,0:10:15.49,0:10:17.07,Base,,0,0,0,,--Oh, it's fine.\N--I've always {\i1}loved {\i0}the Kouka version\Nof Juliet! I'm so happy right now!
-Dialogue: 0,0:10:17.07,0:10:19.49,Base,,0,0,0,,I wanted to play the Nurse, anyway!
-Dialogue: 0,0:10:19.49,0:10:22.24,Base,,0,0,0,,Okay. Then Naracchi's our Juliet.
-Dialogue: 0,0:10:22.24,0:10:23.28,Base,,0,0,0,,Yep.
-Dialogue: 0,0:10:25.95,0:10:28.33,Base,,0,0,0,,{\an8}"Tatami Room"
-Dialogue: 0,0:10:28.71,0:10:30.75,Base,,0,0,0,,Let's start with a quick readthrough.
-Dialogue: 0,0:10:30.75,0:10:34.50,Base,,0,0,0,,To be honest, I think Sarasa\Nwould be better off as Romeo
-Dialogue: 0,0:10:34.50,0:10:36.59,Base,,0,0,0,,instead of the darker Tybalt.
-Dialogue: 0,0:10:37.76,0:10:41.39,Base,,0,0,0,,Especially after that evening when\Nwe were walking back from the theater,
-Dialogue: 0,0:10:41.39,0:10:46.52,Base,,0,0,0,,and she recited those few\Nperfect lines as Romeo...
-Dialogue: 0,0:10:46.52,0:10:48.18,Base,,0,0,0,,Okay, you start, Chika.
-Dialogue: 0,0:10:48.18,0:10:49.81,Base,,0,0,0,,Got it!
-Dialogue: 0,0:10:49.81,0:10:56.44,Base,,0,0,0,,Madam, your mother craves a word with you.
+Dialogue: 0,0:10:00.34,0:10:05.17,Base,,0,0,0,,I mean, I wanted to play that! A comic\Nrole will be the perfect challenge!
+Dialogue: 0,0:10:05.77,0:10:08.10,Base,,0,0,0,,You'll make a better Juliet\Nthan me, anyway, Naracchi.
+Dialogue: 0,0:10:08.10,0:10:11.69,Base,,0,0,0,,Really? I can play Juliet?!
+Dialogue: 0,0:10:11.69,0:10:12.60,Base,,0,0,0,,Of course!
+Dialogue: 0,0:10:13.11,0:10:17.07,Base - Top,,0,0,0,,I've always {\i1}loved {\i0}the Kouka version\Nof Juliet! I'm so happy right now!
+Dialogue: 0,0:10:15.49,0:10:17.07,Base,,0,0,0,,Oh, it's fine.
+Dialogue: 0,0:10:17.07,0:10:19.68,Base,,0,0,0,,I wanted to play the Nurse, anyway!
+Dialogue: 0,0:10:19.68,0:10:22.24,Base,,0,0,0,,Okay. Then Naracchi's our Juliet.
+Dialogue: 0,0:10:22.24,0:10:22.98,Base,,0,0,0,,Yep.
+Dialogue: 0,0:10:25.97,0:10:28.36,Base,,0,0,0,,{\an8}"Tatami Room"
+Dialogue: 0,0:10:28.88,0:10:30.90,Base,,0,0,0,,Let's start with a quick readthrough.
+Dialogue: 0,0:10:30.90,0:10:34.50,Base,,0,0,0,,To be honest, I think Sarasa\Nwould be better off as Romeo
+Dialogue: 0,0:10:34.50,0:10:36.37,Base,,0,0,0,,instead of the darker Tybalt.
+Dialogue: 0,0:10:37.93,0:10:41.62,Base,,0,0,0,,Especially after that evening when\Nwe were walking back from the theater,
+Dialogue: 0,0:10:41.62,0:10:45.44,Base,,0,0,0,,and she recited those few\Nperfect lines as Romeo...
+Dialogue: 0,0:10:46.65,0:10:48.18,Base,,0,0,0,,Okay, you start, Chika.
+Dialogue: 0,0:10:48.18,0:10:48.93,Base,,0,0,0,,Got it!
+Dialogue: 0,0:10:49.92,0:10:56.18,Base,,0,0,0,,Madam, your mother craves a word with you.
 Dialogue: 0,0:10:56.44,0:10:59.28,Base,,0,0,0,,Good woman! Who is her mother?
 Dialogue: 0,0:10:59.28,0:11:04.58,Base,,0,0,0,,Why sir, her mother is the lady\Nof the house, Lady Capulet.
-Dialogue: 0,0:11:04.58,0:11:08.08,Base,,0,0,0,,A Capulet?! O dear account!
+Dialogue: 0,0:11:04.58,0:11:07.95,Base,,0,0,0,,A Capulet?! O dear account!
 Dialogue: 0,0:11:08.08,0:11:09.00,Base,,0,0,0,,She's up next.
-Dialogue: 0,0:11:09.00,0:11:12.71,Base,,0,0,0,,Show me the passion that's\Ndriving you to become a top star.
-Dialogue: 0,0:11:12.71,0:11:14.67,Base,,0,0,0,,Show us all you've got!
+Dialogue: 0,0:11:09.00,0:11:12.82,Base,,0,0,0,,Show me the passion that's\Ndriving you to become a top star.
+Dialogue: 0,0:11:12.82,0:11:14.45,Base,,0,0,0,,Show us all you've got!
 Dialogue: 0,0:11:15.59,0:11:20.22,Base,,0,0,0,,That voice, is that Romeo?\NRomeo, of house Montague?
-Dialogue: 0,0:11:20.22,0:11:27.93,Base,,0,0,0,,How dare the man come hither,\Nto the Cap... Capulet? Mansion itself...
-Dialogue: 0,0:11:27.93,0:11:29.23,Base,,0,0,0,,How are you this bad?!
-Dialogue: 0,0:11:29.23,0:11:30.77,Base,,0,0,0,,S-Sorry!
-Dialogue: 0,0:11:30.77,0:11:33.23,Base,,0,0,0,,Stop messing around and get serious!
-Dialogue: 0,0:11:33.23,0:11:36.11,Base,,0,0,0,,I-I wasn't messing around.
-Dialogue: 0,0:11:36.11,0:11:38.32,Base,,0,0,0,,Whatever! We don't have time for this.
-Dialogue: 0,0:11:38.32,0:11:40.19,Base,,0,0,0,,Juliet, your lines are next!
-Dialogue: 0,0:11:47.54,0:11:51.00,Base,,0,0,0,,See?! Your crappy reading\Nthrew Naracchi off!
-Dialogue: 0,0:11:51.00,0:11:55.00,Base,,0,0,0,,My, what are you all doing here?
-Dialogue: 0,0:11:55.00,0:11:56.54,Base,,0,0,0,,Good morning, Senpai!
-Dialogue: 0,0:11:56.54,0:11:59.13,Base,,0,0,0,,What's this about? Some secret meeting?
-Dialogue: 0,0:11:59.13,0:12:03.97,Base,,0,0,0,,Just kidding! Andou-sensei filled us\Nall in on your little scene exercise.
+Dialogue: 0,0:11:20.22,0:11:27.80,Base,,0,0,0,,How dare the man come hither,\Nto the Cap... Capulet? Mansion itself...
+Dialogue: 0,0:11:27.93,0:11:29.52,Base,,0,0,0,,How are you this bad?!
+Dialogue: 0,0:11:29.52,0:11:30.64,Base,,0,0,0,,S-Sorry!
+Dialogue: 0,0:11:30.95,0:11:33.14,Base,,0,0,0,,Stop messing around and get serious!
+Dialogue: 0,0:11:33.23,0:11:36.38,Base,,0,0,0,,I-I wasn't messing around.
+Dialogue: 0,0:11:36.38,0:11:38.32,Base,,0,0,0,,Whatever! We don't have time for this.
+Dialogue: 0,0:11:38.32,0:11:39.99,Base,,0,0,0,,Juliet, your lines are next!
+Dialogue: 0,0:11:47.75,0:11:51.23,Base,,0,0,0,,See?! Your crappy reading\Nthrew Naracchi off!
+Dialogue: 0,0:11:51.23,0:11:54.03,Base,,0,0,0,,My, what are you all doing here?
+Dialogue: 0,0:11:55.00,0:11:56.67,Base,,0,0,0,,Good morning, Senpai!
+Dialogue: 0,0:11:56.67,0:11:59.00,Base,,0,0,0,,What's this about? Some secret meeting?
+Dialogue: 0,0:11:59.35,0:12:03.97,Base,,0,0,0,,Just kidding! Andou-sensei filled us\Nall in on your little scene exercise.
 Dialogue: 0,0:12:03.97,0:12:09.56,Base,,0,0,0,,You first-years are already getting\Nto act? Boy, you girls are lucky!
-Dialogue: 0,0:12:09.56,0:12:13.52,Base,,0,0,0,,And you're doing {\i1}Romeo and Juliet{\i0}?\NI love that show!
-Dialogue: 0,0:12:13.52,0:12:18.11,Base,,0,0,0,,One thing, though: you really can't\Nuse this room to practice, mmkay?
-Dialogue: 0,0:12:18.36,0:12:19.57,Base,,0,0,0,,{\an8}"First-Year Lockers"
-Dialogue: 0,0:12:19.57,0:12:20.74,Base,,0,0,0,,{\an8}"First-Year Lockers"
-Dialogue: 0,0:12:19.57,0:12:20.74,Base,,0,0,0,,Hijiri-senpai was really mad at us.
-Dialogue: 0,0:12:20.74,0:12:22.40,Base,,0,0,0,,Hijiri-senpai was really mad at us.
-Dialogue: 0,0:12:22.40,0:12:24.74,Base,,0,0,0,,She was? But she was all smiles.
-Dialogue: 0,0:12:24.74,0:12:28.37,Base,,0,0,0,,That's how you can tell when\Nshe's angry--she's {\i1}smiling{\i0}!
-Dialogue: 0,0:12:28.37,0:12:30.75,Base,,0,0,0,,Ugh, we can't use the tatami room anymore.
-Dialogue: 0,0:12:30.75,0:12:33.46,Base,,0,0,0,,Where should we practice\Nfrom now on, then, Kaoru?
-Dialogue: 0,0:12:33.46,0:12:38.88,Base,,0,0,0,,Group A's using the lecture hall,\Nbut they might let us share it.
-Dialogue: 0,0:12:38.88,0:12:42.34,Base,,0,0,0,,Hey, can we use half\Nthe lecture hall with you?
-Dialogue: 0,0:12:42.34,0:12:43.30,Base,,0,0,0,,I don't see why not.
-Dialogue: 0,0:12:43.30,0:12:44.84,Base,,0,0,0,,--Sure.\N--Yeah.
-Dialogue: 0,0:12:44.84,0:12:46.18,Base,,0,0,0,,W-We can't!
-Dialogue: 0,0:12:46.18,0:12:47.35,Base,,0,0,0,,Why not?
-Dialogue: 0,0:12:47.35,0:12:51.72,Base,,0,0,0,,W-We're doing the same scene,\Nso we'll throw each other off!
-Dialogue: 0,0:12:51.72,0:12:55.27,Base,,0,0,0,,I don't wanna share a place\Nto practice with another group!
-Dialogue: 0,0:12:55.27,0:13:00.32,Base,,0,0,0,,Then where do we practice?\NAll the other rooms are already taken.
-Dialogue: 0,0:13:00.32,0:13:03.07,Base,,0,0,0,,Why don't we just do it\Nout on the sidewalk?
-Dialogue: 0,0:13:03.07,0:13:04.03,Base,,0,0,0,,What?
-Dialogue: 0,0:13:04.03,0:13:06.78,Base,,0,0,0,,The sidewalk?! Are you insane?!
-Dialogue: 0,0:13:06.78,0:13:11.49,Base,,0,0,0,,We are students of the 100th class\Nof the {\i1}esteemed {\i0}Kouka School!
-Dialogue: 0,0:13:11.49,0:13:16.62,Base,,0,0,0,,We can't perform on the sidewalk!\NWhat a way to ruin Kouka for everyone!
-Dialogue: 0,0:13:16.62,0:13:20.92,Base,,0,0,0,,We might be students now, but we are\Ndestined to be professionals!
-Dialogue: 0,0:13:20.92,0:13:23.21,Base,,0,0,0,,You'd better drill that\Ninto your skull, got it?!
-Dialogue: 0,0:13:27.18,0:13:29.01,Base,,0,0,0,,I have to use the bathroom.
-Dialogue: 0,0:13:31.26,0:13:32.77,Base,,0,0,0,,That scared me.
-Dialogue: 0,0:13:32.77,0:13:36.39,Base,,0,0,0,,Who pissed her off? You {\i1}know{\i0}\Nshe's got a really short fuse.
-Dialogue: 0,0:13:36.39,0:13:38.10,Base,,0,0,0,,I wouldn't say that.
-Dialogue: 0,0:13:38.10,0:13:43.48,Base,,0,0,0,,Her mom was a Kouka actress,\Nand her grandma was a top {\i1}musume-yaku{\i0}.
-Dialogue: 0,0:13:43.48,0:13:46.07,Base,,0,0,0,,I can't imagine the kind of pressure\Nthat puts on her.
-Dialogue: 0,0:13:47.66,0:13:49.07,Base,,0,0,0,,Hoshino-san.
-Dialogue: 0,0:13:51.45,0:13:56.50,Base,,0,0,0,,Yeah, I know. I'm a loudmouth\Nwith a short fuse, sorry.
-Dialogue: 0,0:13:56.50,0:14:00.33,Base,,0,0,0,,There was a girl like you in JPX.
-Dialogue: 0,0:14:00.33,0:14:02.84,Base,,0,0,0,,She was our group leader\Nand was always angry.
-Dialogue: 0,0:14:02.84,0:14:07.01,Base,,0,0,0,,What, you come to rub it in?
-Dialogue: 0,0:14:07.01,0:14:11.72,Base,,0,0,0,,I never went to high school, and barely\Nwent to elementary and middle school.
-Dialogue: 0,0:14:11.72,0:14:17.73,Base,,0,0,0,,So Sarasa wasn't the reason I couldn't\Nread Juliet's lines this morning.
-Dialogue: 0,0:14:17.73,0:14:19.10,Base,,0,0,0,,I...
-Dialogue: 0,0:14:19.10,0:14:21.73,Base,,0,0,0,,...can't read kanji.
-Dialogue: 0,0:14:22.48,0:14:23.19,Base,,0,0,0,,{\an8}"Favorite Place: beech"\N"Why: Its suthing"
-Dialogue: 0,0:14:23.19,0:14:29.24,Base,,0,0,0,,{\an8}"Favorite Place: beech"\N"Why: Its suthing"
-Dialogue: 0,0:14:23.19,0:14:29.24,Base,,0,0,0,,Back in JPX, I was used to my manager\Nwriting the readings down for me.
-Dialogue: 0,0:14:29.24,0:14:33.83,Base,,0,0,0,,This morning was the first time\NI realized how screwed I am.
-Dialogue: 0,0:14:33.83,0:14:36.33,Base,,0,0,0,,None of us have any experience,
-Dialogue: 0,0:14:36.33,0:14:40.67,Base,,0,0,0,,so unless you get mad at us,\Nwe'll just end up holding you back.
-Dialogue: 0,0:14:40.67,0:14:43.46,Base,,0,0,0,,What the hell? That's so not fair.
-Dialogue: 0,0:14:43.46,0:14:46.67,Base,,0,0,0,,What if I don't want to be\Nthe bad guy, huh?
-Dialogue: 0,0:14:48.97,0:14:50.51,Base,,0,0,0,,Then Group E fails together.
-Dialogue: 0,0:14:50.51,0:14:52.18,Base,,0,0,0,,Is that a threat?!
-Dialogue: 0,0:14:52.47,0:14:54.35,Base,,0,0,0,,{\an8}"Nono Park"
-Dialogue: 0,0:14:54.35,0:14:54.93,Base,,0,0,0,,{\an8}"Nono Park"
-Dialogue: 0,0:14:54.35,0:14:54.93,Base,,0,0,0,,Ta-dah! Well? Isn't it perfect?
-Dialogue: 0,0:14:54.93,0:14:57.39,Base,,0,0,0,,Ta-dah! Well? Isn't it perfect?
-Dialogue: 0,0:14:57.39,0:14:59.44,Base,,0,0,0,,It's not the sidewalk, that's for sure!
-Dialogue: 0,0:14:59.44,0:15:02.98,Base,,0,0,0,,Chika-chan and I looked all over\Nfor a good spot to practice!
-Dialogue: 0,0:15:02.98,0:15:05.07,Base,,0,0,0,,Will this work, Kaoru?
-Dialogue: 0,0:15:05.07,0:15:07.15,Base,,0,0,0,,Not like we can go anywhere else.
-Dialogue: 0,0:15:07.15,0:15:12.95,Base,,0,0,0,,Okay, we've got two weeks to prep this\Nscene that's not gonna teach us anything.
-Dialogue: 0,0:15:12.95,0:15:14.24,Base,,0,0,0,,C'mon, Group E!
-Dialogue: 0,0:15:14.24,0:15:15.95,Base,,0,0,0,,Let's do this!
-Dialogue: 0,0:15:15.95,0:15:18.29,Base,,0,0,0,,Really, Sugimoto-san?
-Dialogue: 0,0:15:18.29,0:15:21.67,Base,,0,0,0,,You're gonna lend me your Blu-ray of\NWinter Troupe {\i1}Romeo and Juliet{\i0}?
-Dialogue: 0,0:15:21.67,0:15:23.58,Base,,0,0,0,,Kaoru asked me to.
-Dialogue: 0,0:15:23.58,0:15:26.63,Base,,0,0,0,,She said if you don't level up, and fast,
-Dialogue: 0,0:15:26.63,0:15:30.30,Base,,0,0,0,,then "Group E's gonna drag\Nthe rest of our class down with them."
-Dialogue: 0,0:15:30.30,0:15:34.26,Base,,0,0,0,,That Hoshino-san doesn't mince words, huh!
-Dialogue: 0,0:15:34.26,0:15:35.93,Base,,0,0,0,,Ai-chan!
-Dialogue: 0,0:15:35.93,0:15:40.39,Base,,0,0,0,,Sugimoto-san lent me her copy\Nof {\i1}Romeo and Juliet{\i0}! Wanna watch?
-Dialogue: 0,0:15:40.39,0:15:44.23,Base,,0,0,0,,{\an8}"Kanji Dictionary"
-Dialogue: 0,0:15:40.39,0:15:44.23,Base,,0,0,0,,I'm good. I gotta spend all night\Nwriting kanji readings onto our script.
-Dialogue: 0,0:15:44.23,0:15:48.74,Base,,0,0,0,,Okay! Could I borrow your\NBlu-ray player and headphones?
-Dialogue: 0,0:15:48.74,0:15:50.45,Base,,0,0,0,,Sure.
-Dialogue: 0,0:15:50.45,0:15:54.78,Base,,0,0,0,,I'm gonna study so hard, I'm gonna\Nknock the socks off Hoshino-san!
-Dialogue: 0,0:15:54.78,0:15:55.78,Base,,0,0,0,,Mmkay.
-Dialogue: 0,0:15:55.78,0:15:58.24,Base,,0,0,0,,Let's do an awesome job tomorrow morning!
-Dialogue: 0,0:15:58.24,0:15:59.29,Base,,0,0,0,,Yep.
-Dialogue: 0,0:16:00.50,0:16:05.38,Base,,0,0,0,,I wonder where the Sarasa\NI saw that day disappeared to.
-Dialogue: 0,0:16:06.29,0:16:08.50,Base,,0,0,0,,That voice, is that Romeo?
-Dialogue: 0,0:16:08.50,0:16:11.42,Base,,0,0,0,,Romeo, of house Montague?
-Dialogue: 0,0:16:11.42,0:16:16.64,Base,,0,0,0,,How dare the man come hither,\Nto the Capulet mansion itself!
-Dialogue: 0,0:16:16.64,0:16:19.10,Base,,0,0,0,,Such sins shall not be endured!
-Dialogue: 0,0:16:19.10,0:16:21.89,Base,,0,0,0,,Such sins shall not be endured.
-Dialogue: 0,0:16:24.02,0:16:27.48,Base,,0,0,0,,So, how's your Group E looking, Kaoru?
-Dialogue: 0,0:16:27.48,0:16:29.03,Base,,0,0,0,,And by that, I mean, how's Sarasa?
-Dialogue: 0,0:16:29.03,0:16:31.57,Base,,0,0,0,,I kinda don't know.
-Dialogue: 0,0:16:31.57,0:16:33.28,Base,,0,0,0,,Like, it's kind of creepy.
-Dialogue: 0,0:16:33.28,0:16:34.78,Base,,0,0,0,,Creepy how?
-Dialogue: 0,0:16:34.78,0:16:38.45,Base,,0,0,0,,You know how you're supposed to\Nimprove little by little?
-Dialogue: 0,0:16:38.45,0:16:40.87,Base,,0,0,0,,Sarasa just...
-Dialogue: 0,0:16:46.96,0:16:48.63,Base,,0,0,0,,I'm so nervous.
-Dialogue: 0,0:16:48.63,0:16:53.42,Base,,0,0,0,,It's okay. Andou-sensei doesn't\Nexpect us to be good.
-Dialogue: 0,0:16:53.42,0:16:57.60,Base,,0,0,0,,Then why did the Phantom\Neven want us to do this?
-Dialogue: 0,0:16:57.60,0:17:00.35,Base,,0,0,0,,Probably because he wanted\Nto see how much fun we'd have,
-Dialogue: 0,0:17:00.35,0:17:03.64,Base,,0,0,0,,or how much effort we'd put into it?
-Dialogue: 0,0:17:03.64,0:17:04.89,Base,,0,0,0,,Seriously?
-Dialogue: 0,0:17:04.89,0:17:09.02,Base,,0,0,0,,I mean, isn't playing pretend\Nway more fun when you've got friends?
-Dialogue: 0,0:17:09.02,0:17:11.78,Base,,0,0,0,,We only had two weeks\Nto put this together,
-Dialogue: 0,0:17:11.78,0:17:14.11,Base,,0,0,0,,but I'm sure that even when I\Nfinally get to play Lady Oscar,
-Dialogue: 0,0:17:14.11,0:17:18.62,Base,,0,0,0,,I'll remember these last two weeks.
-Dialogue: 0,0:17:18.62,0:17:21.87,Base,,0,0,0,,Enough about Oscar. That {\i1}was {\i0}fun, though.
-Dialogue: 0,0:17:21.87,0:17:23.41,Base,,0,0,0,,It doesn't matter if we mess up.
-Dialogue: 0,0:17:23.41,0:17:26.67,Base,,0,0,0,,Just keep going until the end.
-Dialogue: 0,0:17:26.67,0:17:29.34,Base,,0,0,0,,But give it your all, okay?!
-Dialogue: 0,0:17:29.34,0:17:32.55,Base,,0,0,0,,Yeah! We'll give it 100% to the very end!
-Dialogue: 0,0:17:32.55,0:17:34.92,Base,,0,0,0,,Okay, each group gets\N15 minutes to perform.
-Dialogue: 0,0:17:34.92,0:17:39.01,Base,,0,0,0,,I've marked out the 'stage' with tape,\Nso use that as a guide.
-Dialogue: 0,0:17:39.01,0:17:40.47,Base,,0,0,0,,Group A is first...
-Dialogue: 0,0:17:40.47,0:17:44.43,Base,,0,0,0,,...most of the time,\Nso let's go with Group E.
-Dialogue: 0,0:17:44.43,0:17:46.69,Base,,0,0,0,,We have to go {\i1}first{\i0}?!
-Dialogue: 0,0:17:46.69,0:17:49.90,Base,,0,0,0,,We didn't even think about\Nthe size of the actual stage.
-Dialogue: 0,0:17:49.90,0:17:53.03,Base,,0,0,0,,Okay, let's imagine it now!
-Dialogue: 0,0:17:53.03,0:17:55.65,Base,,0,0,0,,There's a balcony up above,
-Dialogue: 0,0:17:55.65,0:17:57.91,Base,,0,0,0,,and a big ballroom in the center.
-Dialogue: 0,0:17:57.91,0:17:59.99,Base,,0,0,0,,The lights are tinged with blue,
-Dialogue: 0,0:17:59.99,0:18:03.29,Base,,0,0,0,,and there's a crescent moon\Nthrough the window.
-Dialogue: 0,0:18:03.29,0:18:05.37,Base,,0,0,0,,What beauty!
-Dialogue: 0,0:18:05.37,0:18:10.79,Base,,0,0,0,,She shines like\Na rich jewel amidst the crowd!
-Dialogue: 0,0:18:10.79,0:18:13.92,Base,,0,0,0,,Love! This, truly, is love!
+Dialogue: 0,0:12:09.56,0:12:13.01,Base,,0,0,0,,And you're doing {\i1}Romeo and Juliet{\i0}?\NI love that show!
+Dialogue: 0,0:12:13.52,0:12:17.81,Base,,0,0,0,,One thing, though: you really can't\Nuse this room to practice, mmkay?
+Dialogue: 0,0:12:18.39,0:12:20.76,Base,,0,0,0,,{\an8}"First-Year Lockers"
+Dialogue: 0,0:12:19.57,0:12:22.61,Base,,0,0,0,,Hijiri-senpai was really mad at us.
+Dialogue: 0,0:12:22.61,0:12:24.74,Base,,0,0,0,,She was? But she was all smiles.
+Dialogue: 0,0:12:24.74,0:12:27.53,Base,,0,0,0,,That's how you can tell when\Nshe's angry--she's {\i1}smiling{\i0}!
+Dialogue: 0,0:12:28.55,0:12:30.53,Base,,0,0,0,,Ugh, we can't use the tatami room anymore.
+Dialogue: 0,0:12:30.97,0:12:33.66,Base,,0,0,0,,Where should we practice\Nfrom now on, then, Kaoru?
+Dialogue: 0,0:12:33.66,0:12:38.30,Base,,0,0,0,,Group A's using the lecture hall,\Nbut they might let us share it.
+Dialogue: 0,0:12:39.12,0:12:42.53,Base,,0,0,0,,Hey, can we use half\Nthe lecture hall with you?
+Dialogue: 0,0:12:42.53,0:12:43.44,Base,,0,0,0,,I don't see why not.
+Dialogue: 0,0:12:43.44,0:12:44.19,Base,,0,0,0,,Sure.
+Dialogue: 0,0:12:44.19,0:12:44.71,Base,,0,0,0,,Yeah.
+Dialogue: 0,0:12:45.02,0:12:46.34,Base,,0,0,0,,W-We can't!
+Dialogue: 0,0:12:46.34,0:12:47.47,Base,,0,0,0,,Why not?
+Dialogue: 0,0:12:47.47,0:12:52.02,Base,,0,0,0,,W-We're doing the same scene,\Nso we'll throw each other off!
+Dialogue: 0,0:12:52.02,0:12:54.60,Base,,0,0,0,,I don't wanna share a place\Nto practice with another group!
+Dialogue: 0,0:12:55.42,0:13:00.14,Base,,0,0,0,,Then where do we practice?\NAll the other rooms are already taken.
+Dialogue: 0,0:13:00.45,0:13:03.07,Base,,0,0,0,,Why don't we just do it\Nout on the sidewalk?
+Dialogue: 0,0:13:03.07,0:13:03.89,Base,,0,0,0,,What?
+Dialogue: 0,0:13:04.03,0:13:06.65,Base,,0,0,0,,The sidewalk?! Are you insane?!
+Dialogue: 0,0:13:06.78,0:13:11.15,Base,,0,0,0,,We are students of the 100th class\Nof the {\i1}esteemed {\i0}Kouka School!
+Dialogue: 0,0:13:11.63,0:13:16.16,Base,,0,0,0,,We can't perform on the sidewalk!\NWhat a way to ruin Kouka for everyone!
+Dialogue: 0,0:13:16.80,0:13:20.79,Base,,0,0,0,,We might be students now, but we are\Ndestined to be professionals!
+Dialogue: 0,0:13:20.92,0:13:22.80,Base,,0,0,0,,You'd better drill that\Ninto your skull, got it?!
+Dialogue: 0,0:13:27.34,0:13:28.61,Base,,0,0,0,,I have to use the bathroom.
+Dialogue: 0,0:13:31.47,0:13:32.98,Base,,0,0,0,,That scared me.
+Dialogue: 0,0:13:32.98,0:13:36.14,Base,,0,0,0,,Who pissed her off? You {\i1}know{\i0}\Nshe's got a really short fuse.
+Dialogue: 0,0:13:36.56,0:13:38.27,Base,,0,0,0,,I wouldn't say that.
+Dialogue: 0,0:13:38.27,0:13:43.63,Base,,0,0,0,,Her mom was a Kouka actress,\Nand her grandma was a top {\i1}musume-yaku{\i0}.
+Dialogue: 0,0:13:43.63,0:13:45.72,Base,,0,0,0,,I can't imagine the kind of pressure\Nthat puts on her.
+Dialogue: 0,0:13:47.82,0:13:48.59,Base,,0,0,0,,Hoshino-san.
+Dialogue: 0,0:13:51.66,0:13:56.20,Base,,0,0,0,,Yeah, I know. I'm a loudmouth\Nwith a short fuse, sorry.
+Dialogue: 0,0:13:56.69,0:14:00.50,Base,,0,0,0,,There was a girl like you in JPX.
+Dialogue: 0,0:14:00.50,0:14:02.70,Base,,0,0,0,,She was our group leader\Nand was always angry.
+Dialogue: 0,0:14:03.06,0:14:06.38,Base,,0,0,0,,What, you come to rub it in?
+Dialogue: 0,0:14:07.23,0:14:11.59,Base,,0,0,0,,I never went to high school, and barely\Nwent to elementary and middle school.
+Dialogue: 0,0:14:11.94,0:14:16.34,Base,,0,0,0,,So Sarasa wasn't the reason I couldn't\Nread Juliet's lines this morning.
+Dialogue: 0,0:14:17.92,0:14:18.84,Base,,0,0,0,,I...
+Dialogue: 0,0:14:19.33,0:14:21.26,Base,,0,0,0,,...can't read kanji.
+Dialogue: 0,0:14:22.47,0:14:28.95,Base,,0,0,0,,{\an8}"Favorite Place: beech"\N"Why: Its suthing"
+Dialogue: 0,0:14:23.35,0:14:28.95,Base,,0,0,0,,Back in JPX, I was used to my manager\Nwriting the readings down for me.
+Dialogue: 0,0:14:29.43,0:14:33.48,Base,,0,0,0,,This morning was the first time\NI realized how screwed I am.
+Dialogue: 0,0:14:34.01,0:14:36.51,Base,,0,0,0,,None of us have any experience,
+Dialogue: 0,0:14:36.51,0:14:40.67,Base,,0,0,0,,so unless you get mad at us,\Nwe'll just end up holding you back.
+Dialogue: 0,0:14:40.99,0:14:43.46,Base,,0,0,0,,What the hell? That's so not fair.
+Dialogue: 0,0:14:43.46,0:14:46.08,Base,,0,0,0,,What if I don't want to be\Nthe bad guy, huh?
+Dialogue: 0,0:14:49.22,0:14:50.78,Base,,0,0,0,,Then Group E fails together.
+Dialogue: 0,0:14:50.78,0:14:51.90,Base,,0,0,0,,Is that a threat?!
+Dialogue: 0,0:14:52.50,0:14:54.93,Base,,0,0,0,,{\an8}"Nono Park"
+Dialogue: 0,0:14:54.56,0:14:57.61,Base,,0,0,0,,Ta-dah! Well? Isn't it perfect?
+Dialogue: 0,0:14:57.61,0:14:59.61,Base,,0,0,0,,It's not the sidewalk, that's for sure!
+Dialogue: 0,0:14:59.61,0:15:03.10,Base,,0,0,0,,Chika-chan and I looked all over\Nfor a good spot to practice!
+Dialogue: 0,0:15:03.10,0:15:04.56,Base,,0,0,0,,Will this work, Kaoru?
+Dialogue: 0,0:15:05.23,0:15:06.82,Base,,0,0,0,,Not like we can go anywhere else.
+Dialogue: 0,0:15:07.37,0:15:12.01,Base,,0,0,0,,Okay, we've got two weeks to prep this\Nscene that's not gonna teach us anything.
+Dialogue: 0,0:15:13.15,0:15:14.24,Base,,0,0,0,,C'mon, Group E!
+Dialogue: 0,0:15:14.24,0:15:15.21,Base,,0,0,0,,Let's do this!
+Dialogue: 0,0:15:16.14,0:15:18.07,Base,,0,0,0,,Really, Sugimoto-san?
+Dialogue: 0,0:15:18.49,0:15:21.45,Base,,0,0,0,,You're gonna lend me your Blu-ray of\NWinter Troupe {\i1}Romeo and Juliet{\i0}?
+Dialogue: 0,0:15:21.85,0:15:23.78,Base,,0,0,0,,Kaoru asked me to.
+Dialogue: 0,0:15:23.78,0:15:26.63,Base,,0,0,0,,She said if you don't level up, and fast,
+Dialogue: 0,0:15:26.63,0:15:30.48,Base,,0,0,0,,then "Group E's gonna drag\Nthe rest of our class down with them."
+Dialogue: 0,0:15:30.48,0:15:33.67,Base,,0,0,0,,That Hoshino-san doesn't mince words, huh!
+Dialogue: 0,0:15:34.48,0:15:35.23,Base,,0,0,0,,Ai-chan!
+Dialogue: 0,0:15:35.93,0:15:40.43,Base,,0,0,0,,Sugimoto-san lent me her copy\Nof {\i1}Romeo and Juliet{\i0}! Wanna watch?
+Dialogue: 0,0:15:40.39,0:15:44.11,Base,,0,0,0,,{\an8}"Kanji Dictionary"
+Dialogue: 0,0:15:40.75,0:15:44.23,Base,,0,0,0,,I'm good. I gotta spend all night\Nwriting kanji readings onto our script.
+Dialogue: 0,0:15:44.43,0:15:48.51,Base,,0,0,0,,Okay! Could I borrow your\NBlu-ray player and headphones?
+Dialogue: 0,0:15:49.01,0:15:49.52,Base,,0,0,0,,Sure.
+Dialogue: 0,0:15:50.67,0:15:54.57,Base,,0,0,0,,I'm gonna study so hard, I'm gonna\Nknock the socks off Hoshino-san!
+Dialogue: 0,0:15:55.07,0:15:55.52,Base,,0,0,0,,Mmkay.
+Dialogue: 0,0:15:56.01,0:15:58.03,Base,,0,0,0,,Let's do an awesome job tomorrow morning!
+Dialogue: 0,0:15:58.46,0:15:58.97,Base,,0,0,0,,Yep.
+Dialogue: 0,0:16:00.71,0:16:05.02,Base,,0,0,0,,I wonder where the Sarasa\NI saw that day disappeared to.
+Dialogue: 0,0:16:06.51,0:16:08.71,Base,,0,0,0,,That voice, is that Romeo?
+Dialogue: 0,0:16:08.71,0:16:10.51,Base,,0,0,0,,Romeo, of house Montague?
+Dialogue: 0,0:16:11.59,0:16:16.29,Base,,0,0,0,,How dare the man come hither,\Nto the Capulet mansion itself!
+Dialogue: 0,0:16:16.98,0:16:19.10,Base,,0,0,0,,Such sins shall not be endured!
+Dialogue: 0,0:16:19.35,0:16:21.89,Base,,0,0,0,,Such sins shall not be endured.
+Dialogue: 0,0:16:24.50,0:16:26.93,Base,,0,0,0,,So, how's your Group E looking, Kaoru?
+Dialogue: 0,0:16:27.62,0:16:28.88,Base,,0,0,0,,And by that, I mean, how's Sarasa?
+Dialogue: 0,0:16:29.30,0:16:30.73,Base,,0,0,0,,I kinda don't know.
+Dialogue: 0,0:16:31.78,0:16:33.51,Base,,0,0,0,,Like, it's kind of creepy.
+Dialogue: 0,0:16:33.51,0:16:34.64,Base,,0,0,0,,Creepy how?
+Dialogue: 0,0:16:35.01,0:16:38.59,Base,,0,0,0,,You know how you're supposed to\Nimprove little by little?
+Dialogue: 0,0:16:38.59,0:16:40.49,Base,,0,0,0,,Sarasa just...
+Dialogue: 0,0:16:47.21,0:16:48.26,Base,,0,0,0,,I'm so nervous.
+Dialogue: 0,0:16:48.88,0:16:53.51,Base,,0,0,0,,It's okay. Andou-sensei doesn't\Nexpect us to be good.
+Dialogue: 0,0:16:53.63,0:16:57.52,Base,,0,0,0,,Then why did the Phantom\Neven want us to do this?
+Dialogue: 0,0:16:57.93,0:17:00.35,Base,,0,0,0,,Probably because he wanted\Nto see how much fun we'd have,
+Dialogue: 0,0:17:00.35,0:17:03.89,Base,,0,0,0,,or how much effort we'd put into it?
+Dialogue: 0,0:17:03.89,0:17:04.67,Base,,0,0,0,,Seriously?
+Dialogue: 0,0:17:05.07,0:17:08.75,Base,,0,0,0,,I mean, isn't playing pretend\Nway more fun when you've got friends?
+Dialogue: 0,0:17:09.29,0:17:12.03,Base,,0,0,0,,We only had two weeks\Nto put this together,
+Dialogue: 0,0:17:12.03,0:17:14.32,Base,,0,0,0,,but I'm sure that even when I\Nfinally get to play Lady Oscar,
+Dialogue: 0,0:17:14.32,0:17:18.43,Base,,0,0,0,,I'll remember these last two weeks.
+Dialogue: 0,0:17:18.85,0:17:22.09,Base,,0,0,0,,Enough about Oscar. That {\i1}was {\i0}fun, though.
+Dialogue: 0,0:17:22.09,0:17:23.68,Base,,0,0,0,,It doesn't matter if we mess up.
+Dialogue: 0,0:17:23.68,0:17:26.87,Base,,0,0,0,,Just keep going until the end.
+Dialogue: 0,0:17:26.87,0:17:29.43,Base,,0,0,0,,But give it your all, okay?!
+Dialogue: 0,0:17:29.43,0:17:31.70,Base,,0,0,0,,Yeah! We'll give it 100% to the very end!
+Dialogue: 0,0:17:32.79,0:17:35.12,Base,,0,0,0,,Okay, each group gets\N15 minutes to perform.
+Dialogue: 0,0:17:35.12,0:17:38.70,Base,,0,0,0,,I've marked out the 'stage' with tape,\Nso use that as a guide.
+Dialogue: 0,0:17:39.26,0:17:40.88,Base,,0,0,0,,Group A is first...
+Dialogue: 0,0:17:40.88,0:17:44.17,Base,,0,0,0,,...most of the time,\Nso let's go with Group E.
+Dialogue: 0,0:17:44.69,0:17:46.77,Base,,0,0,0,,We have to go {\i1}first{\i0}?!
+Dialogue: 0,0:17:46.77,0:17:50.11,Base,,0,0,0,,We didn't even think about\Nthe size of the actual stage.
+Dialogue: 0,0:17:50.11,0:17:51.86,Base,,0,0,0,,Okay, let's imagine it now!
+Dialogue: 0,0:17:53.28,0:17:54.77,Base,,0,0,0,,There's a balcony up above,
+Dialogue: 0,0:17:55.93,0:17:57.68,Base,,0,0,0,,and a big ballroom in the center.
+Dialogue: 0,0:17:58.10,0:18:00.09,Base,,0,0,0,,The lights are tinged with blue,
+Dialogue: 0,0:18:00.09,0:18:02.75,Base,,0,0,0,,and there's a crescent moon\Nthrough the window.
+Dialogue: 0,0:18:03.45,0:18:05.63,Base,,0,0,0,,What beauty!
+Dialogue: 0,0:18:05.63,0:18:10.72,Base,,0,0,0,,{\fad(0,631)}She shines like\Na rich jewel amidst the crowd!
+Dialogue: 0,0:18:10.99,0:18:13.92,Base,,0,0,0,,Love! This, truly, is love!
 Dialogue: 0,0:18:13.92,0:18:16.88,Base,,0,0,0,,--My life's road has led me\Nto her beautiful flame!
 Dialogue: 0,0:18:16.88,0:18:17.84,Base,,0,0,0,,--C'mon, now.\N--My life's road has led me\Nto her beautiful flame!
-Dialogue: 0,0:18:17.84,0:18:20.39,Base,,0,0,0,,Stop trying to gauge my reaction.
-Dialogue: 0,0:18:20.39,0:18:23.31,Base,,0,0,0,,Keep looking at me,\Nand you'll flub your lines.
-Dialogue: 0,0:18:23.31,0:18:26.10,Base,,0,0,0,,Good woman! Who is her mother?
-Dialogue: 0,0:18:26.10,0:18:29.73,Base,,0,0,0,,--Why sir, her mother is the\Nlady of the house, Lady Capulet.
-Dialogue: 0,0:18:29.73,0:18:32.11,Base,,0,0,0,,--She sure is spry for an old lady.\N--Why sir, her mother is the\Nlady of the house, Lady Capulet.
-Dialogue: 0,0:18:32.11,0:18:36.03,Base,,0,0,0,,Her daughter is a visage of beauty,\Nand intelligent, too!
-Dialogue: 0,0:18:36.03,0:18:39.16,Base,,0,0,0,,How fortunate I am to have nursed her!
-Dialogue: 0,0:18:39.16,0:18:42.95,Base,,0,0,0,,She is a visage of beauty, and...
+Dialogue: 0,0:18:17.95,0:18:20.59,Base,,0,0,0,,Stop trying to gauge my reaction.
+Dialogue: 0,0:18:20.59,0:18:22.96,Base,,0,0,0,,Keep looking at me,\Nand you'll flub your lines.
+Dialogue: 0,0:18:23.53,0:18:26.38,Base,,0,0,0,,Good woman! Who is her mother?
+Dialogue: 0,0:18:26.38,0:18:29.73,Base,,0,0,0,,--Why sir, her mother is the\Nlady of the house, Lady Capulet.
+Dialogue: 0,0:18:29.73,0:18:31.80,Base,,0,0,0,,--She sure is spry for an old lady.\N--Why sir, her mother is the\Nlady of the house, Lady Capulet.
+Dialogue: 0,0:18:32.33,0:18:36.23,Base,,0,0,0,,Her daughter is a visage of beauty,\Nand intelligent, too!
+Dialogue: 0,0:18:36.23,0:18:39.39,Base,,0,0,0,,How fortunate I am to have nursed her!
+Dialogue: 0,0:18:39.39,0:18:42.95,Base,,0,0,0,,She is a visage of beauty, and...
 Dialogue: 0,0:18:42.95,0:18:44.41,Base,,0,0,0,,I messed up!
-Dialogue: 0,0:18:47.75,0:18:50.00,Base,,0,0,0,,Oh, no, I'm gonna cry!
-Dialogue: 0,0:18:50.00,0:18:51.54,Base,,0,0,0,,It doesn't matter if we mess up.
-Dialogue: 0,0:18:51.54,0:18:55.59,Base,,0,0,0,,Just keep going until the end.
-Dialogue: 0,0:18:55.59,0:18:56.80,Base,,0,0,0,,Oh, my goodness!
-Dialogue: 0,0:18:56.80,0:19:00.26,Base,,0,0,0,,I felt those qualities of such importance,\NI said them twice!
-Dialogue: 0,0:19:01.72,0:19:03.18,Base,,0,0,0,,Nice save.
-Dialogue: 0,0:19:03.18,0:19:06.89,Base,,0,0,0,,My! Come hither, nurse!\NWhere goeth yonder gentleman?
-Dialogue: 0,0:19:06.89,0:19:09.56,Base,,0,0,0,,The man with visage radiant as the sun!
-Dialogue: 0,0:19:09.56,0:19:14.07,Base,,0,0,0,,I can tell she's had experience\Nbeing on a big stage before.
-Dialogue: 0,0:19:14.07,0:19:16.73,Base,,0,0,0,,--There, him now who is going out of door!\N--But boy, this Juliet...
-Dialogue: 0,0:19:16.73,0:19:19.32,Base,,0,0,0,,...is {\i1}so {\i0}not in love.
-Dialogue: 0,0:19:19.32,0:19:23.70,Base,,0,0,0,,--Go ask his name, if he be married...\N--Still, she keeps looking at me.
-Dialogue: 0,0:19:23.70,0:19:26.45,Base,,0,0,0,,And not how Hoshino was.
-Dialogue: 0,0:19:26.45,0:19:28.25,Base,,0,0,0,,--My only love, sprung from my only hate.
-Dialogue: 0,0:19:28.25,0:19:30.54,Base,,0,0,0,,--Hold on, Narata...\N--My only love, sprung from my only hate.
-Dialogue: 0,0:19:30.54,0:19:33.71,Base,,0,0,0,,Are you performing for\Nan audience of {\i1}one{\i0}?
-Dialogue: 0,0:19:33.71,0:19:35.75,Base,,0,0,0,,Okay, next up, our Kouka misfit,\NSarasa Watanabe.
-Dialogue: 0,0:19:35.75,0:19:37.76,Base,,0,0,0,,{\an8}"Group E Roles"
-Dialogue: 0,0:19:35.75,0:19:37.76,Base,,0,0,0,,Okay, next up, our Kouka misfit,\NSarasa Watanabe.
-Dialogue: 0,0:19:40.30,0:19:42.14,Base,,0,0,0,,That voice, is that Romeo?
-Dialogue: 0,0:19:42.14,0:19:44.51,Base,,0,0,0,,Romeo, of house Montague?!
-Dialogue: 0,0:19:44.51,0:19:49.93,Base,,0,0,0,,How dare the man come hither,\Nto the Capulet mansion itself!
-Dialogue: 0,0:19:49.93,0:19:52.06,Base,,0,0,0,,She's directing her gaze\Nat the balcony seats.
-Dialogue: 0,0:19:52.06,0:19:55.19,Base,,0,0,0,,And she's keeping her eyes at a 45-degree\Nangle so the lights will catch them.
-Dialogue: 0,0:19:55.19,0:19:56.32,Base,,0,0,0,,Impressive.
-Dialogue: 0,0:19:56.32,0:19:59.90,Base,,0,0,0,,Fetch me my rapier, boy!
-Dialogue: 0,0:20:01.20,0:20:02.82,Base,,0,0,0,,That Romeo...
-Dialogue: 0,0:20:02.82,0:20:05.53,Base,,0,0,0,,...is naught but a villain.
-Dialogue: 0,0:20:07.49,0:20:11.75,Base,,0,0,0,,Sarasa Watanabe was reborn overnight.
-Dialogue: 0,0:20:11.75,0:20:15.59,Base,,0,0,0,,And because today, she has an audience,
-Dialogue: 0,0:20:15.59,0:20:17.00,Base,,0,0,0,,it's even more--
-Dialogue: 0,0:20:17.00,0:20:20.63,Base,,0,0,0,,Okay! Good job, Group E.
-Dialogue: 0,0:20:20.63,0:20:24.97,Base,,0,0,0,,Here's a question for you.\NWho did you imagine as your audience?
-Dialogue: 0,0:20:24.97,0:20:26.60,Base,,0,0,0,,The people in this room right now.
-Dialogue: 0,0:20:26.60,0:20:29.31,Base,,0,0,0,,I-I didn't think about it.
-Dialogue: 0,0:20:29.31,0:20:31.56,Base,,0,0,0,,A full house with balcony seats!
-Dialogue: 0,0:20:31.56,0:20:32.85,Base,,0,0,0,,One person.
-Dialogue: 0,0:20:32.85,0:20:35.73,Base,,0,0,0,,So that's why you were\Nstaring at me that whole time?
-Dialogue: 0,0:20:35.73,0:20:36.61,Base,,0,0,0,,Yes.
-Dialogue: 0,0:20:36.61,0:20:40.49,Base,,0,0,0,,In JPX, they told us that even if\Nwe only had an audience of one,
-Dialogue: 0,0:20:40.49,0:20:45.20,Base,,0,0,0,,we should direct our performance\Ntowards them and give it our all.
-Dialogue: 0,0:20:45.20,0:20:47.33,Base,,0,0,0,,That's a good thought,
-Dialogue: 0,0:20:47.33,0:20:53.75,Base,,0,0,0,,but the Kouka theater holds 2,500 people,\Nand every performance is a full house.
-Dialogue: 0,0:20:53.75,0:20:58.50,Base,,0,0,0,,When you're acting, you should act\Nfor every one of those 2,500 people!
-Dialogue: 0,0:20:58.50,0:20:59.59,Base,,0,0,0,,Got it!
-Dialogue: 0,0:20:59.59,0:21:03.47,Base,,0,0,0,,Also, Narata, if you're going to play\Na {\i1}musume-yaku{\i0}, try to be a little sweeter.
-Dialogue: 0,0:21:03.47,0:21:06.84,Base,,0,0,0,,This is the first time I've seen\Na Juliet who didn't smile.
-Dialogue: 0,0:21:06.84,0:21:08.26,Base,,0,0,0,,Next, Chika Sawada!
-Dialogue: 0,0:21:08.26,0:21:09.51,Base,,0,0,0,,Yes, sir!
-Dialogue: 0,0:21:09.51,0:21:13.56,Base,,0,0,0,,Great recovery after\Nyou flubbed your line there.
-Dialogue: 0,0:21:13.56,0:21:17.44,Base,,0,0,0,,But hunching over doesn't\Nmake you an old woman.
-Dialogue: 0,0:21:17.44,0:21:19.40,Base,,0,0,0,,Use that imagination.
-Dialogue: 0,0:21:19.40,0:21:20.86,Base,,0,0,0,,Yes, sir.
-Dialogue: 0,0:21:20.86,0:21:21.90,Base,,0,0,0,,Next up, Hoshino.
-Dialogue: 0,0:21:21.90,0:21:22.74,Base,,0,0,0,,Sir!
-Dialogue: 0,0:21:22.74,0:21:25.61,Base,,0,0,0,,Don't let your mind stray\Nwhen you're performing.
-Dialogue: 0,0:21:25.61,0:21:27.57,Base,,0,0,0,,Leave yourself behind\Nwhen you step on stage.
-Dialogue: 0,0:21:27.57,0:21:30.66,Base,,0,0,0,,--Okay, next!\N--Wait, is that it?
-Dialogue: 0,0:21:30.66,0:21:32.75,Base,,0,0,0,,For now, yeah.
-Dialogue: 0,0:21:32.75,0:21:35.33,Base,,0,0,0,,You haven't learned any skills yet,
-Dialogue: 0,0:21:35.33,0:21:39.17,Base,,0,0,0,,so I want you to act\Nhowever you want for now.
-Dialogue: 0,0:21:39.17,0:21:43.17,Base,,0,0,0,,Don't get too hung up on my critique.
-Dialogue: 0,0:21:43.17,0:21:44.72,Base,,0,0,0,,Right, last up, Watanabe.
-Dialogue: 0,0:21:44.72,0:21:46.22,Base,,0,0,0,,Yes, sir!
-Dialogue: 0,0:21:46.22,0:21:48.89,Base,,0,0,0,,Your impression was uncanny.
-Dialogue: 0,0:21:48.89,0:21:51.68,Base,,0,0,0,,I'll admit, I was shocked.
-Dialogue: 0,0:21:51.68,0:21:54.10,Base,,0,0,0,,But I'm sorry, Watanabe,
-Dialogue: 0,0:21:54.10,0:21:57.10,Base,,0,0,0,,you'll never be a top star.
-Dialogue: 0,0:22:00.02,0:22:04.57,Base,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka Revue.
-Dialogue: 0,0:23:35.03,0:23:39.91,Base,,0,0,0,,{\an8}"Act 7: The Hanamichi\Nand the Silver Bridge"
+Dialogue: 0,0:18:48.01,0:18:49.81,Base,,0,0,0,,Oh, no, I'm gonna cry!
+Dialogue: 0,0:18:50.23,0:18:51.83,Base,,0,0,0,,It doesn't matter if we mess up.
+Dialogue: 0,0:18:51.83,0:18:55.28,Base,,0,0,0,,Just keep going until the end.
+Dialogue: 0,0:18:55.85,0:18:57.02,Base,,0,0,0,,Oh, my goodness!
+Dialogue: 0,0:18:57.02,0:19:00.26,Base,,0,0,0,,I felt those qualities of such importance,\NI said them twice!
+Dialogue: 0,0:19:01.97,0:19:02.79,Base,,0,0,0,,Nice save.
+Dialogue: 0,0:19:03.44,0:19:07.13,Base,,0,0,0,,My! Come hither, nurse!\NWhere goeth yonder gentleman?
+Dialogue: 0,0:19:07.13,0:19:09.29,Base,,0,0,0,,The man with visage radiant as the sun!
+Dialogue: 0,0:19:09.87,0:19:13.78,Base,,0,0,0,,I can tell she's had experience\Nbeing on a big stage before.
+Dialogue: 0,0:19:14.29,0:19:16.73,Base,,0,0,0,,--There, him now who is going out of door!\N--But boy, this Juliet...
+Dialogue: 0,0:19:16.99,0:19:19.05,Base,,0,0,0,,...is {\i1}so {\i0}not in love.
+Dialogue: 0,0:19:19.32,0:19:23.31,Base,,0,0,0,,--Go ask his name, if he be married...\N--Still, she keeps looking at me.
+Dialogue: 0,0:19:23.99,0:19:26.31,Base,,0,0,0,,And not how Hoshino was.
+Dialogue: 0,0:19:26.71,0:19:28.25,Base,,0,0,0,,--My only love, sprung from my only hate.
+Dialogue: 0,0:19:28.25,0:19:30.29,Base,,0,0,0,,--Hold on, Narata...\N--My only love, sprung from my only hate.
+Dialogue: 0,0:19:30.80,0:19:33.32,Base,,0,0,0,,Are you performing for\Nan audience of {\i1}one{\i0}?
+Dialogue: 0,0:19:33.97,0:19:37.53,Base,,0,0,0,,Okay, next up, our Kouka misfit,\NSarasa Watanabe.
+Dialogue: 0,0:19:35.75,0:19:37.53,Base,,0,0,0,,{\an8}"Group E Roles"
+Dialogue: 0,0:19:40.30,0:19:42.45,Base,,0,0,0,,That voice, is that Romeo?
+Dialogue: 0,0:19:42.45,0:19:44.18,Base,,0,0,0,,Romeo, of house Montague?!
+Dialogue: 0,0:19:44.73,0:19:49.78,Base,,0,0,0,,How dare the man come hither,\Nto the Capulet mansion itself!
+Dialogue: 0,0:19:50.32,0:19:52.35,Base,,0,0,0,,She's directing her gaze\Nat the balcony seats.
+Dialogue: 0,0:19:52.35,0:19:55.39,Base,,0,0,0,,And she's keeping her eyes at a 45-degree\Nangle so the lights will catch them.
+Dialogue: 0,0:19:55.39,0:19:56.05,Base,,0,0,0,,Impressive.
+Dialogue: 0,0:19:56.56,0:19:59.55,Base,,0,0,0,,Fetch me my rapier, boy!
+Dialogue: 0,0:20:01.44,0:20:02.99,Base,,0,0,0,,That Romeo...
+Dialogue: 0,0:20:02.99,0:20:05.31,Base,,0,0,0,,...is naught but a villain.
+Dialogue: 0,0:20:07.75,0:20:11.57,Base,,0,0,0,,Sarasa Watanabe was reborn overnight.
+Dialogue: 0,0:20:12.00,0:20:15.91,Base,,0,0,0,,And because today, she has an audience,
+Dialogue: 0,0:20:15.91,0:20:17.27,Base,,0,0,0,,it's even more--
+Dialogue: 0,0:20:17.27,0:20:20.24,Base,,0,0,0,,Okay! Good job, Group E.
+Dialogue: 0,0:20:20.89,0:20:24.48,Base,,0,0,0,,Here's a question for you.\NWho did you imagine as your audience?
+Dialogue: 0,0:20:25.21,0:20:26.90,Base,,0,0,0,,The people in this room right now.
+Dialogue: 0,0:20:26.90,0:20:29.10,Base,,0,0,0,,I-I didn't think about it.
+Dialogue: 0,0:20:29.60,0:20:31.39,Base,,0,0,0,,A full house with balcony seats!
+Dialogue: 0,0:20:31.91,0:20:32.67,Base,,0,0,0,,One person.
+Dialogue: 0,0:20:33.12,0:20:36.02,Base,,0,0,0,,So that's why you were\Nstaring at me that whole time?
+Dialogue: 0,0:20:36.02,0:20:36.38,Base,,0,0,0,,Yes.
+Dialogue: 0,0:20:36.87,0:20:40.71,Base,,0,0,0,,In JPX, they told us that even if\Nwe only had an audience of one,
+Dialogue: 0,0:20:40.71,0:20:44.89,Base,,0,0,0,,we should direct our performance\Ntowards them and give it our all.
+Dialogue: 0,0:20:45.51,0:20:47.10,Base,,0,0,0,,That's a good thought,
+Dialogue: 0,0:20:47.61,0:20:53.15,Base,,0,0,0,,but the Kouka theater holds 2,500 people,\Nand every performance is a full house.
+Dialogue: 0,0:20:53.99,0:20:58.71,Base,,0,0,0,,When you're acting, you should act\Nfor every one of those 2,500 people!
+Dialogue: 0,0:20:58.71,0:20:59.15,Base,,0,0,0,,Got it!
+Dialogue: 0,0:20:59.85,0:21:03.67,Base,,0,0,0,,Also, Narata, if you're going to play\Na {\i1}musume-yaku{\i0}, try to be a little sweeter.
+Dialogue: 0,0:21:03.67,0:21:06.41,Base,,0,0,0,,This is the first time I've seen\Na Juliet who didn't smile.
+Dialogue: 0,0:21:07.09,0:21:08.57,Base,,0,0,0,,Next, Chika Sawada!
+Dialogue: 0,0:21:08.57,0:21:09.22,Base,,0,0,0,,Yes, sir!
+Dialogue: 0,0:21:09.83,0:21:12.48,Base,,0,0,0,,Great recovery after\Nyou flubbed your line there.
+Dialogue: 0,0:21:13.76,0:21:17.75,Base,,0,0,0,,But hunching over doesn't\Nmake you an old woman.
+Dialogue: 0,0:21:17.75,0:21:19.61,Base,,0,0,0,,Use that imagination.
+Dialogue: 0,0:21:19.61,0:21:20.43,Base,,0,0,0,,Yes, sir.
+Dialogue: 0,0:21:21.13,0:21:22.10,Base,,0,0,0,,Next up, Hoshino.
+Dialogue: 0,0:21:22.10,0:21:22.97,Base,,0,0,0,,Sir!
+Dialogue: 0,0:21:22.97,0:21:25.39,Base,,0,0,0,,Don't let your mind stray\Nwhen you're performing.
+Dialogue: 0,0:21:25.86,0:21:27.91,Base,,0,0,0,,Leave yourself behind\Nwhen you step on stage.
+Dialogue: 0,0:21:27.91,0:21:30.29,Base,,0,0,0,,--Okay, next!\N--Wait, is that it?
+Dialogue: 0,0:21:30.94,0:21:32.26,Base,,0,0,0,,For now, yeah.
+Dialogue: 0,0:21:33.03,0:21:35.53,Base,,0,0,0,,You haven't learned any skills yet,
+Dialogue: 0,0:21:35.53,0:21:38.57,Base,,0,0,0,,so I want you to act\Nhowever you want for now.
+Dialogue: 0,0:21:39.49,0:21:42.32,Base,,0,0,0,,Don't get too hung up on my critique.
+Dialogue: 0,0:21:43.41,0:21:44.97,Base,,0,0,0,,Right, last up, Watanabe.
+Dialogue: 0,0:21:44.97,0:21:45.58,Base,,0,0,0,,Yes, sir!
+Dialogue: 0,0:21:46.48,0:21:48.62,Base,,0,0,0,,Your impression was uncanny.
+Dialogue: 0,0:21:49.17,0:21:50.96,Base,,0,0,0,,I'll admit, I was shocked.
+Dialogue: 0,0:21:52.00,0:21:53.33,Base,,0,0,0,,But I'm sorry, Watanabe,
+Dialogue: 0,0:21:54.34,0:21:57.10,Base,,0,0,0,,you'll never be a top star.
+Dialogue: 0,0:22:00.41,0:22:04.45,Base,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka Revue.
+Dialogue: 0,0:22:23.20,0:22:30.16,ED,,0,0,0,,{\fad(200,200)}{\blur9}I'll keep walking on the path that glows white in the darkness
+Dialogue: 0,0:22:30.16,0:22:36.16,ED,,0,0,0,,{\fad(200,200)}{\blur9}A long, narrow path that can only be walked alone
+Dialogue: 0,0:22:36.16,0:22:43.19,ED,,0,0,0,,{\fad(200,200)}{\blur9}I walk forward so that I won't fall behind other people's shadows
+Dialogue: 0,0:22:43.19,0:22:49.83,ED,,0,0,0,,{\fad(200,200)}{\blur9}If I just head straight forward, it'll appear right in front of me
+Dialogue: 0,0:22:49.83,0:22:53.12,ED,,0,0,0,,{\fad(200,200)}{\blur9}Now, let's open the door
+Dialogue: 0,0:22:54.99,0:22:58.20,ED,,0,0,0,,{\fad(200,200)}{\blur9}There are sparkling stars in this vast sky
+Dialogue: 0,0:22:58.20,0:23:00.74,ED,,0,0,0,,{\fad(200,200)}{\blur9}If just I had wings,
+Dialogue: 0,0:23:01.36,0:23:07.32,ED,,0,0,0,,{\fad(200,200)}{\blur9}I'd flap and flutter high through the space like a bird
+Dialogue: 0,0:23:07.91,0:23:14.00,ED,,0,0,0,,{\fad(200,200)}{\blur9}Going around the constellations, and pursuing the stars
+Dialogue: 0,0:23:14.68,0:23:20.47,ED,,0,0,0,,{\fad(200,200)}{\blur9}we had just started this endless journey
+Dialogue: 0,0:23:35.03,0:23:39.98,Base,,0,0,0,,{\an8}"Act 7: The Hanamichi\Nand the Silver Bridge"
