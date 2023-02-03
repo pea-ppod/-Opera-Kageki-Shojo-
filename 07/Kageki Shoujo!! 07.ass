@@ -17,9 +17,9 @@ Video File: ../../../source/kageki/vcb/[Nekomoe kissaten&VCB-Studio] Kageki Shoj
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 129
-Active Line: 133
-Video Position: 12530
+Scroll Position: 319
+Active Line: 322
+Video Position: 29691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,7 +183,7 @@ Dialogue: 0,0:09:24.43,0:09:28.14,Flashback,,0,0,0,,So what're you learning, Aki
 Dialogue: 0,0:09:28.14,0:09:29.27,Flashback,,0,0,0,,Yakko.
 Dialogue: 0,0:09:29.27,0:09:32.36,Flashback,,0,0,0,,Ooh, I wanna do Yakko, too!
 Dialogue: 0,0:09:32.36,0:09:33.98,Flashback,,0,0,0,,Can I do it, too, Ms. Tomoe?
-Dialogue: 0,0:09:33.98,0:09:35.30,Flashback,,0,0,0,,Sure.
+Dialogue: 0,0:09:33.98,0:09:35.30,Flashback,,0,0,0,,Well...
 Dialogue: 0,0:09:38.45,0:09:39.39,Flashback,,0,0,0,,Master Kaou?
 Dialogue: 0,0:09:40.99,0:09:42.49,Flashback,,0,0,0,,Great Great Master's here, too!
 Dialogue: 0,0:09:42.49,0:09:44.19,Flashback,,0,0,0,,Can I watch you two dance?
@@ -193,7 +193,7 @@ Dialogue: 0,0:09:50.96,0:09:55.13,Base,,0,0,0,,I started training to perform kab
 Dialogue: 0,0:09:56.71,0:09:59.01,Base,,0,0,0,,The kabuki world values bloodline,
 Dialogue: 0,0:09:59.01,0:10:02.46,Base,,0,0,0,,which meant that I was the most likely\Nperson to become the 16th Shirakawa Kaou.
 Dialogue: 0,0:10:03.51,0:10:03.96,Base,,0,0,0,,However...
-Dialogue: 0,0:10:12.77,0:10:14.19,Flashback,,0,0,0,,Akiya! Are you okay?!
+Dialogue: 0,0:10:12.77,0:10:14.19,Flashback,,0,0,0,,Akiya! Are you okay?
 Dialogue: 0,0:10:16.19,0:10:17.74,Flashback,,0,0,0,,Did you hit your head?
 Dialogue: 0,0:10:17.74,0:10:20.45,Flashback,,0,0,0,,S-Sorry, I'm okay.
 Dialogue: 0,0:10:20.45,0:10:22.24,Flashback,,0,0,0,,Are you okay, Akiya?
@@ -213,7 +213,7 @@ Dialogue: 0,0:11:08.70,0:11:14.63,Flashback,,0,0,0,,Akiya! A newbie like you's o
 Dialogue: 0,0:11:14.63,0:11:20.83,Flashback,,0,0,0,,{\fad(0, 609)}If Kouzaburou has a boy,\Nthey'll throw you right into the trash!
 Dialogue: 0,0:11:25.18,0:11:26.17,Flashback,,0,0,0,,What?
 Dialogue: 0,0:11:26.51,0:11:29.88,Flashback,,0,0,0,,I'm the only kid who can perform today?
-Dialogue: 0,0:11:29.93,0:11:35.26,Flashback,,0,0,0,,Yeah, all the other kids\Ncame down with a bad flu.
+Dialogue: 0,0:11:29.93,0:11:35.26,Flashback,,0,0,0,,Yeah, all the other kids came down with a bad flu.
 Dialogue: 0,0:11:35.48,0:11:38.05,Flashback,,0,0,0,,I have to go out there by myself?
 Dialogue: 0,0:11:40.07,0:11:42.51,Flashback,,0,0,0,,You'll be fine, Akiya.
 Dialogue: 0,0:11:43.49,0:11:47.58,Flashback,,0,0,0,,Thank you so much for inviting us today.
@@ -285,7 +285,7 @@ Dialogue: 0,0:15:50.07,0:15:50.90,Base,,0,0,0,,Then...
 Dialogue: 0,0:15:51.65,0:15:52.76,Flashback,,0,0,0,,Cut the bullcrap!
 Dialogue: 0,0:15:53.20,0:15:58.73,Flashback,,0,0,0,,We did {\i1}not {\i0}bring Sarasa here so she could\Nget traumatized by the lot of you!
 Dialogue: 0,0:15:58.91,0:16:01.36,Flashback,,0,0,0,,We are done with you!
-Dialogue: 0,0:16:02.00,0:16:06.96,Flashback,,0,0,0,,She's our little girl.\NFind yourself another tatami shop!
+Dialogue: 0,0:16:02.00,0:16:06.96,Flashback,,0,0,0,,She's {\i1}our{\i0} little girl.\NFind yourself another tatami shop!
 Dialogue: 0,0:16:06.96,0:16:10.62,Base,,0,0,0,,Kouzaburou kept his head bowed the entire time.
 Dialogue: 0,0:16:15.89,0:16:19.51,Flashback,,0,0,0,,You're the kabuki boy who's friends with Sarasa.
 Dialogue: 0,0:16:19.51,0:16:23.64,Flashback,,0,0,0,,Sorry about all that yelling.\NDidn't mean to scare ya.
@@ -355,7 +355,7 @@ Dialogue: 0,0:19:58.23,0:20:00.22,Base,,0,0,0,,Take me to see the kabuki play.
 Dialogue: 0,0:20:28.01,0:20:30.47,Flashback,,0,0,0,,Look, it's Sukeroku's 'The Entrance.'\NI'm so good at it!
 Dialogue: 0,0:20:30.47,0:20:32.67,Flashback,,0,0,0,,Yes, you sure are.
 Dialogue: 0,0:20:33.06,0:20:37.18,Flashback,,0,0,0,,When I grow up, I'm gonna be Sukeroku!
-Dialogue: 0,0:20:38.36,0:20:41.43,Flashback,,0,0,0,,Wow. I wish I could see that.
+Dialogue: 0,0:20:38.36,0:20:41.43,Flashback,,0,0,0,,Yeah, that'd be nice.
 Dialogue: 0,0:20:48.70,0:20:55.45,Base,,0,0,0,,{\i1}I didn't know if her tears were because of fond memories or something else entirely.{\i0}
 Dialogue: 0,0:20:56.12,0:21:01.34,Base,,0,0,0,,{\i1}I just hope she doesn't regret coming tonight.{\i0}
 Dialogue: 0,0:21:01.92,0:21:03.99,Base,,0,0,0,,Did you have a fun summer break?
