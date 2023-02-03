@@ -17,28 +17,28 @@ Video File: ../../../source/kageki/vcb/[Nekomoe kissaten&VCB-Studio] Kageki Shoj
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 351
-Active Line: 341
-Video Position: 33997
+Scroll Position: 129
+Active Line: 133
+Video Position: 12530
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
 Style: Base,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,139,139,55,1
 Style: OP,Morning Signature,100,&H00FFFFFF,&H000000FF,&H00D905AB,&H00000000,0,-1,0,0,100,100,0,0,1,3,0,2,10,10,6,1
-Style: Base - Top,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,139,139,55,1
+Style: Base - Top,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H00756206,&H00DAAE1F,0,0,0,0,100,100,0,0,1,3.9,0,2,139,139,55,1
 Style: ED,Fondamento,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,15,1
 Style: Flashback,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H0039011E,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,139,139,55,1
 Style: Flashback - Top,Fontin Sans Rg,68,&H00FFFFFF,&H000000FF,&H0039011E,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,139,139,55,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.74,0:00:03.30,Base,,0,0,0,,Summer break began.
-Dialogue: 0,0:00:04.25,0:00:06.34,Base,,0,0,0,,The students headed home.
-Dialogue: 0,0:00:06.87,0:00:09.13,Base,,0,0,0,,When I said I was going to\Nstay at the dorm,
-Dialogue: 0,0:00:09.13,0:00:11.37,Base,,0,0,0,,Sarasa invited me to stay with her.
-Dialogue: 0,0:00:11.84,0:00:14.37,Base,,0,0,0,,I'm going to stay with\Na friend over summer break.
-Dialogue: 0,0:00:15.05,0:00:17.93,Base,,0,0,0,,It's really like... we're best friends!
+Dialogue: 0,0:00:01.74,0:00:03.30,Base,,0,0,0,,{\i1}Summer break began.{\i0}
+Dialogue: 0,0:00:04.25,0:00:06.38,Base,,0,0,0,,{\i1}The students headed home.{\i0}
+Dialogue: 0,0:00:06.87,0:00:09.13,Base,,0,0,0,,{\i1}When I said I was going to stay at the dorm,{\i0}
+Dialogue: 0,0:00:09.13,0:00:11.37,Base,,0,0,0,,{\i1}Sarasa invited me to stay with her.{\i0}
+Dialogue: 0,0:00:11.84,0:00:14.37,Base,,0,0,0,,{\i1}I'm going to stay with a friend over summer break.{\i0}
+Dialogue: 0,0:00:15.05,0:00:17.93,Base,,0,0,0,,{\i1}It's really like... what friends do!{\i0}
 Dialogue: 0,0:00:34.24,0:00:39.49,OP,,0,0,0,,{\fad(200,200)}{\blur9}Everyone dreams of becoming a superstar at least once
 Dialogue: 0,0:00:39.49,0:00:44.77,OP,,0,0,0,,{\fad(200,200)}{\blur9}So that you can make the world envious
 Dialogue: 0,0:00:44.77,0:00:47.52,OP,,0,0,0,,{\fad(200,200)}{\blur9}1, 2, 3, quick like Allegro
@@ -52,273 +52,272 @@ Dialogue: 0,0:01:16.39,0:01:22.31,OP,,0,0,0,,{\fad(200,200)}{\blur9}Tomorrow's g
 Dialogue: 0,0:01:22.31,0:01:26.23,OP,,0,0,0,,{\fad(200,200)}{\blur9}So dream as many times as you want
 Dialogue: 0,0:01:26.23,0:01:31.71,OP,,0,0,0,,{\fad(200,200)}{\blur9}Someday, become the stage's sparkling star
 Dialogue: 0,0:01:31.71,0:01:36.92,OP,,0,0,0,,{\fad(200,200)}{\blur9}so that the spotlight shines upon you
-Dialogue: 0,0:01:48.81,0:01:52.02,Base,,0,0,0,,{\an8}"The Hanamichi and the Silver Bridge"
-Dialogue: 0,0:01:51.31,0:01:53.21,Base,,0,0,0,,What can I say to her\Nto make her feel better?
-Dialogue: 0,0:01:54.23,0:01:59.09,Base,,0,0,0,,Wait, girls always get excited\Ntalking about their boyfriends, right?
+Dialogue: 0,0:01:48.81,0:01:52.02,Base,,0,0,0,,{\an8}"The Platform and the Silver Bridge"
+Dialogue: 0,0:01:51.31,0:01:53.21,Base,,0,0,0,,{\i1}How can I make her feel better?{\i0}
+Dialogue: 0,0:01:54.23,0:01:59.09,Base,,0,0,0,,{\i1}Wait, girls always get excited\Ntalking about their boyfriends, right?{\i0}
 Dialogue: 0,0:01:59.70,0:02:02.73,Base,,0,0,0,,Hey, what's your boyfriend like, Sarasa?
-Dialogue: 0,0:02:04.12,0:02:08.08,Base,,0,0,0,,His name's Akiya-kun,\Nand he's training to be a kabuki actor.
+Dialogue: 0,0:02:04.12,0:02:08.08,Base,,0,0,0,,His name's Akiya, and he's training to be a kabuki actor.
 Dialogue: 0,0:02:08.08,0:02:09.29,Base,,0,0,0,,Oh, cool.
 Dialogue: 0,0:02:09.29,0:02:10.28,Base,,0,0,0,,Yeah.
-Dialogue: 0,0:02:11.50,0:02:13.03,Base,,0,0,0,,She didn't get excited at all.
-Dialogue: 0,0:02:15.96,0:02:17.64,Base,,0,0,0,,But I'm sorry, Watanabe.
-Dialogue: 0,0:02:18.34,0:02:21.37,Base,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka revue.
-Dialogue: 0,0:02:23.22,0:02:27.00,Base,,0,0,0,,You weren't playing Tybalt.\NYou were playing Sei Satomi's Tybalt.
-Dialogue: 0,0:02:27.47,0:02:31.73,Base,,0,0,0,,It was a perfect copy of her performance.\NThat's why it was so good.
-Dialogue: 0,0:02:31.73,0:02:36.64,Base,,0,0,0,,But copying doesn't get you success\Nin the Kouka revue's star system.
-Dialogue: 0,0:02:36.86,0:02:40.39,Base,,0,0,0,,Everything on that stage is built\Nto make their top stars shine.
-Dialogue: 0,0:02:40.86,0:02:45.58,Base,,0,0,0,,They don't want a traced-over copy\Nof already-existing stars.
-Dialogue: 0,0:02:45.58,0:02:47.95,Base,,0,0,0,,They want something totally new.
-Dialogue: 0,0:02:47.95,0:02:50.20,Base,,0,0,0,,They want {\i1}you{\i0}, Sarasa Watanabe.
-Dialogue: 0,0:02:50.20,0:02:54.17,Base,,0,0,0,,And there wasn't any of {\i1}you{\i0}\Nin that Tybalt.
+Dialogue: 0,0:02:11.50,0:02:13.03,Base,,0,0,0,,{\i1}She didn't get excited at all.{\i0}
+Dialogue: 0,0:02:15.96,0:02:17.64,Flashback,,0,0,0,,But I'm sorry, Watanabe.
+Dialogue: 0,0:02:18.34,0:02:21.37,Flashback,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka revue.
+Dialogue: 0,0:02:23.22,0:02:27.00,Flashback,,0,0,0,,You weren't playing Tybalt.\NYou were playing Satomi Sei's Tybalt.
+Dialogue: 0,0:02:27.47,0:02:31.73,Flashback,,0,0,0,,It was a perfect copy of her performance.\NThat's why it was so good.
+Dialogue: 0,0:02:31.73,0:02:36.64,Flashback,,0,0,0,,But copying doesn't get you success\Nin the Kouka revue's star system.
+Dialogue: 0,0:02:36.86,0:02:40.39,Flashback,,0,0,0,,Everything on that stage is built\Nto make their top stars shine.
+Dialogue: 0,0:02:40.86,0:02:45.58,Flashback,,0,0,0,,They don't want a traced-over copy\Nof already-existing stars.
+Dialogue: 0,0:02:45.58,0:02:47.95,Flashback,,0,0,0,,They want something totally new.
+Dialogue: 0,0:02:47.95,0:02:50.20,Flashback,,0,0,0,,They want {\i1}you{\i0}, Watanabe Sarasa.
+Dialogue: 0,0:02:50.20,0:02:54.17,Flashback,,0,0,0,,And there wasn't any of {\i1}you{\i0} in that Tybalt.
 Dialogue: 0,0:02:55.96,0:02:56.68,Base,,0,0,0,,Sarasa?
 Dialogue: 0,0:02:58.67,0:03:03.20,Base,,0,0,0,,Sorry, did you say something?\NI was totally lost in thought.
-Dialogue: 0,0:03:03.59,0:03:05.64,Base,,0,0,0,,Thinking about what Andou-sensei said?
+Dialogue: 0,0:03:03.59,0:03:05.64,Base,,0,0,0,,Thinking about what Mr. Andou said?
 Dialogue: 0,0:03:05.64,0:03:06.68,Base,,0,0,0,,Yeah.
 Dialogue: 0,0:03:06.68,0:03:11.92,Base,,0,0,0,,For a guy who looks like he doesn't\Nbrush his hair, he sure is harsh.
 Dialogue: 0,0:03:13.27,0:03:15.35,Base,,0,0,0,,Don't make fun of his hair!
 Dialogue: 0,0:03:15.35,0:03:19.30,Base,,0,0,0,,He's actually pretty sensitive\Nabout his curly hair.
-Dialogue: 0,0:03:19.48,0:03:20.57,Base,,0,0,0,,Wait, you're the--
+Dialogue: 0,0:03:19.48,0:03:20.57,Base,,0,0,0,,Wait, you're the—
 Dialogue: 0,0:03:20.57,0:03:22.05,Base,,0,0,0,,The top stars of the Winter Troupe!
-Dialogue: 0,0:03:23.03,0:03:25.57,Base,,0,0,0,,I wanted to be a {\i1}musume-yaku{\i0},
+Dialogue: 0,0:03:23.03,0:03:25.57,Base,,0,0,0,,I wanted to be a Female Lead,
 Dialogue: 0,0:03:25.57,0:03:29.20,Base,,0,0,0,,but ended up growing seven centimeters\Nin my first year at Kouka.
-Dialogue: 0,0:03:29.20,0:03:32.41,Base,,0,0,0,,You even threatened to drop out\Nif you couldn't play women's roles.
-Dialogue: 0,0:03:32.41,0:03:32.78,Base,,0,0,0,,Really?!
-Dialogue: 0,0:03:33.54,0:03:37.75,Base,,0,0,0,,But the Phantom encouraged me to stay,\Nso I agreed to play {\i1}otoko-yaku {\i0}roles.
+Dialogue: 0,0:03:29.20,0:03:32.41,Base,,0,0,0,,You even threatened to drop out\Nif you couldn't play Female Lead.
+Dialogue: 0,0:03:32.41,0:03:33.11,Base,,0,0,0,,Really?
+Dialogue: 0,0:03:33.54,0:03:37.75,Base,,0,0,0,,But the Phantom encouraged me to stay,\Nso I agreed to play Male Lead
 Dialogue: 0,0:03:38.54,0:03:39.87,Base,,0,0,0,,Are you two headed to Tokyo, too?
 Dialogue: 0,0:03:40.21,0:03:41.74,Base,,0,0,0,,Yes, we're visiting home.
 Dialogue: 0,0:03:41.92,0:03:42.65,Base,,0,0,0,,Great.
 Dialogue: 0,0:03:43.13,0:03:47.10,Base,,0,0,0,,We're headed to a meeting to discuss\Nmy debut performance as Winter's top star.
 Dialogue: 0,0:03:47.10,0:03:48.88,Base,,0,0,0,,We're doing {\i1}The Phantom of the Opera{\i0}.
-Dialogue: 0,0:03:48.97,0:03:53.75,Base,,0,0,0,,Random question, why do we call\NAndou-sensei the Phantom?
-Dialogue: 0,0:03:53.85,0:03:55.26,Base,,0,0,0,,You don't know?!
-Dialogue: 0,0:03:55.60,0:04:00.65,Base,,0,0,0,,Andou-sensei was a popular actor\Nin the Japanese musical troupe "Sou."
+Dialogue: 0,0:03:48.97,0:03:53.75,Base,,0,0,0,,Random question, why do we call Mr. Andou the Phantom?
+Dialogue: 0,0:03:53.85,0:03:55.26,Base,,0,0,0,,You don't know?
+Dialogue: 0,0:03:55.60,0:04:00.65,Base,,0,0,0,,Mr. Andou was a popular actor\Nin the Japanese musical troupe "Sou."
 Dialogue: 0,0:04:00.65,0:04:03.26,Base,,0,0,0,,And he was best known for playing\Nthe Phantom in {\i1}Phantom of the Opera{\i0}.
 Dialogue: 0,0:04:03.74,0:04:07.77,Base,,0,0,0,,I was a huge fan of his.\NI had a huge crush on him, too.
 Dialogue: 0,0:04:08.20,0:04:12.04,Base,,0,0,0,,But he hurt himself in an accident\Nwhen he fell into the orchestra pit,
 Dialogue: 0,0:04:12.04,0:04:13.65,Base,,0,0,0,,so he had to retire from acting.
 Dialogue: 0,0:04:14.29,0:04:18.30,Base,,0,0,0,,It crushed him.\NHe lives and breathes acting.
-Dialogue: 0,0:04:19.29,0:04:21.17,Base,,0,0,0,,I think that's why he\Ncame to teach at Kouka,
+Dialogue: 0,0:04:19.29,0:04:21.17,Base,,0,0,0,,I think that's why he came to teach at Kouka,
 Dialogue: 0,0:04:21.17,0:04:25.47,Base,,0,0,0,,to do whatever he could\Nto stay in the theater world.
 Dialogue: 0,0:04:35.85,0:04:39.23,Base,,0,0,0,,{\an8}"My acting teacher said my performance\Nwas just a copy of another top star.\NApparently copying is okay in kabuki,\Nbut not here."
 Dialogue: 0,0:04:39.23,0:04:41.36,Base,,0,0,0,,{\an8}"I'm so Sara-sad..."
-Dialogue: 0,0:04:48.07,0:04:50.48,Base,,0,0,0,,Daidai-sensei is so cool!
-Dialogue: 0,0:04:50.62,0:04:55.19,Base,,0,0,0,,Sarasa-chan, that's Kaou-san,\Nbut he's not the {\i1}real {\i0}Kaou-san.
-Dialogue: 0,0:04:55.33,0:04:57.82,Base,,0,0,0,,Huh? Really, Akiya-kun?
-Dialogue: 0,0:04:58.25,0:05:00.13,Base,,0,0,0,,Is that true, Dai-sensei?
-Dialogue: 0,0:05:00.13,0:05:01.50,Base,,0,0,0,,It sure is.
-Dialogue: 0,0:05:01.50,0:05:05.76,Base,,0,0,0,,Every kabuki performer learns to\Nperfectly copy the previous generation.
-Dialogue: 0,0:05:05.76,0:05:10.29,Base,,0,0,0,,When they act, they bring those\Ncenturies-old performers back to life.
-Dialogue: 0,0:05:10.89,0:05:12.26,Base,,0,0,0,,Back to life...?
+Dialogue: 0,0:04:48.07,0:04:50.48,Flashback,,0,0,0,,Great Great Master is so cool!
+Dialogue: 0,0:04:50.62,0:04:55.19,Flashback,,0,0,0,,Sarasa, that's Master Kaou,\Nbut he's not the {\i1}real {\i0}Master Kaou.
+Dialogue: 0,0:04:55.33,0:04:57.82,Flashback,,0,0,0,,Huh? Really, Akiya?
+Dialogue: 0,0:04:58.25,0:05:00.13,Flashback,,0,0,0,,Is that true, Great Master?
+Dialogue: 0,0:05:00.13,0:05:01.50,Flashback,,0,0,0,,It sure is.
+Dialogue: 0,0:05:01.50,0:05:05.76,Flashback,,0,0,0,,Every kabuki performer learns to\Nperfectly copy the previous generation.
+Dialogue: 0,0:05:05.76,0:05:10.29,Flashback,,0,0,0,,When they act, they bring those\Ncenturies-old performers back to life.
+Dialogue: 0,0:05:10.89,0:05:12.26,Flashback,,0,0,0,,Back to life...?
 Dialogue: 0,0:05:17.64,0:05:19.65,Base,,0,0,0,,{\an8}"August Kabuki Series"
-Dialogue: 0,0:05:29.16,0:05:29.49,Base,,0,0,0,,{\an8}"Akiya Shirakawa"
-Dialogue: 0,0:05:29.49,0:05:31.16,Base,,0,0,0,,{\an8}"Akiya Shirakawa"
-Dialogue: 0,0:05:29.49,0:05:33.08,Base,,0,0,0,,Akiya Shirakawa...\Nthat's Sarasa's boyfriend.
-Dialogue: 0,0:05:33.08,0:05:35.82,Base,,0,0,0,,Ai-chan! Sorry that took so long!
+Dialogue: 0,0:05:29.16,0:05:31.16,Base,,0,0,0,,{\an8}"Shirakawa Akiya"
+Dialogue: 0,0:05:29.49,0:05:33.08,Base,,0,0,0,,Shirakawa Akiya... that's Sarasa's boyfriend.
+Dialogue: 0,0:05:33.08,0:05:35.82,Base,,0,0,0,,Ai! Sorry that took so long!
 Dialogue: 0,0:05:39.04,0:05:41.07,Base,,0,0,0,,I'm home, Grandpa!
-Dialogue: 0,0:05:42.84,0:05:46.80,Base,,0,0,0,,You're early! I got you\Nyour favorite {\i1}ningyo-yaki{\i0}.
-Dialogue: 0,0:05:46.80,0:05:51.43,Base,,0,0,0,,Grandpa, this is my roommate\NI'm always going on about, Ai-chan!
+Dialogue: 0,0:05:42.84,0:05:46.80,Base,,0,0,0,,You're early! I got you your favorite doll cakes.
+Dialogue: 0,0:05:46.80,0:05:51.43,Base,,0,0,0,,Grandpa, this is my roommate\NI'm always going on about, Ai!
 Dialogue: 0,0:05:51.43,0:05:52.92,Base,,0,0,0,,We're best friends!
-Dialogue: 0,0:05:53.10,0:05:54.02,Base,,0,0,0,,Best friends!
-Dialogue: 0,0:05:54.43,0:05:59.26,Base,,0,0,0,,Th-These are for you.\NThank you for letting me stay.
-Dialogue: 0,0:05:59.26,0:06:04.26,Base,,0,0,0,,How very kind of you. Come now,\Nno need to sit so formally.
+Dialogue: 0,0:05:53.10,0:05:54.02,Base,,0,0,0,,{\i1}Best friends?{\i0}
+Dialogue: 0,0:05:54.43,0:05:59.26,Base,,0,0,0,,Th-These are for you.\NI don't know if these suit your taste.
+Dialogue: 0,0:05:59.26,0:06:04.26,Base,,0,0,0,,How very kind of you. \NCome now, no need to sit so formally.
 Dialogue: 0,0:06:04.61,0:06:05.82,Base,,0,0,0,,No, I insist.
-Dialogue: 0,0:06:06.40,0:06:09.10,Base,,0,0,0,,I'm her best friend. I have to\Nmake a good impression!
-Dialogue: 0,0:06:09.10,0:06:11.98,Base,,0,0,0,,Oh, hey, Sarasa,\Nyou got someone upstairs--
+Dialogue: 0,0:06:06.40,0:06:09.10,Base,,0,0,0,,{\i1}I'm her best friend. I have to make a good impression!{\i0}
+Dialogue: 0,0:06:09.10,0:06:11.98,Base,,0,0,0,,Oh, hey, Sarasa, you got someone upstairs—
 Dialogue: 0,0:06:12.12,0:06:14.45,Base,,0,0,0,,Hey! How've you been, Sarasa?
 Dialogue: 0,0:06:14.45,0:06:15.91,Base,,0,0,0,,Welcome back, Sarasa!
-Dialogue: 0,0:06:15.91,0:06:19.12,Base,,0,0,0,,--We missed you!\N--Shou-chan, Keiko! It's great to see you!
-Dialogue: 0,0:06:19.12,0:06:22.25,Base,,0,0,0,,Sarasa-chan! You had\Nany of that Kobe beef yet?
-Dialogue: 0,0:06:22.25,0:06:23.15,Base,,0,0,0,,Kuma-san!
-Dialogue: 0,0:06:23.58,0:06:25.55,Base,,0,0,0,,Didja get even taller?!
+Dialogue: 0,0:06:15.91,0:06:19.12,Base,,0,0,0,,Shou, Keiko! It's great to see you!
+Dialogue: 0,0:06:16.06,0:06:17.11,Base - Top,,0,0,0,,Welcome back!
+Dialogue: 0,0:06:19.12,0:06:22.25,Base,,0,0,0,,Sarasa, you had any of that Kobe beef yet?
+Dialogue: 0,0:06:22.25,0:06:23.15,Base,,0,0,0,,Mr. Kuma!
+Dialogue: 0,0:06:23.58,0:06:25.55,Base,,0,0,0,,Didja get even taller?
 Dialogue: 0,0:06:25.55,0:06:26.67,Base,,0,0,0,,Did I?
 Dialogue: 0,0:06:26.67,0:06:28.17,Base,,0,0,0,,When's your big debut?
-Dialogue: 0,0:06:28.17,0:06:31.32,Base,,0,0,0,,C'mon, now, she's got\Na while to go for that!
+Dialogue: 0,0:06:28.17,0:06:31.32,Base,,0,0,0,,C'mon, now, she's got a while to go for that!
 Dialogue: 0,0:06:38.02,0:06:40.44,Base,,0,0,0,,Finally, some peace and quiet.
-Dialogue: 0,0:06:40.44,0:06:43.52,Base,,0,0,0,,Sorry about that, Ai-chan.\NI didn't mean to ignore you.
+Dialogue: 0,0:06:40.44,0:06:43.52,Base,,0,0,0,,Sorry about that, Ai.\NI didn't mean to ignore you.
 Dialogue: 0,0:06:44.61,0:06:45.98,Base,,0,0,0,,It's okay.
-Dialogue: 0,0:06:45.98,0:06:49.19,Base,,0,0,0,,I can't feel my legs anymore.
-Dialogue: 0,0:06:49.26,0:06:55.53,Base,,0,0,0,,Ai-chan, I've gotta go tell\Nmy grandma I'm back in Asakusa.
+Dialogue: 0,0:06:45.98,0:06:49.26,Base,,0,0,0,,{\i1}I can't feel my legs anymore.{\i0}
+Dialogue: 0,0:06:49.26,0:06:55.53,Base,,0,0,0,,Ai, I've gotta go tell my grandma I'm back in Asakusa.
 Dialogue: 0,0:06:55.53,0:06:58.11,Base,,0,0,0,,Do you mind if I step out for 20 minutes?
 Dialogue: 0,0:06:58.41,0:06:59.37,Base,,0,0,0,,Go ahead.
-Dialogue: 0,0:06:59.37,0:07:00.29,Base,,0,0,0,,I can't even move.
-Dialogue: 0,0:07:01.41,0:07:06.61,Base,,0,0,0,,My cat Nono-chan should be upstairs!\NYou can go play with her if you're bored.
+Dialogue: 0,0:06:59.37,0:07:00.29,Base,,0,0,0,,{\i1}I can't even move.{\i0}
+Dialogue: 0,0:07:01.41,0:07:06.61,Base,,0,0,0,,My cat Nono should be upstairs!\NYou can go play with her if you're bored.
 Dialogue: 0,0:07:07.00,0:07:07.92,Base,,0,0,0,,Okay.
-Dialogue: 0,0:07:07.92,0:07:09.18,Base,,0,0,0,,If I can get up there.
-Dialogue: 0,0:07:21.35,0:07:23.51,Base,,0,0,0,,What? JPX?!
-Dialogue: 0,0:07:24.69,0:07:26.05,Base,,0,0,0,,Akiya Shirakawa.
-Dialogue: 0,0:07:26.15,0:07:28.99,Base,,0,0,0,,Huh? What?!
+Dialogue: 0,0:07:07.92,0:07:09.18,Base,,0,0,0,,{\i1}If I can get up there.{\i0}
+Dialogue: 0,0:07:21.35,0:07:23.51,Base,,0,0,0,,What? JPX?
+Dialogue: 0,0:07:24.69,0:07:26.05,Base,,0,0,0,,Shirakawa Akiya.
+Dialogue: 0,0:07:26.15,0:07:28.99,Base,,0,0,0,,Huh? What?
 Dialogue: 0,0:07:29.23,0:07:31.61,Base,,0,0,0,,Are you Sarasa's boyfriend?
 Dialogue: 0,0:07:31.61,0:07:32.35,Base,,0,0,0,,What?
-Dialogue: 0,0:07:32.45,0:07:35.41,Base,,0,0,0,,This is the first time\Nwe're speaking, right?
+Dialogue: 0,0:07:32.45,0:07:35.41,Base,,0,0,0,,This is the first time we're speaking, right?
 Dialogue: 0,0:07:35.41,0:07:38.03,Base,,0,0,0,,You can't just start off with that.
 Dialogue: 0,0:07:38.03,0:07:41.11,Base,,0,0,0,,I don't care how famous you are,\Nit's called having manners!
-Dialogue: 0,0:07:41.41,0:07:46.24,Base,,0,0,0,,I'm sorry. I'm not really\Ngood with people.
+Dialogue: 0,0:07:41.41,0:07:46.24,Base,,0,0,0,,I'm sorry. I'm not really good with people.
 Dialogue: 0,0:07:47.92,0:07:52.47,Base,,0,0,0,,And Sarasa's the first friend\NI've ever had. I was just curious.
 Dialogue: 0,0:07:53.01,0:07:53.99,Base,,0,0,0,,I'm really sorry.
 Dialogue: 0,0:07:55.51,0:07:58.93,Base,,0,0,0,,We've been friends since we were kids.
-Dialogue: 0,0:07:58.93,0:08:01.52,Base,,0,0,0,,We took traditional\Ndance lessons together.
-Dialogue: 0,0:08:01.52,0:08:03.43,Base,,0,0,0,,You'll have to hear the rest from Sarasa.
+Dialogue: 0,0:07:58.93,0:08:01.52,Base,,0,0,0,,We took traditional dance lessons together.
+Dialogue: 0,0:08:01.52,0:08:03.62,Base,,0,0,0,,You'll have to hear the rest from Sarasa.
 Dialogue: 0,0:08:05.48,0:08:07.26,Base,,0,0,0,,I'm back, Grandma.
 Dialogue: 0,0:08:07.61,0:08:10.51,Base,,0,0,0,,Someone said those words to me again.
-Dialogue: 0,0:08:10.61,0:08:14.35,Base,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka revue.
-Dialogue: 0,0:08:14.53,0:08:16.78,Base,,0,0,0,,It will never happen! Not ever!
-Dialogue: 0,0:08:16.78,0:08:19.81,Base,,0,0,0,,No way in the world will you {\i1}ever{\i0}\Nbe able to play Sukeroku!
-Dialogue: 0,0:08:20.28,0:08:25.32,Base,,0,0,0,,The word "never" always\Nmakes me feel horrible.
+Dialogue: 0,0:08:10.61,0:08:14.35,Flashback,,0,0,0,,If you don't change, you'll never be\Na top star of the Kouka revue.
+Dialogue: 0,0:08:14.53,0:08:16.78,Flashback,,0,0,0,,It will never happen! Not ever!
+Dialogue: 0,0:08:16.78,0:08:19.81,Flashback,,0,0,0,,{\fad(0, 645)}No way in the world will you {\i1}ever{\i0}\Nbe able to play Sukeroku!
+Dialogue: 0,0:08:20.28,0:08:25.32,Base,,0,0,0,,The word "never" always makes me feel horrible.
 Dialogue: 0,0:08:27.04,0:08:30.34,Base,,0,0,0,,"Never" is a curse.
-Dialogue: 0,0:08:39.89,0:08:42.60,Base,,0,0,0,,Hi, Tomoe-sensei!
-Dialogue: 0,0:08:42.60,0:08:45.52,Base,,0,0,0,,Sarasa-chan was two years younger than me.
+Dialogue: 0,0:08:39.89,0:08:42.60,Flashback,,0,0,0,,Hi, Ms. Tomoe!
+Dialogue: 0,0:08:42.60,0:08:45.52,Base,,0,0,0,,Sarasa was two years younger than me.
 Dialogue: 0,0:08:45.52,0:08:48.23,Base,,0,0,0,,Her family ran a tatami shop,\Nand she was always bright and cheerful.
 Dialogue: 0,0:08:48.23,0:08:49.86,Base,,0,0,0,,Whenever she came for her lesson...
-Dialogue: 0,0:08:49.86,0:08:52.30,Base,,0,0,0,,Mind if I watch, Tomoe-sensei?
-Dialogue: 0,0:08:52.69,0:08:55.45,Base,,0,0,0,,Kouzaburou always came to\Nsee her for some reason.
-Dialogue: 0,0:08:55.45,0:08:57.49,Base,,0,0,0,,Hey, Sarasa-san. Long time no see.
-Dialogue: 0,0:08:57.49,0:09:00.90,Base,,0,0,0,,I might. We're in the middle\Nof Akiya's lesson.
-Dialogue: 0,0:09:01.28,0:09:05.04,Base,,0,0,0,,Kouzaburou is married to\Nthe only daughter of Kaou Shirakawa,
+Dialogue: 0,0:08:49.86,0:08:52.30,Flashback,,0,0,0,,Mind if I watch, Ms. Tomoe?
+Dialogue: 0,0:08:52.69,0:08:55.45,Base,,0,0,0,,Kouzaburou always came to see her for some reason.
+Dialogue: 0,0:08:55.45,0:08:57.49,Flashback,,0,0,0,,Hey, Sarasa. Long time no see.
+Dialogue: 0,0:08:57.49,0:09:00.90,Flashback,,0,0,0,,What's this? We're in the middle of Akiya's lesson.
+Dialogue: 0,0:09:01.28,0:09:05.04,Base,,0,0,0,,Kouzaburou is married to\Nthe only daughter of Shirakawa Kaou,
 Dialogue: 0,0:09:05.04,0:09:09.94,Base,,0,0,0,,15th of his name, national treasure\Nand head of the Satomi house and troupe.
-Dialogue: 0,0:09:10.75,0:09:13.63,Base,,0,0,0,,Tomoe-sensei is Kaou-san's younger sister.
-Dialogue: 0,0:09:13.63,0:09:15.76,Base,,0,0,0,,My father is Kaou-san's cousin.
+Dialogue: 0,0:09:10.75,0:09:13.63,Base,,0,0,0,,Ms. Tomoe is Master Kaou's younger sister.
+Dialogue: 0,0:09:13.63,0:09:15.76,Base,,0,0,0,,My father is Master Kaou's cousin.
 Dialogue: 0,0:09:15.76,0:09:20.75,Base,,0,0,0,,He used to be a kabuki actor,\Nbut gave up and quit early in his career.
 Dialogue: 0,0:09:21.30,0:09:24.00,Base,,0,0,0,,I was born into this big kabuki family.
-Dialogue: 0,0:09:24.43,0:09:28.14,Base,,0,0,0,,So what're you learning, Akiya-kun?
-Dialogue: 0,0:09:28.14,0:09:29.27,Base,,0,0,0,,Yakko-san.
-Dialogue: 0,0:09:29.27,0:09:32.36,Base,,0,0,0,,Ooh, I wanna do Yakko-san, too!
-Dialogue: 0,0:09:32.36,0:09:33.98,Base,,0,0,0,,Can I do it, too, Tomoe-sensei?
-Dialogue: 0,0:09:33.98,0:09:35.30,Base,,0,0,0,,Sure.
-Dialogue: 0,0:09:38.45,0:09:39.39,Base,,0,0,0,,Kaou-san?!
-Dialogue: 0,0:09:40.99,0:09:42.49,Base,,0,0,0,,Daidai-sensei's here, too!
-Dialogue: 0,0:09:42.49,0:09:44.19,Base,,0,0,0,,Can I watch you two dance?
-Dialogue: 0,0:09:44.33,0:09:45.25,Base,,0,0,0,,Huh?
-Dialogue: 0,0:09:46.33,0:09:47.19,Base,,0,0,0,,Okay.
+Dialogue: 0,0:09:24.43,0:09:28.14,Flashback,,0,0,0,,So what're you learning, Akiya?
+Dialogue: 0,0:09:28.14,0:09:29.27,Flashback,,0,0,0,,Yakko.
+Dialogue: 0,0:09:29.27,0:09:32.36,Flashback,,0,0,0,,Ooh, I wanna do Yakko, too!
+Dialogue: 0,0:09:32.36,0:09:33.98,Flashback,,0,0,0,,Can I do it, too, Ms. Tomoe?
+Dialogue: 0,0:09:33.98,0:09:35.30,Flashback,,0,0,0,,Sure.
+Dialogue: 0,0:09:38.45,0:09:39.39,Flashback,,0,0,0,,Master Kaou?
+Dialogue: 0,0:09:40.99,0:09:42.49,Flashback,,0,0,0,,Great Great Master's here, too!
+Dialogue: 0,0:09:42.49,0:09:44.19,Flashback,,0,0,0,,Can I watch you two dance?
+Dialogue: 0,0:09:44.33,0:09:45.25,Flashback,,0,0,0,,Huh?
+Dialogue: 0,0:09:46.33,0:09:47.19,Flashback,,0,0,0,,Okay.
 Dialogue: 0,0:09:50.96,0:09:55.13,Base,,0,0,0,,I started training to perform kabuki\Nthis year, when I was eight.
 Dialogue: 0,0:09:56.71,0:09:59.01,Base,,0,0,0,,The kabuki world values bloodline,
-Dialogue: 0,0:09:59.01,0:10:02.46,Base,,0,0,0,,which meant that I was the most likely\Nperson to become the 16th Kaou Shirakawa.
+Dialogue: 0,0:09:59.01,0:10:02.46,Base,,0,0,0,,which meant that I was the most likely\Nperson to become the 16th Shirakawa Kaou.
 Dialogue: 0,0:10:03.51,0:10:03.96,Base,,0,0,0,,However...
-Dialogue: 0,0:10:12.77,0:10:14.19,Base,,0,0,0,,Akiya! Are you okay?!
-Dialogue: 0,0:10:16.19,0:10:17.74,Base,,0,0,0,,Did you hit your head?
-Dialogue: 0,0:10:17.74,0:10:20.45,Base,,0,0,0,,S-Sorry, I'm okay.
-Dialogue: 0,0:10:20.45,0:10:22.24,Base,,0,0,0,,Are you okay, Akiya-kun?!
-Dialogue: 0,0:10:22.24,0:10:24.49,Base,,0,0,0,,Yeah. Sorry for messing up, Sarasa-chan--
-Dialogue: 0,0:10:33.33,0:10:36.88,Base,,0,0,0,,I always knew you had good balance,\Nbut my goodness.
-Dialogue: 0,0:10:38.13,0:10:42.80,Base,,0,0,0,,I heard Kaou-san came to\Nwatch you dance today.
-Dialogue: 0,0:10:43.39,0:10:45.88,Base,,0,0,0,,Was that girl there, too?
-Dialogue: 0,0:10:45.93,0:10:48.85,Base,,0,0,0,,You mean Sarasa? Yeah, she was there.
-Dialogue: 0,0:10:48.85,0:10:50.42,Base,,0,0,0,,I like her a lot.
-Dialogue: 0,0:10:51.39,0:10:52.19,Base,,0,0,0,,Is that right?
-Dialogue: 0,0:10:52.73,0:10:58.99,Base,,0,0,0,,She's really good at dancing.\NShe's super strong, and has good balance--
-Dialogue: 0,0:10:58.99,0:11:00.76,Base,,0,0,0,,Sure, but she's a {\i1}girl{\i0}.
+Dialogue: 0,0:10:12.77,0:10:14.19,Flashback,,0,0,0,,Akiya! Are you okay?!
+Dialogue: 0,0:10:16.19,0:10:17.74,Flashback,,0,0,0,,Did you hit your head?
+Dialogue: 0,0:10:17.74,0:10:20.45,Flashback,,0,0,0,,S-Sorry, I'm okay.
+Dialogue: 0,0:10:20.45,0:10:22.24,Flashback,,0,0,0,,Are you okay, Akiya?
+Dialogue: 0,0:10:22.24,0:10:24.49,Flashback,,0,0,0,,Yeah. Sorry for messing up, Sarasa—
+Dialogue: 0,0:10:33.33,0:10:36.88,Flashback,,0,0,0,,I always knew you had good balance,\Nbut my goodness.
+Dialogue: 0,0:10:38.13,0:10:42.80,Flashback,,0,0,0,,I heard Master Kaou came to watch you dance today.
+Dialogue: 0,0:10:43.39,0:10:45.88,Flashback,,0,0,0,,Was that girl there, too?
+Dialogue: 0,0:10:45.93,0:10:48.85,Flashback,,0,0,0,,You mean Sarasa? Yeah, she was there.
+Dialogue: 0,0:10:48.85,0:10:50.42,Flashback,,0,0,0,,We are friends.
+Dialogue: 0,0:10:51.39,0:10:52.19,Flashback,,0,0,0,,Is that right?
+Dialogue: 0,0:10:52.73,0:10:58.99,Flashback,,0,0,0,,She's really good at dancing.\NShe's super strong, and has good balance—
+Dialogue: 0,0:10:58.99,0:11:00.76,Flashback,,0,0,0,,Sure, but she's a {\i1}girl{\i0}.
 Dialogue: 0,0:11:01.65,0:11:03.12,Base,,0,0,0,,My mom had noticed it, too,
 Dialogue: 0,0:11:03.74,0:11:06.08,Base,,0,0,0,,but I pretended not to.
 Dialogue: 0,0:11:06.66,0:11:07.93,Base,,0,0,0,,I had to.
-Dialogue: 0,0:11:08.70,0:11:14.63,Base,,0,0,0,,Akiya! A newbie like you's only here\N'cause you're kinda related to Kaou-san!
-Dialogue: 0,0:11:14.63,0:11:20.83,Base,,0,0,0,,If Kouzaburou has a boy,\Nthey'll throw you right into the trash!
-Dialogue: 0,0:11:25.18,0:11:26.17,Base,,0,0,0,,What?!
-Dialogue: 0,0:11:26.51,0:11:29.88,Base,,0,0,0,,I'm the only kid who can perform today?
-Dialogue: 0,0:11:29.93,0:11:35.26,Base,,0,0,0,,Yeah, all the other kids\Ncame down with a bad flu.
-Dialogue: 0,0:11:35.48,0:11:38.05,Base,,0,0,0,,I have to go out there by myself?
-Dialogue: 0,0:11:40.07,0:11:42.51,Base,,0,0,0,,You'll be fine, Akiya.
-Dialogue: 0,0:11:43.49,0:11:47.58,Base,,0,0,0,,Thank you so much for inviting us today.
-Dialogue: 0,0:11:48.91,0:11:50.08,Base,,0,0,0,,Um...
-Dialogue: 0,0:11:50.08,0:11:51.65,Base,,0,0,0,,What's wrong, Akiya-kun?!
-Dialogue: 0,0:11:51.75,0:11:54.46,Base,,0,0,0,,But I have lines.
-Dialogue: 0,0:11:54.46,0:11:57.38,Base,,0,0,0,,If it's just me, then it won't be\Nlike we practiced.
-Dialogue: 0,0:11:57.38,0:11:58.78,Base,,0,0,0,,What if I mess up?
-Dialogue: 0,0:12:00.13,0:12:03.66,Base,,0,0,0,,Akiya, you need to have more confidence.
-Dialogue: 0,0:12:05.59,0:12:08.89,Base,,0,0,0,,The acting world won't go easy on you\Njust because you're a kid.
-Dialogue: 0,0:12:08.89,0:12:10.18,Base,,0,0,0,,You'd better get it together.
-Dialogue: 0,0:12:10.18,0:12:10.92,Base,,0,0,0,,I know, but...
-Dialogue: 0,0:12:12.10,0:12:15.42,Base,,0,0,0,,It's okay, Akiya-kun!
-Dialogue: 0,0:12:16.69,0:12:21.30,Base,,0,0,0,,Whenever we played pretend kabuki,\Nyou didn't mess up, not even once!
-Dialogue: 0,0:12:26.61,0:12:27.69,Base,,0,0,0,,Kaou-san,
-Dialogue: 0,0:12:28.16,0:12:33.96,Base,,0,0,0,,we need more than one {\i1}kamuro {\i0}for Agemaki,\Nor the procession will look off.
-Dialogue: 0,0:12:33.96,0:12:36.63,Base,,0,0,0,,Could we have Sarasa-san stand in?
-Dialogue: 0,0:12:38.00,0:12:43.08,Base,,0,0,0,,She and I have watched the {\i1}Sukeroku {\i0}DVD\Ntogether plenty of times at Tomoe's.
-Dialogue: 0,0:12:43.34,0:12:46.32,Base,,0,0,0,,She's memorized all the lines.
-Dialogue: 0,0:12:47.55,0:12:48.89,Base,,0,0,0,,Very well.
-Dialogue: 0,0:12:48.89,0:12:49.72,Base,,0,0,0,,Come here.
-Dialogue: 0,0:12:49.72,0:12:50.59,Base,,0,0,0,,Okay!
-Dialogue: 0,0:13:01.11,0:13:03.18,Base,,0,0,0,,Look, Akiya-kun, we match!
-Dialogue: 0,0:13:04.07,0:13:06.07,Base,,0,0,0,,Here, take this.
-Dialogue: 0,0:13:06.78,0:13:09.62,Base,,0,0,0,,Take a sniff. Doesn't that smell good?
-Dialogue: 0,0:13:09.62,0:13:11.99,Base,,0,0,0,,Do you feel a little better now?
-Dialogue: 0,0:13:11.99,0:13:13.37,Base,,0,0,0,,Oh, y-yes.
-Dialogue: 0,0:13:13.37,0:13:15.62,Base,,0,0,0,,It'll be your lucky charm.
-Dialogue: 0,0:13:15.62,0:13:16.39,Base,,0,0,0,,I can have it?
-Dialogue: 0,0:13:17.83,0:13:24.01,Base,,0,0,0,,Sarasa thinks it's so cool that a kid\Nyour age gets to perform in kabuki shows.
-Dialogue: 0,0:13:24.01,0:13:27.33,Base,,0,0,0,,She's so very proud of you.
-Dialogue: 0,0:13:27.72,0:13:30.55,Base,,0,0,0,,We're going to walk out\Nonto the stage from there.
-Dialogue: 0,0:13:30.55,0:13:34.33,Base,,0,0,0,,Just do what Akiya does,\Nand look straight ahead.
-Dialogue: 0,0:13:35.85,0:13:36.79,Base,,0,0,0,,Close your mouth.
-Dialogue: 0,0:13:51.20,0:13:55.12,Base,,0,0,0,,No one had taught her\Nhow to steel her gaze like that.
+Dialogue: 0,0:11:08.70,0:11:14.63,Flashback,,0,0,0,,Akiya! A newbie like you's only here\N'cause you're kinda related to Master Kaou!
+Dialogue: 0,0:11:14.63,0:11:20.83,Flashback,,0,0,0,,{\fad(0, 609)}If Kouzaburou has a boy,\Nthey'll throw you right into the trash!
+Dialogue: 0,0:11:25.18,0:11:26.17,Flashback,,0,0,0,,What?
+Dialogue: 0,0:11:26.51,0:11:29.88,Flashback,,0,0,0,,I'm the only kid who can perform today?
+Dialogue: 0,0:11:29.93,0:11:35.26,Flashback,,0,0,0,,Yeah, all the other kids\Ncame down with a bad flu.
+Dialogue: 0,0:11:35.48,0:11:38.05,Flashback,,0,0,0,,I have to go out there by myself?
+Dialogue: 0,0:11:40.07,0:11:42.51,Flashback,,0,0,0,,You'll be fine, Akiya.
+Dialogue: 0,0:11:43.49,0:11:47.58,Flashback,,0,0,0,,Thank you so much for inviting us today.
+Dialogue: 0,0:11:48.91,0:11:50.08,Flashback,,0,0,0,,Um...
+Dialogue: 0,0:11:50.08,0:11:51.65,Flashback,,0,0,0,,What's wrong, Akiya?
+Dialogue: 0,0:11:51.75,0:11:54.46,Flashback,,0,0,0,,But I have lines.
+Dialogue: 0,0:11:54.46,0:11:57.38,Flashback,,0,0,0,,If it's just me, then it won't be like we practiced.
+Dialogue: 0,0:11:57.38,0:11:58.78,Flashback,,0,0,0,,What if I mess up?
+Dialogue: 0,0:12:00.13,0:12:03.66,Flashback,,0,0,0,,Akiya, you need to have more confidence.
+Dialogue: 0,0:12:05.59,0:12:08.89,Flashback,,0,0,0,,The acting world won't go easy on you\Njust because you're a kid.
+Dialogue: 0,0:12:08.89,0:12:10.18,Flashback,,0,0,0,,You'd better get it together.
+Dialogue: 0,0:12:10.18,0:12:10.92,Flashback,,0,0,0,,I know, but...
+Dialogue: 0,0:12:12.10,0:12:15.42,Flashback,,0,0,0,,It's okay, Akiya!
+Dialogue: 0,0:12:16.69,0:12:21.30,Flashback,,0,0,0,,Whenever we played pretend kabuki,\Nyou didn't mess up, not even once!
+Dialogue: 0,0:12:26.61,0:12:27.69,Flashback,,0,0,0,,Master Kaou,
+Dialogue: 0,0:12:28.16,0:12:33.96,Flashback,,0,0,0,,we need more than one child for Agemaki,\Nor the procession will look off.
+Dialogue: 0,0:12:33.96,0:12:36.63,Flashback,,0,0,0,,Could we have Sarasa stand in?
+Dialogue: 0,0:12:38.00,0:12:43.08,Flashback,,0,0,0,,She and I have watched the {\i1}Sukeroku {\i0}DVD\Ntogether plenty of times at Tomoe's.
+Dialogue: 0,0:12:43.34,0:12:46.32,Flashback,,0,0,0,,She's memorized all the lines.
+Dialogue: 0,0:12:47.55,0:12:48.89,Flashback,,0,0,0,,Very well.
+Dialogue: 0,0:12:48.89,0:12:49.72,Flashback,,0,0,0,,Come here.
+Dialogue: 0,0:12:49.72,0:12:50.59,Flashback,,0,0,0,,Okay!
+Dialogue: 0,0:13:01.11,0:13:03.18,Flashback,,0,0,0,,Look, Akiya, we match!
+Dialogue: 0,0:13:04.07,0:13:06.07,Flashback,,0,0,0,,Here, take this.
+Dialogue: 0,0:13:06.78,0:13:09.62,Flashback,,0,0,0,,Take a sniff. Doesn't that smell good?
+Dialogue: 0,0:13:09.62,0:13:11.99,Flashback,,0,0,0,,Do you feel a little better now?
+Dialogue: 0,0:13:11.99,0:13:13.37,Flashback,,0,0,0,,Oh, y-yes.
+Dialogue: 0,0:13:13.37,0:13:15.62,Flashback,,0,0,0,,It'll be your lucky charm.
+Dialogue: 0,0:13:15.62,0:13:16.39,Flashback,,0,0,0,,I can have it?
+Dialogue: 0,0:13:17.83,0:13:24.01,Flashback,,0,0,0,,Sarasa thinks it's so cool that a kid\Nyour age gets to perform in kabuki shows.
+Dialogue: 0,0:13:24.01,0:13:27.33,Flashback,,0,0,0,,She's so very proud of you.
+Dialogue: 0,0:13:27.72,0:13:30.55,Flashback,,0,0,0,,We're going to walk out onto the stage from there.
+Dialogue: 0,0:13:30.55,0:13:34.33,Flashback,,0,0,0,,Just do what Akiya does, and look straight ahead.
+Dialogue: 0,0:13:35.85,0:13:36.79,Flashback,,0,0,0,,Close your mouth.
+Dialogue: 0,0:13:51.20,0:13:55.12,Base,,0,0,0,,No one had taught her how to steel her gaze like that.
 Dialogue: 0,0:13:55.12,0:13:59.04,Base,,0,0,0,,She faced forward towards the audience,
-Dialogue: 0,0:13:59.04,0:14:02.01,Base,,0,0,0,,as if doing exactly that was\Nas natural as breathing.
-Dialogue: 0,0:14:03.04,0:14:06.78,Base,,0,0,0,,As if she was born with\Nsomething I didn't have.
-Dialogue: 0,0:14:07.84,0:14:10.70,Base,,0,0,0,,That girl was something else.
-Dialogue: 0,0:14:11.01,0:14:15.56,Base,,0,0,0,,You know they say she's\NKouzaburou's illegitimate daughter.
-Dialogue: 0,0:14:15.56,0:14:16.79,Base,,0,0,0,,How sad.
-Dialogue: 0,0:14:17.18,0:14:23.55,Base,,0,0,0,,If she'd been born a boy, she could've\Nbeen next in line for the Kaou name.
-Dialogue: 0,0:14:23.98,0:14:26.30,Base,,0,0,0,,She's Kouzaburou's daughter?
-Dialogue: 0,0:14:26.86,0:14:30.56,Base,,0,0,0,,And if she'd been born a boy, then I...
-Dialogue: 0,0:14:31.91,0:14:32.64,Base,,0,0,0,,Akiya?
-Dialogue: 0,0:14:33.07,0:14:35.87,Base,,0,0,0,,Oh. Hello, ma'am.
-Dialogue: 0,0:14:35.87,0:14:40.62,Base,,0,0,0,,I heard you made quite the effort\Nat the last performance.
-Dialogue: 0,0:14:40.62,0:14:42.00,Base,,0,0,0,,Kaou-san was very proud.
-Dialogue: 0,0:14:42.00,0:14:43.21,Base,,0,0,0,,He was?!
-Dialogue: 0,0:14:43.21,0:14:47.16,Base,,0,0,0,,Akiya-kun! I had my lesson\Nbefore you today!
-Dialogue: 0,0:14:47.30,0:14:49.05,Base,,0,0,0,,Oh, hey.
-Dialogue: 0,0:14:49.05,0:14:54.22,Base,,0,0,0,,I'm gonna go see a movie\Nwith Grandpa Ken today!
-Dialogue: 0,0:14:54.22,0:14:55.08,Base,,0,0,0,,See you later!
-Dialogue: 0,0:14:56.64,0:15:00.44,Base,,0,0,0,,Sarasa-chan got to perform with me.
-Dialogue: 0,0:15:00.44,0:15:03.90,Base,,0,0,0,,Huh? So that second {\i1}kamuro{\i0}\Nwas played by her?
-Dialogue: 0,0:15:04.19,0:15:07.36,Base,,0,0,0,,She did really good,\Neven though it was her first time.
-Dialogue: 0,0:15:07.36,0:15:11.93,Base,,0,0,0,,Someone even said that if she'd been\Nborn a boy, she could be the next Kaou.
-Dialogue: 0,0:15:12.28,0:15:14.66,Base,,0,0,0,,That's how good she was.
+Dialogue: 0,0:13:59.04,0:14:02.01,Base,,0,0,0,,as if doing exactly that was as natural as breathing.
+Dialogue: 0,0:14:03.04,0:14:06.78,Base,,0,0,0,,As if she was born with something I didn't have.
+Dialogue: 0,0:14:07.84,0:14:10.70,Flashback,,0,0,0,,That girl was something else.
+Dialogue: 0,0:14:11.01,0:14:15.56,Flashback,,0,0,0,,You know they say she's Kouzaburou's illegitimate daughter.
+Dialogue: 0,0:14:15.56,0:14:16.79,Flashback,,0,0,0,,How sad.
+Dialogue: 0,0:14:17.18,0:14:23.55,Flashback,,0,0,0,,If she'd been born a boy, she could've\Nbeen next in line for the Kaou name.
+Dialogue: 0,0:14:23.98,0:14:26.30,Flashback,,0,0,0,,{\i1}She's Kouzaburou's daughter?{\i0}
+Dialogue: 0,0:14:26.86,0:14:30.56,Flashback,,0,0,0,,{\i1}And if she'd been born a boy, then I...{\i0}
+Dialogue: 0,0:14:31.91,0:14:32.64,Flashback,,0,0,0,,Akiya?
+Dialogue: 0,0:14:33.07,0:14:35.87,Flashback,,0,0,0,,Oh. Hello, ma'am.
+Dialogue: 0,0:14:35.87,0:14:40.62,Flashback,,0,0,0,,I heard you made quite the effort at the last performance.
+Dialogue: 0,0:14:40.62,0:14:42.00,Flashback,,0,0,0,,Master Kaou was very proud.
+Dialogue: 0,0:14:42.00,0:14:43.21,Flashback,,0,0,0,,He was?
+Dialogue: 0,0:14:43.21,0:14:47.16,Flashback,,0,0,0,,Akiya! I had my lesson before you today!
+Dialogue: 0,0:14:47.30,0:14:49.05,Flashback,,0,0,0,,Oh, hey.
+Dialogue: 0,0:14:49.05,0:14:54.22,Flashback,,0,0,0,,I'm gonna go see a movie with Grandpa Ken today!
+Dialogue: 0,0:14:54.22,0:14:55.08,Flashback,,0,0,0,,See you later!
+Dialogue: 0,0:14:56.64,0:15:00.44,Flashback,,0,0,0,,Sarasa got to perform with me.
+Dialogue: 0,0:15:00.44,0:15:03.90,Flashback,,0,0,0,,Huh? So {\i1}she{\i0} played the second child?
+Dialogue: 0,0:15:04.19,0:15:07.36,Flashback,,0,0,0,,She did really good, even though it was her first time.
+Dialogue: 0,0:15:07.36,0:15:11.93,Flashback,,0,0,0,,Someone even said that if she'd been\Nborn a boy, she could be the next Kaou.
+Dialogue: 0,0:15:12.28,0:15:14.66,Flashback,,0,0,0,,That's how good she was.
 Dialogue: 0,0:15:14.66,0:15:19.27,Base,,0,0,0,,I knew I shouldn't have said it.\NI knew what I was doing.
-Dialogue: 0,0:15:19.75,0:15:23.83,Base,,0,0,0,,But I was a child, and had no idea\Nthat throwing a pebble in the pond
-Dialogue: 0,0:15:23.83,0:15:26.29,Base,,0,0,0,,would ripple out that far.
-Dialogue: 0,0:15:26.29,0:15:28.03,Base,,0,0,0,,Don't be stupid!
-Dialogue: 0,0:15:28.30,0:15:33.29,Base,,0,0,0,,It doesn't matter how good you are,\Nor how much natural talent you possess!
-Dialogue: 0,0:15:33.51,0:15:35.79,Base,,0,0,0,,It will never happen! Not ever!
-Dialogue: 0,0:15:36.14,0:15:38.79,Base,,0,0,0,,No way in the world will you {\i1}ever{\i0}\Nbe able to play Sukeroku!
-Dialogue: 0,0:15:40.18,0:15:42.23,Base,,0,0,0,,Now, go. Leave!
-Dialogue: 0,0:15:42.23,0:15:43.81,Base,,0,0,0,,Go home!
-Dialogue: 0,0:15:45.90,0:15:49.89,Base,,0,0,0,,The next day, Sarasa-chan stopped\Ncoming for dance classes.
-Dialogue: 0,0:15:50.07,0:15:51.65,Base,,0,0,0,,Then...
-Dialogue: 0,0:15:51.65,0:15:52.76,Base,,0,0,0,,Cut the bullcrap!
-Dialogue: 0,0:15:53.20,0:15:58.73,Base,,0,0,0,,We did {\i1}not {\i0}bring Sarasa here so she could\Nget traumatized by the lot of you!
-Dialogue: 0,0:15:58.91,0:16:01.36,Base,,0,0,0,,Sarasa will have {\i1}nothing {\i0}to do with you\Nfrom here on out!
-Dialogue: 0,0:16:02.00,0:16:06.96,Base,,0,0,0,,She's our little girl.\NFind yourself another tatami shop!
-Dialogue: 0,0:16:06.96,0:16:10.62,Base,,0,0,0,,Kouzaburou kept his head\Nbowed the entire time.
-Dialogue: 0,0:16:15.89,0:16:19.51,Base,,0,0,0,,You're the kabuki boy\Nwho's friends with Sarasa.
-Dialogue: 0,0:16:19.51,0:16:23.64,Base,,0,0,0,,Sorry about all that yelling.\NDidn't mean to scare ya.
-Dialogue: 0,0:16:25.23,0:16:27.76,Base,,0,0,0,,Sarasa won't come here anymore.
-Dialogue: 0,0:16:28.15,0:16:31.26,Base,,0,0,0,,But I'm only cuttin' her off from kabuki.
-Dialogue: 0,0:16:31.57,0:16:34.82,Base,,0,0,0,,I hope you'll still\Nkeep bein' friends with her.
-Dialogue: 0,0:16:34.82,0:16:36.27,Base,,0,0,0,,I-I...
+Dialogue: 0,0:15:19.75,0:15:26.29,Base,,0,0,0,,But I was a child, and had no idea that throwing a pebble in the pond would ripple out that far.
+Dialogue: 0,0:15:26.29,0:15:28.03,Flashback,,0,0,0,,Don't be stupid!
+Dialogue: 0,0:15:28.30,0:15:33.29,Flashback,,0,0,0,,It doesn't matter how good you are,\Nor how much natural talent you possess!
+Dialogue: 0,0:15:33.51,0:15:35.79,Flashback,,0,0,0,,It will never happen! Not ever!
+Dialogue: 0,0:15:36.14,0:15:38.79,Flashback,,0,0,0,,No way in the world will you {\i1}ever{\i0}\Nbe able to play Sukeroku!
+Dialogue: 0,0:15:40.18,0:15:42.23,Flashback,,0,0,0,,Now, go. Leave!
+Dialogue: 0,0:15:42.23,0:15:43.54,Flashback,,0,0,0,,Go home!
+Dialogue: 0,0:15:45.90,0:15:49.89,Base,,0,0,0,,The next day, Sarasa stopped coming for dance classes.
+Dialogue: 0,0:15:50.07,0:15:50.90,Base,,0,0,0,,Then...
+Dialogue: 0,0:15:51.65,0:15:52.76,Flashback,,0,0,0,,Cut the bullcrap!
+Dialogue: 0,0:15:53.20,0:15:58.73,Flashback,,0,0,0,,We did {\i1}not {\i0}bring Sarasa here so she could\Nget traumatized by the lot of you!
+Dialogue: 0,0:15:58.91,0:16:01.36,Flashback,,0,0,0,,We are done with you!
+Dialogue: 0,0:16:02.00,0:16:06.96,Flashback,,0,0,0,,She's our little girl.\NFind yourself another tatami shop!
+Dialogue: 0,0:16:06.96,0:16:10.62,Base,,0,0,0,,Kouzaburou kept his head bowed the entire time.
+Dialogue: 0,0:16:15.89,0:16:19.51,Flashback,,0,0,0,,You're the kabuki boy who's friends with Sarasa.
+Dialogue: 0,0:16:19.51,0:16:23.64,Flashback,,0,0,0,,Sorry about all that yelling.\NDidn't mean to scare ya.
+Dialogue: 0,0:16:25.23,0:16:27.76,Flashback,,0,0,0,,Sarasa won't come here anymore.
+Dialogue: 0,0:16:28.15,0:16:31.26,Flashback,,0,0,0,,But I'm only cuttin' her off from kabuki.
+Dialogue: 0,0:16:31.57,0:16:34.82,Flashback,,0,0,0,,I hope you'll still keep bein' friends with her.
+Dialogue: 0,0:16:34.82,0:16:36.27,Flashback,,0,0,0,,I-I...
 Dialogue: 0,0:16:39.08,0:16:40.77,Base,,0,0,0,,Near the end of summer,
-Dialogue: 0,0:16:41.04,0:16:44.11,Base,,0,0,0,,Sarasa-chan's grandmother passed away.
+Dialogue: 0,0:16:41.04,0:16:44.11,Base,,0,0,0,,Sarasa's grandmother passed away.
 Dialogue: 0,0:16:44.54,0:16:47.04,Base,,0,0,0,,{\an8}"Funeral"
 Dialogue: 0,0:16:47.63,0:16:49.78,Base,,0,0,0,,We weren't allowed to come to the funeral,
-Dialogue: 0,0:16:50.21,0:16:54.03,Base,,0,0,0,,but Kaou-san insisted we\Npay our respects from a distance.
-Dialogue: 0,0:16:58.72,0:17:00.43,Base,,0,0,0,,Sarasa-chan...
-Dialogue: 0,0:17:03.81,0:17:07.10,Base,,0,0,0,,Kaou-san, it's...
+Dialogue: 0,0:16:50.21,0:16:54.03,Base,,0,0,0,,but Master Kaou insisted we\Npay our respects from a distance.
+Dialogue: 0,0:16:58.72,0:17:00.02,Base,,0,0,0,,Sarasa...
+Dialogue: 0,0:17:03.81,0:17:07.10,Base,,0,0,0,,Master Kaou, it's...
 Dialogue: 0,0:17:07.10,0:17:08.48,Base,,0,0,0,,It's all my fault.
 Dialogue: 0,0:17:08.55,0:17:09.94,Base,,0,0,0,,Don't say that, Akiya.
 Dialogue: 0,0:17:09.94,0:17:13.48,Base,,0,0,0,,Hold onto that feeling.\NIt'll make you a better actor.
-Dialogue: 0,0:17:14.86,0:17:18.70,Base,,0,0,0,,I'm sorry. I'm so sorry.
-Dialogue: 0,0:17:22.20,0:17:26.04,Base,,0,0,0,,It's a little late, but here.\NHappy birthday.
-Dialogue: 0,0:17:27.04,0:17:31.38,Base,,0,0,0,,The Last Burst Premier Skeleton\NTaku-sama from {\i1}Floor Kings{\i0}!
-Dialogue: 0,0:17:31.38,0:17:32.36,Base,,0,0,0,,It's see-through.
-Dialogue: 0,0:17:32.42,0:17:35.26,Base,,0,0,0,,Thank you so much, Akiya-kun!
-Dialogue: 0,0:17:35.26,0:17:36.74,Base,,0,0,0,,Is it supposed to be like that?
+Dialogue: 0,0:17:14.86,0:17:18.70,Base,,0,0,0,,{\fad(0, 997)}I'm sorry. I'm so sorry.
+Dialogue: 0,0:17:22.20,0:17:26.04,Base,,0,0,0,,It's a little late, but here. Happy birthday.
+Dialogue: 0,0:17:27.04,0:17:31.38,Base,,0,0,0,,The Last Burst Premier Skeleton Taku from {\i1}Floor Kings{\i0}!
+Dialogue: 0,0:17:31.38,0:17:32.36,Base,,0,0,0,,You can see-through.
+Dialogue: 0,0:17:32.42,0:17:35.26,Base,,0,0,0,,Thank you so much, Akiya!
+Dialogue: 0,0:17:35.26,0:17:36.74,Base,,0,0,0,,You sure it isn't a defect piece?
 Dialogue: 0,0:17:37.09,0:17:39.50,Base,,0,0,0,,I've got one more present for you.
 Dialogue: 0,0:17:41.01,0:17:43.75,Base,,0,0,0,,{\an8}"August Kabuki Series"
 Dialogue: 0,0:17:42.10,0:17:43.75,Base,,0,0,0,,{\i1}Sukeroku...{\i0}
 Dialogue: 0,0:17:43.93,0:17:49.31,Base,,0,0,0,,I'm playing Taura Tomimatsu.\NKouzaburou is playing Fukuyama Katsugi.
-Dialogue: 0,0:17:49.31,0:17:52.52,Base,,0,0,0,,And Kaou-san is, of course,\Nplaying Sukeroku.
-Dialogue: 0,0:17:52.52,0:17:55.82,Base,,0,0,0,,Thanks, but I'm not allowed\Nto see kabuki shows.
-Dialogue: 0,0:17:55.82,0:17:58.20,Base,,0,0,0,,I asked Grandpa Ken\Nand he said it was okay.
-Dialogue: 0,0:17:58.20,0:18:00.73,Base,,0,0,0,,I have two tickets,\Nso take Narata-san, too.
-Dialogue: 0,0:18:02.28,0:18:06.45,Base,,0,0,0,,Sarasa-chan, you know that thing\Nyou asked for advice for on Twitter?
+Dialogue: 0,0:17:49.31,0:17:52.52,Base,,0,0,0,,And Master Kaou is, of course, playing Sukeroku.
+Dialogue: 0,0:17:52.52,0:17:55.82,Base,,0,0,0,,Thanks, but I'm not allowed to see kabuki shows.
+Dialogue: 0,0:17:55.82,0:17:58.20,Base,,0,0,0,,I asked Grandpa Ken and he said it was okay.
+Dialogue: 0,0:17:58.20,0:18:00.73,Base,,0,0,0,,I have two tickets, so take Narata, too.
+Dialogue: 0,0:18:02.28,0:18:06.45,Base,,0,0,0,,Sarasa, you know that thing\Nyou asked for advice for on Twitter?
 Dialogue: 0,0:18:06.45,0:18:07.94,Base,,0,0,0,,Oh, yeah.
 Dialogue: 0,0:18:08.29,0:18:12.29,Base,,0,0,0,,Kabuki typically involves the perfect\Nreplication of famous performances,
 Dialogue: 0,0:18:12.29,0:18:13.57,Base,,0,0,0,,but it's not {\i1}all {\i0}replication.
@@ -328,56 +327,55 @@ Dialogue: 0,0:18:21.22,0:18:27.14,Base,,0,0,0,,But you also get to see him\Nbein
 Dialogue: 0,0:18:27.14,0:18:30.09,Base,,0,0,0,,That was all new to the audiences\Nin the Edo period, and they ate it up.
 Dialogue: 0,0:18:31.56,0:18:34.65,Base,,0,0,0,,Even now, they're still trying\Nnew things in kabuki.
 Dialogue: 0,0:18:34.65,0:18:38.32,Base,,0,0,0,,Half-finished plays by famous playwrights\Nare being adapted into new shows.
-Dialogue: 0,0:18:39.40,0:18:43.73,Base,,0,0,0,,I stopped doing kabuki\Nwhen I was six, so I had no idea...
+Dialogue: 0,0:18:39.40,0:18:43.73,Base,,0,0,0,,I stopped doing kabuki when I was six, so I had no idea.
 Dialogue: 0,0:18:44.03,0:18:47.79,Base,,0,0,0,,As we try these new things,\Nwe need to maintain our old traditions,
 Dialogue: 0,0:18:47.79,0:18:50.87,Base,,0,0,0,,while also entertaining our audience,\Nas we have for centuries.
 Dialogue: 0,0:18:50.87,0:18:55.55,Base,,0,0,0,,Us actors need to have the dedication\Nto fulfilling those expectations.
 Dialogue: 0,0:18:55.55,0:18:56.54,Base,,0,0,0,,Dedication...
-Dialogue: 0,0:18:58.13,0:19:01.29,Base,,0,0,0,,I want to show you\Nmy dedication, Sarasa-chan.
-Dialogue: 0,0:19:01.68,0:19:03.02,Base,,0,0,0,,Akiya-kun...
-Dialogue: 0,0:19:03.89,0:19:06.47,Base,,0,0,0,,Oh, I've gotta head out.
-Dialogue: 0,0:19:07.68,0:19:11.88,Base,,0,0,0,,Sarasa-chan, I'm not scared\Nto go out on stage anymore.
+Dialogue: 0,0:18:58.13,0:19:01.29,Base,,0,0,0,,I want to show you my dedication, Sarasa.
+Dialogue: 0,0:19:01.68,0:19:03.02,Base,,0,0,0,,Akiya...
+Dialogue: 0,0:19:03.89,0:19:05.99,Base,,0,0,0,,Oh, I've gotta head out.
+Dialogue: 0,0:19:07.68,0:19:11.88,Base,,0,0,0,,Sarasa, I'm not scared to go out on stage anymore.
 Dialogue: 0,0:19:14.15,0:19:16.11,Base,,0,0,0,,{\an8}"August Kabuki Series"
 Dialogue: 0,0:19:16.27,0:19:19.90,Base,,0,0,0,,Hey, how are you connected\Nto all this kabuki stuff?
 Dialogue: 0,0:19:19.90,0:19:25.78,Base,,0,0,0,,Oh, when I was six, I got to\Nperform in {\i1}Sukeroku{\i0}, just once.
 Dialogue: 0,0:19:25.78,0:19:27.29,Base,,0,0,0,,Even though you're a girl?
-Dialogue: 0,0:19:27.29,0:19:30.75,Base,,0,0,0,,Little girls are allowed\Nto perform in kabuki.
-Dialogue: 0,0:19:30.75,0:19:33.33,Base,,0,0,0,,I got to walk across\Nthe {\i1}hanamichi {\i0}with Akiya-kun.
+Dialogue: 0,0:19:27.29,0:19:30.75,Base,,0,0,0,,Little girls are allowed to perform in kabuki.
+Dialogue: 0,0:19:30.75,0:19:33.33,Base,,0,0,0,,I got to walk across the platform with Akiya.
 Dialogue: 0,0:19:33.79,0:19:35.11,Base,,0,0,0,,What was it like?
 Dialogue: 0,0:19:35.33,0:19:36.82,Base,,0,0,0,,It was quiet.
-Dialogue: 0,0:19:37.34,0:19:40.80,Base,,0,0,0,,I felt the audience's gaze\Nlike heat on my skin.
+Dialogue: 0,0:19:37.34,0:19:40.80,Base,,0,0,0,,I felt the audience's gaze like heat on my skin.
 Dialogue: 0,0:19:40.80,0:19:42.55,Base,,0,0,0,,We may have been in the same room,
-Dialogue: 0,0:19:42.55,0:19:45.12,Base,,0,0,0,,but up on stage, it was like\Nbeing in a different world.
-Dialogue: 0,0:19:46.18,0:19:50.59,Base,,0,0,0,,I felt as if I'd transformed\Ninto someone else.
+Dialogue: 0,0:19:42.55,0:19:45.12,Base,,0,0,0,,but up on stage, it was like being in a different world.
+Dialogue: 0,0:19:46.18,0:19:50.59,Base,,0,0,0,,I felt as if I'd transformed into someone else.
 Dialogue: 0,0:19:51.14,0:19:54.08,Base,,0,0,0,,But I don't know. I think I'm still...
 Dialogue: 0,0:19:54.69,0:19:56.86,Base,,0,0,0,,I want to go see the play.
 Dialogue: 0,0:19:56.86,0:19:57.55,Base,,0,0,0,,Huh?
 Dialogue: 0,0:19:58.23,0:20:00.22,Base,,0,0,0,,Take me to see the kabuki play.
-Dialogue: 0,0:20:28.01,0:20:30.47,Base,,0,0,0,,Look, it's Sukeroku's {\i1}deha{\i0}!\NI'm so good at it!
-Dialogue: 0,0:20:30.47,0:20:32.67,Base,,0,0,0,,Yes, you sure are.
-Dialogue: 0,0:20:33.06,0:20:37.18,Base,,0,0,0,,When I grow up, I'm gonna be Sukeroku!
-Dialogue: 0,0:20:38.36,0:20:41.43,Base,,0,0,0,,Wow. I wish I could see that.
-Dialogue: 0,0:20:48.70,0:20:53.54,Base,,0,0,0,,I didn't know if her tears were\Nbecause of fond memories
-Dialogue: 0,0:20:53.54,0:20:55.45,Base,,0,0,0,,or something else entirely.
-Dialogue: 0,0:20:56.12,0:21:01.34,Base,,0,0,0,,I just hope she doesn't\Nregret coming tonight.
-Dialogue: 0,0:21:01.92,0:21:04.37,Base,,0,0,0,,Did you have a fun summer break?
+Dialogue: 0,0:20:28.01,0:20:30.47,Flashback,,0,0,0,,Look, it's Sukeroku's 'The Entrance.'\NI'm so good at it!
+Dialogue: 0,0:20:30.47,0:20:32.67,Flashback,,0,0,0,,Yes, you sure are.
+Dialogue: 0,0:20:33.06,0:20:37.18,Flashback,,0,0,0,,When I grow up, I'm gonna be Sukeroku!
+Dialogue: 0,0:20:38.36,0:20:41.43,Flashback,,0,0,0,,Wow. I wish I could see that.
+Dialogue: 0,0:20:48.70,0:20:55.45,Base,,0,0,0,,{\i1}I didn't know if her tears were because of fond memories or something else entirely.{\i0}
+Dialogue: 0,0:20:56.12,0:21:01.34,Base,,0,0,0,,{\i1}I just hope she doesn't regret coming tonight.{\i0}
+Dialogue: 0,0:21:01.92,0:21:03.99,Base,,0,0,0,,Did you have a fun summer break?
 Dialogue: 0,0:21:04.63,0:21:08.50,Base,,0,0,0,,Yeah! Thanks for seeing us off.\NI'll see you soon.
 Dialogue: 0,0:21:08.68,0:21:11.39,Base,,0,0,0,,Winter break isn't that soon, though.
-Dialogue: 0,0:21:11.39,0:21:14.48,Base,,0,0,0,,Are you going to\Ncome with her then, Narata-san?
+Dialogue: 0,0:21:11.39,0:21:14.48,Base,,0,0,0,,Are you going to come with her then, Narata?
 Dialogue: 0,0:21:14.48,0:21:15.13,Base,,0,0,0,,Probably.
 Dialogue: 0,0:21:17.77,0:21:20.42,Base,,0,0,0,,I'm gonna go grab some lunch.
-Dialogue: 0,0:21:25.40,0:21:27.43,Base,,0,0,0,,Sarasa-chan, y'know,
+Dialogue: 0,0:21:25.40,0:21:27.43,Base,,0,0,0,,Sarasa, y'know,
 Dialogue: 0,0:21:27.74,0:21:30.94,Base,,0,0,0,,when you know what you want,\Nall you can do is move towards it.
-Dialogue: 0,0:21:32.12,0:21:35.96,Base,,0,0,0,,We've only just started\Ndown our paths. It's okay.
-Dialogue: 0,0:21:37.96,0:21:40.71,Base,,0,0,0,,Even if we lose sight of\Nwhat we want sometimes.
+Dialogue: 0,0:21:32.12,0:21:35.96,Base,,0,0,0,,We've only just started down our paths. So it's okay.
+Dialogue: 0,0:21:37.96,0:21:40.71,Base,,0,0,0,,Even if we lose sight of what we want sometimes.
 Dialogue: 0,0:21:40.71,0:21:42.09,Base,,0,0,0,,It happens to you, too?
 Dialogue: 0,0:21:42.09,0:21:44.45,Base,,0,0,0,,All the time, even when I was little.
 Dialogue: 0,0:21:44.80,0:21:47.76,Base,,0,0,0,,But I always decide to keep going.
-Dialogue: 0,0:21:47.76,0:21:51.24,Base,,0,0,0,,After all, there's only\None path to follow.
+Dialogue: 0,0:21:47.76,0:21:51.24,Base,,0,0,0,,After all, there's only one path to follow.
 Dialogue: 0,0:21:53.47,0:21:56.42,Base,,0,0,0,,I want to play Lady Oscar.
 Dialogue: 0,0:21:56.60,0:21:57.48,Base,,0,0,0,,Right.
-Dialogue: 0,0:21:57.48,0:22:00.94,Base,,0,0,0,,Please play Sukeroku, Akiya-kun.
-Dialogue: 0,0:22:00.94,0:22:04.32,Base,,0,0,0,,They're shaking hands? Aren't they dating?
+Dialogue: 0,0:21:57.48,0:22:00.94,Base,,0,0,0,,Please play Sukeroku, Akiya.
+Dialogue: 0,0:22:00.94,0:22:04.32,Base,,0,0,0,,{\i1}They're shaking hands? Aren't they dating?{\i0}
 Dialogue: 0,0:22:22.90,0:22:29.86,ED,,0,0,0,,{\fad(200,200)}{\blur9}I'll keep walking on the path that glows white in the darkness
 Dialogue: 0,0:22:29.86,0:22:35.86,ED,,0,0,0,,{\fad(200,200)}{\blur9}A long, narrow path that can only be walked alone
 Dialogue: 0,0:22:35.86,0:22:42.89,ED,,0,0,0,,{\fad(200,200)}{\blur9}I walk forward so that I won't fall behind other people's shadows
